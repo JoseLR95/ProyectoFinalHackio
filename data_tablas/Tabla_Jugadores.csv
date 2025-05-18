@@ -1,0 +1,629 @@
+playerID,Nombre_Jugador,Nombre_Completo_Jugador,Lugar_Nacimiento,Fecha_Nacimiento,Pais_Nacimiento,Edad,Altura,Pie_Dominante,Equipo_Internacional,Partidos_Internacionales,Goles_Internacionales,Pais,Segundo_Pais,Club,clubID,Posicion_Principal,Posicion_Secundaria,Posicion_Terciaria
+10609.0,Jérémy Mathieu,Jérémy Mathieu,Luxeuil-les-Bains,29/10/1983,Francia,41,"1,89",Izquierdo,Francia,5.0,0.0,Francia,,Barcelona,217.0,Lateral izquierdo,Defensa central,Interior izquierdo
+5216.0,Andrés Iniesta,Andrés Iniesta Luján,Fuentealbilla,11/05/1984,España,40,"1,71",Ambidiestro,España,131.0,14.0,España,,Barcelona,217.0,Mediocentro,Mediocentro ofensivo,
+6332.0,Thomas Vermaelen,Thomas Vermaelen,Kapellen,14/11/1985,Bélgica,39,"1,83",Izquierdo,Bélgica,85.0,2.0,Bélgica,,Barcelona,217.0,Defensa central,Lateral izquierdo,
+4324.0,Dani Alves,Daniel Alves da Silva,Juazeiro,06/05/1983,Brasil,41,"1,72",Derecho,Brasil,126.0,8.0,Brasil,España,Barcelona,217.0,Lateral derecho,Interior derecho,Mediocentro
+5213.0,Gerard Piqué,Gerard Piqué Bernabéu,Barcelona,02/02/1987,España,38,"1,94",Derecho,España,102.0,5.0,España,,Barcelona,217.0,Defensa central,,
+5506.0,Javier Mascherano,Javier Alejandro Mascherano,San Lorenzo,08/06/1984,Argentina,40,"1,74",Derecho,Argentina,147.0,3.0,Argentina,Italia,Barcelona,217.0,Pivote,Defensa central,
+11094.0,Arda Turan,Arda Turan,Istanbul,30/01/1987,Turquía,38,"1,77",Derecho,Turquía,100.0,16.0,Turquía,,Barcelona,217.0,Extremo izquierdo,Mediocentro ofensivo,Extremo derecho
+5503.0,Lionel Messi,Lionel Andrés Messi Cuccittini,Rosario,24/06/1987,Argentina,37,"1,70",Izquierdo,Argentina,191.0,112.0,Argentina,España,Barcelona,217.0,Extremo derecho,Delantero centro,Mediapunta
+5470.0,Ivan Rakitic,Ivan Rakitić,Möhlin,10/03/1988,Suiza,37,"1,84",Derecho,Croacia,106.0,15.0,Croacia,Suiza,Barcelona,217.0,Mediocentro,Mediocentro ofensivo,Pivote
+22102.0,Adriano,Adriano Correia Claro,Curitiba,26/10/1984,Brasil,40,"1,72",Ambidiestro,Brasil,17.0,0.0,Brasil,España,Barcelona,217.0,Lateral izquierdo,Lateral derecho,Interior izquierdo
+4691.0,Claudio Bravo,Claudio Andrés Bravo Muñoz,Buin,13/04/1983,Chile,42,"1,84",Derecho,Chile,150.0,0.0,Chile,España,Barcelona,217.0,Portero,,
+5246.0,Luis Suárez,Luis Alberto Suárez Díaz,Salto,24/01/1987,Uruguay,38,"1,82",Derecho,Uruguay,143.0,69.0,Uruguay,,Barcelona,217.0,Delantero centro,Extremo derecho,Extremo izquierdo
+27318.0,Douglas,Douglas Pereira dos Santos,Monte Alegre de Goiás,06/08/1990,Brasil,34,"1,71",Derecho,Brasil Sub-20,12.0,0.0,Brasil,,Barcelona,217.0,Lateral derecho,Interior derecho,Mediocentro
+5203.0,Sergio Busquets,Sergio Busquets i Burgos,Badia del Vallès,16/07/1988,España,36,"1,89",Derecho,España,143.0,2.0,España,,Barcelona,217.0,Pivote,,
+,Jordi Masip,Jordi Masip,Sabadell,03/01/1989,España,36,"1,80",Derecho,España Sub-17,1.0,0.0,España,,,,Portero,,
+,Pedro,Pedro Eliezer Rodríguez Ledesma,Santa Cruz de Tenerife,28/07/1987,España,37,"1,67",Ambidiestro,España,65.0,17.0,España,,,,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+4320.0,Neymar,Neymar da Silva Santos Junior,Mogi das Cruzes,05/02/1992,Brasil,33,"1,75",Derecho,Brasil,128.0,79.0,Brasil,,Barcelona,217.0,Extremo izquierdo,Mediapunta,Mediocentro ofensivo
+5211.0,Jordi Alba,Jordi Alba Ramos,L'Hospitalet de Llobregat,21/03/1989,España,36,"1,70",Izquierdo,España,93.0,10.0,España,,Barcelona,217.0,Lateral izquierdo,Interior izquierdo,
+20055.0,Marc-André ter Stegen,Marc-André ter Stegen,Mönchengladbach,30/04/1992,Alemania,32,"1,87",Derecho,Alemania,42.0,0.0,Alemania,,Barcelona,217.0,Portero,,
+6379.0,Sergi Roberto,Sergi Roberto Carnicer,Reus,07/02/1992,España,33,"1,78",Derecho,España,11.0,1.0,España,,Barcelona,217.0,Mediocentro,Lateral derecho,Pivote
+6400.0,Aleix Vidal,Aleix Vidal Parreu,Valls,21/08/1989,España,35,"1,77",Derecho,España,1.0,0.0,España,,Barcelona,217.0,Extremo derecho,Extremo izquierdo,Lateral derecho
+7068.0,Marc Bartra,Marc Bartra Aregall,Sant Jaume dels Domenys,15/01/1991,España,34,"1,84",Derecho,España,14.0,1.0,España,,Barcelona,217.0,Defensa central,Lateral derecho,
+6998.0,Rafinha,Rafael Alcântara do Nascimento,São Paulo,12/02/1993,Brasil,32,"1,74",Izquierdo,Brasil,2.0,1.0,Brasil,España,Barcelona,217.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+,Juan Cámara,Juan Cámara,Jaén,13/02/1994,España,31,"1,84",Izquierdo,España Sub-17,5.0,0.0,España,,,,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+21229.0,Sergi Samper,Sergi Samper Montaña,Barcelona,20/01/1995,España,30,"1,81",Derecho,España Sub-21,2.0,0.0,España,,Barcelona,217.0,Pivote,Mediocentro,
+3508.0,Sandro Ramírez,Sandro Ramírez Castillo,Las Palmas de Gran Canaria,09/07/1995,España,29,"1,74",Derecho,España Sub-21,7.0,1.0,España,,Barcelona,217.0,Delantero centro,Extremo izquierdo,Extremo derecho
+6616.0,Munir El Haddadi,Munir El Haddadi Mohamed,El Escorial,01/09/1995,España,29,"1,77",Izquierdo,Marruecos,11.0,2.0,Marruecos,España,Barcelona,217.0,Extremo derecho,Delantero centro,Extremo izquierdo
+,Wilfrid Kaptoum,Wilfrid Kaptoum,Douala,07/07/1996,Camerún,28,"1,74",Derecho,Camerún,0.0,0.0,Camerún,,,,Mediocentro,Mediocentro ofensivo,
+6834.0,Gerard Gumbau,Gerard Gumbau Garriga,Campllong,18/12/1994,España,30,"1,88",Izquierdo,,,,España,,Barcelona,217.0,Pivote,Mediocentro,Defensa central
+,Dani Romera,Dani Romera,Almería,23/08/1995,España,29,"1,72",Derecho,,,,España,,,,Delantero centro,Extremo izquierdo,Extremo derecho
+,Carles Aleñá,Carles Aleñá,Mataró,05/01/1998,España,27,"1,80",Izquierdo,España Sub-21,3.0,0.0,España,,,,Mediocentro,Mediocentro ofensivo,Extremo derecho
+,Aitor Cantalapiedra,Aitor Cantalapiedra,Barcelona,10/02/1996,España,29,"1,77",Izquierdo,,,,España,,,,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+5207.0,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,Funchal,05/02/1985,Portugal,40,"1,88",Derecho,Portugal,219.0,136.0,Portugal,,Real Madrid,220.0,Delantero centro,Extremo izquierdo,Extremo derecho
+20016.0,Pepe,Kléper Laveran Lima Ferreira,Maceió,26/02/1983,Brasil,42,"1,87",Derecho,Portugal,141.0,8.0,Portugal,Brasil,Real Madrid,220.0,Defensa central,Pivote,
+5539.0,Casemiro,Carlos Henrique Casimiro,São José dos Campos,23/02/1992,Brasil,33,"1,85",Derecho,Brasil,75.0,7.0,Brasil,España,Real Madrid,220.0,Pivote,Defensa central,Mediocentro
+19677.0,Karim Benzema,Karim Benzema,Lyon,19/12/1987,Francia,37,"1,85",Derecho,Francia,97.0,37.0,Francia,Argelia,Real Madrid,220.0,Delantero centro,,
+5201.0,Sergio Ramos,Sergio Ramos García,Camas,30/03/1986,España,39,"1,84",Derecho,España,180.0,23.0,España,,Real Madrid,220.0,Defensa central,Lateral derecho,
+6706.0,Kiko Casilla,Francisco Casilla Cortés,Alcover,02/10/1986,España,38,"1,91",Derecho,España,1.0,0.0,España,,Real Madrid,220.0,Portero,,
+5463.0,Luka Modrić,Luka Modrić,Zadar,09/09/1985,Yugoslavia (RFSY),39,"1,72",Derecho,Croacia,186.0,27.0,Croacia,,Real Madrid,220.0,Mediocentro,Mediocentro ofensivo,
+20215.0,Álvaro Arbeloa,Álvaro Arbeloa Coca,Salamanca,17/01/1983,España,42,"1,84",Derecho,España,56.0,0.0,España,,Real Madrid,220.0,Lateral derecho,Lateral izquierdo,
+5574.0,Toni Kroos,Toni Kroos,Greifswald,04/01/1990,RDA,35,"1,83",Derecho,Alemania,114.0,17.0,Alemania,,Real Madrid,220.0,Mediocentro,Mediocentro ofensivo,Pivote
+6399.0,Gareth Bale,Gareth Frank Bale,Cardiff,16/07/1989,Gales,35,"1,86",Izquierdo,Gales,111.0,40.0,Gales,,Real Madrid,220.0,Extremo derecho,Extremo izquierdo,Delantero centro
+5552.0,Marcelo,Marcelo Vieira da Silva Júnior,Rio de Janeiro,12/05/1988,Brasil,36,"1,74",Izquierdo,Brasil,58.0,6.0,Brasil,España,Real Madrid,220.0,Lateral izquierdo,,
+5456.0,Mateo Kovacic,Mateo Kovačić,Linz,06/05/1994,Austria,30,"1,77",Derecho,Croacia,110.0,5.0,Croacia,,Real Madrid,220.0,Mediocentro,Mediocentro ofensivo,Pivote
+5202.0,Nacho Fernández,José Ignacio Fernández Iglesias,Madrid,18/01/1990,España,35,"1,80",Derecho,España,29.0,1.0,España,,Real Madrid,220.0,Defensa central,Lateral derecho,Lateral izquierdo
+5597.0,Keylor Navas,Keylor Navas Gamboa,San Isidro de El General,15/12/1986,Costa Rica,38,"1,85",Derecho,Costa Rica,114.0,0.0,Costa Rica,España,Real Madrid,220.0,Portero,,
+4926.0,Isco,Francisco Román Alarcón Suárez,Benalmádena,21/04/1992,España,32,"1,76",Derecho,España,38.0,12.0,España,,Real Madrid,220.0,Mediocentro ofensivo,Mediocentro,Extremo izquierdo
+5695.0,James Rodríguez,James David Rodríguez Rubio,Cúcuta,12/07/1991,Colombia,33,"1,80",Izquierdo,Colombia,114.0,29.0,Colombia,España,Real Madrid,220.0,Mediocentro ofensivo,Extremo derecho,Extremo izquierdo
+5186.0,Denis Cheryshev,Denis Cheryshev,Nizhniy Novgorod,26/12/1990,UdSSR,34,"1,79",Izquierdo,Rusia,33.0,12.0,Rusia,España,Real Madrid,220.0,Extremo izquierdo,Extremo derecho,Mediapunta
+3990.0,Jesé,Jesé Rodríguez Ruiz,Las Palmas de Gran Canaria,26/02/1993,España,32,"1,78",Derecho,España Sub-21,5.0,2.0,España,,Real Madrid,220.0,Extremo izquierdo,Delantero centro,Extremo derecho
+5721.0,Daniel Carvajal,Daniel Carvajal Ramos,Leganés,11/01/1992,España,33,"1,73",Derecho,España,51.0,1.0,España,,Real Madrid,220.0,Lateral derecho,Defensa central,
+3063.0,Danilo,Danilo Luiz da Silva,Bicas,15/07/1991,Brasil,33,"1,84",Derecho,Brasil,65.0,1.0,Brasil,,Real Madrid,220.0,Defensa central,Lateral derecho,Lateral izquierdo
+5485.0,Raphaël Varane,Raphaël Varane,Lille,25/04/1993,Francia,31,"1,91",Derecho,Francia,93.0,5.0,Francia,Martinica,Real Madrid,220.0,Defensa central,,
+,Álex Craninx,Álex Craninx,Málaga,21/10/1995,España,29,"1,97",Derecho,Bélgica Sub-19,3.0,0.0,Bélgica,España,,,Portero,,
+5200.0,Lucas Vázquez,Lucas Vázquez Iglesias,A Coruña,01/07/1991,España,33,"1,73",Derecho,España,9.0,0.0,España,,Real Madrid,220.0,Lateral derecho,Extremo derecho,Extremo izquierdo
+,Philipp Lienhart,Philipp Lienhart,Lilienfeld,11/07/1996,Austria,28,"1,89",Derecho,Austria,30.0,3.0,Austria,,,,Defensa central,Pivote,
+,Rubén Yáñez,Rubén Yáñez,Blanes,12/10/1993,España,31,"1,88",Derecho,España Sub-20,1.0,0.0,España,,,,Portero,,
+,José Carlos Lazo,José Carlos Lazo,Sanlúcar de Barrameda,16/02/1996,España,29,"1,78",Ambidiestro,,,,España,,,,Extremo izquierdo,Extremo derecho,
+6840.0,Marcos Llorente,Marcos Llorente Moreno,Madrid,30/01/1995,España,30,"1,84",Derecho,España,19.0,0.0,España,,Real Madrid,220.0,Interior derecho,Mediocentro,Lateral derecho
+,Álvaro Tejero,Álvaro Tejero,Madrid,20/07/1996,España,28,"1,74",Ambidiestro,,,,España,,,,Lateral derecho,Lateral izquierdo,
+21147.0,Borja Mayoral,Borja Mayoral Moya,Parla,05/04/1997,España,28,"1,82",Derecho,España Sub-21,31.0,16.0,España,,Real Madrid,220.0,Delantero centro,,
+,Martin Ødegaard,Martin Ødegaard,Drammen,17/12/1998,Noruega,26,"1,78",Izquierdo,Noruega,63.0,3.0,Noruega,,,,Mediocentro ofensivo,Extremo derecho,Mediocentro
+6382.0,Fernando Torres,Fernando José Torres Sanz,Fuenlabrada (Madrid),20/03/1984,España,41,"1,86",Derecho,España,110.0,38.0,España,,Atlético Madrid,212.0,Delantero centro,,
+20669.0,Tiago Mendes,Tiago Cardoso Mendes,Viana do Castelo,02/05/1981,Portugal,43,"1,83",Derecho,Portugal,66.0,3.0,Portugal,,Atlético Madrid,212.0,Mediocentro,Pivote,
+6861.0,Juanfran Torres,Juan Torres Ruiz,Crevillente,09/01/1985,España,40,"1,81",Derecho,España,22.0,1.0,España,,Getafe,216.0,Lateral derecho,Interior derecho,
+6320.0,Filipe Luís,Filipe Luís Kasmirski,Jaraguá do Sul,09/08/1985,Brasil,39,"1,82",Izquierdo,Brasil,44.0,2.0,Brasil,Polonia,Atlético Madrid,212.0,Lateral izquierdo,Defensa central,
+6384.0,Gabi,Gabriel Fernández Arenas,Madrid,10/07/1983,España,41,"1,81",Derecho,España Sub-21,12.0,0.0,España,,Atlético Madrid,212.0,Mediocentro,Pivote,
+220761.0,Miguel Ángel Moyá,Miguel Ángel Muñoz Alonso,Binissalem,02/04/1984,España,41,"1,89",Derecho,España Sub-21,12.0,0.0,España,,Getafe,216.0,Portero,,
+4788.0,Jesús Gámez,Jesús Gámez Duarte,Fuengirola,10/04/1985,España,40,"1,77",Derecho,,,,España,,Atlético Madrid,212.0,Lateral derecho,Lateral izquierdo,Defensa central
+6391.0,Raúl García,Raúl García Escudero,Zizur Mayor,11/07/1986,España,38,"1,84",Derecho,España,2.0,0.0,España,,Atlético Madrid,212.0,Mediocentro ofensivo,Mediocentro,Delantero centro
+19668.0,Augusto Fernández,Augusto Matías Fernández,Pergamino,10/04/1986,Argentina,39,"1,77",Derecho,Argentina,16.0,1.0,Argentina,Italia,Celta Vigo,209.0,Mediocentro,Pivote,Interior derecho
+26780.0,Guilherme Siqueira,Guilherme Magdalena Siqueira,Florianópolis,28/04/1986,Brasil,38,"1,82",Izquierdo,,,,Brasil,Italia,Atlético Madrid,212.0,Lateral izquierdo,,
+5249.0,Diego Godín,Diego Roberto Godín Leal,Rosario,16/02/1986,Uruguay,39,"1,87",Derecho,Uruguay,161.0,8.0,Uruguay,España,Atlético Madrid,212.0,Defensa central,,
+5199.0,Koke,Jorge Resurrección Merodio,Madrid,08/01/1992,España,33,"1,76",Derecho,España,70.0,0.0,España,,Atlético Madrid,212.0,Mediocentro,Pivote,
+17622.0,Jackson Martínez,Jackson Arley Martínez Valencia,Quibdó,03/10/1986,Colombia,38,"1,85",Derecho,Colombia,40.0,8.0,Colombia,,Atlético Madrid,212.0,Delantero centro,,
+6376.0,Stefan Savic,Stefan Savić,Mojkovac,08/01/1991,Yugoslavia (RFSY),34,"1,87",Derecho,Montenegro,74.0,9.0,Montenegro,Serbia,Atlético Madrid,212.0,Defensa central,,
+6378.0,Jan Oblak,Jan Oblak,Škofja Loka,07/01/1993,Eslovenia,32,"1,88",Derecho,Eslovenia,76.0,0.0,Eslovenia,,Atlético Madrid,212.0,Portero,,
+5487.0,Antoine Griezmann,Antoine Griezmann,Mâcon,21/03/1991,Francia,34,"1,76",Izquierdo,Francia,137.0,44.0,Francia,,Atlético Madrid,212.0,Delantero centro,Mediapunta,Extremo izquierdo
+5633.0,Yannick Carrasco,Yannick Ferreira Carrasco,Ixelles,04/09/1993,Bélgica,31,"1,81",Derecho,Bélgica,78.0,11.0,Bélgica,España,Atlético Madrid,212.0,Extremo izquierdo,Interior izquierdo,Extremo derecho
+6381.0,Saúl Ñíguez,Saúl Ñíguez Esclapez,Elche,21/11/1994,España,30,"1,84",Izquierdo,España,19.0,3.0,España,,Atlético Madrid,212.0,Mediocentro,Interior izquierdo,Pivote
+6744.0,Luciano Vietto,Luciano Vietto,Balnearía,05/12/1993,Argentina,31,"1,73",Derecho,Argentina Sub-20,4.0,2.0,Argentina,Italia,Atlético Madrid,212.0,Delantero centro,Mediapunta,Extremo izquierdo
+12021.0,Óliver Torres,Óliver Torres Muñoz,Navalmoral de la Mata,10/11/1994,España,30,"1,75",Derecho,España Sub-21,24.0,3.0,España,,Atlético Madrid,212.0,Mediocentro,Mediocentro ofensivo,Extremo izquierdo
+6383.0,Thomas Partey,Thomas Teye Partey,Odumase Krobo,13/06/1993,Ghana,31,"1,85",Derecho,Ghana,51.0,14.0,Ghana,,Atlético Madrid,212.0,Pivote,Mediocentro,Lateral derecho
+18904.0,Matías Kranevitter,Claudio Matías Kranevitter,Yerba Buena,21/05/1993,Argentina,31,"1,79",Derecho,Argentina,9.0,0.0,Argentina,Italia,Atlético Madrid,212.0,Pivote,Mediocentro,Defensa central
+5259.0,José María Giménez,José María Giménez de Vargas,Toledo,20/01/1995,Uruguay,30,"1,85",Derecho,Uruguay,94.0,8.0,Uruguay,España,Atlético Madrid,212.0,Defensa central,,
+23974.0,Roberto Núñez,Roberto Antonio Correa Silva,Talavera de la Reina,03/01/1996,España,29,"1,82",Derecho,España Sub-18,3.0,0.0,España,,Espanyol,214.0,Delantero centro,,
+6377.0,Ángel Correa,Ángel Martín Correa,Rosario,09/03/1995,Argentina,30,"1,71",Derecho,Argentina,27.0,3.0,Argentina,España,Atlético Madrid,212.0,Extremo derecho,Mediapunta,Delantero centro
+,Samuel Villa,Samuel Villa,Leganés,16/09/1994,España,30,"1,76",Derecho,,,,España,,,,Extremo derecho,Extremo izquierdo,
+5484.0,Lucas Hernández,Lucas Hernández Pi,Marseille,14/02/1996,Francia,29,"1,84",Izquierdo,Francia,37.0,0.0,Francia,España,Atlético Madrid,212.0,Lateral izquierdo,Defensa central,
+21877.0,Nacho Monsalve,Ignacio Monsalve Vicente,Madrid,27/04/1994,España,30,"1,88",Ambidiestro,,,,España,,Atlético Madrid,212.0,Defensa central,Lateral derecho,Lateral izquierdo
+8803.0,Theo Hernández,Daniel Giménez Hernández,Marseille,06/10/1997,Francia,27,"1,84",Izquierdo,Francia,36.0,2.0,Francia,España,Real Betis,218.0,Lateral izquierdo,Interior izquierdo,Defensa central
+6566.0,Borja González,Borja González Tomás,Pinto,17/11/1995,España,29,"1,76",Derecho,,,,España,,Eibar,322.0,Lateral derecho,Lateral izquierdo,
+6827.0,Daniele Bonera,Daniele Bonera,Brescia,31/05/1981,Italia,43,"1,83",Derecho,Italia,16.0,0.0,Italia,,Villarreal,222.0,Defensa central,Lateral derecho,Lateral izquierdo
+5588.0,Antonio Rukavina,Antonio Rukavina,Belgrade,26/01/1984,Yugoslavia (RFSY),41,indeterminado,indeterminado,Serbia,59.0,0.0,Serbia,,Villarreal,222.0,Lateral derecho,Lateral izquierdo,Interior derecho
+6860.0,Mariano Barbosa,Mariano Damián Barbosa,Lanús,27/07/1984,Argentina,40,"1,88",Derecho,Argentina Sub-20,1.0,0.0,Argentina,Italia,Villarreal,222.0,Portero,,
+26009.0,Roberto Soldado,Roberto Soldado Rillo,Valencia,27/05/1985,España,39,"1,80",Derecho,España,12.0,7.0,España,,Villarreal,222.0,Delantero centro,,
+27155.0,Bojan Jokic,Bojan Jokić,Kranj,17/05/1986,Yugoslavia (RFSY),38,"1,76",Izquierdo,Eslovenia,100.0,1.0,Eslovenia,,Villarreal,222.0,Lateral izquierdo,Interior izquierdo,Defensa central
+22819.0,Bruno Soriano,Bruno Soriano Llido,Artana,12/06/1984,España,40,"1,84",Izquierdo,España,10.0,0.0,España,,Villarreal,222.0,Pivote,Mediocentro,Defensa central
+6735.0,Adrián López,Adrián López Álvarez,San Martín de Teverga,08/01/1988,España,37,"1,83",Derecho,España,2.0,1.0,España,,Villarreal,222.0,Delantero centro,Extremo izquierdo,Extremo derecho
+7034.0,Mateo Musacchio,Mateo Pablo Musacchio,Rosario,26/08/1990,Argentina,34,"1,82",Derecho,Argentina,6.0,0.0,Argentina,Italia,Villarreal,222.0,Defensa central,,
+6755.0,Sergio Asenjo,Sergio Asenjo Andrés,Palencia,28/06/1989,España,35,"1,89",Derecho,España,1.0,0.0,España,,Villarreal,222.0,Portero,,
+6357.0,Jonathan dos Santos,Jonathan dos Santos Ramírez,Monterrey,26/04/1990,México,34,"1,72",Derecho,México,58.0,5.0,México,España,Villarreal,222.0,Pivote,Mediocentro,
+6752.0,Víctor Ruiz,Víctor Ruíz Torre,Esplugues de Llobregat,25/01/1989,España,36,"1,84",Izquierdo,España Sub-23,1.0,0.0,España,,Villarreal,222.0,Defensa central,,
+6828.0,Jaume Costa,Jaume Vicent Costa Jordá,Valencia,18/03/1988,España,37,"1,71",Izquierdo,,,,España,,Villarreal,222.0,Lateral izquierdo,,
+6772.0,Mario Gaspar,Mario Gaspar Pérez Martínez,Novelda,24/11/1990,España,34,"1,80",Derecho,España,3.0,2.0,España,,Villarreal,222.0,Defensa central,Lateral derecho,
+3379.0,Alphonse Areola,Alphonse Areola,Paris,27/02/1993,Francia,32,"1,95",Derecho,Francia,5.0,0.0,Francia,Filipinas,Villarreal,222.0,Portero,,
+6862.0,Cédric Bakambu,Cédric Bakambu,Ivry-sur-Seine,11/04/1991,Francia,34,"1,82",Derecho,República Democrática del Congo,54.0,16.0,RD del Congo,Francia,Villarreal,222.0,Delantero centro,Extremo izquierdo,Extremo derecho
+6622.0,Tomás Pina,Tomás Pina Isla,Ciudad Real,14/10/1987,España,37,"1,85",Derecho,,,,España,,Villarreal,222.0,Mediocentro,Pivote,
+6609.0,Denis Suárez,Denis Suárez Fernández,Salceda de Caselas,06/01/1994,España,31,"1,76",Derecho,España,1.0,0.0,España,,Villarreal,222.0,Mediocentro ofensivo,Extremo izquierdo,Mediocentro
+6801.0,Pablo Iñiguez,Pedro Pablo Hernández,Valencia,20/01/1994,España,31,"1,83",Derecho,España Sub-21,1.0,0.0,España,,Celta Vigo,209.0,Defensa central,,
+6771.0,Manu Trigueros,Manuel Trigueros Muñoz,Talavera de la Reina ,17/10/1991,España,33,"1,78",Derecho,,,,España,,Villarreal,222.0,Mediocentro,Mediocentro ofensivo,
+6829.0,Samu Castillejo,Samuel Castillejo Azuaga,Málaga,18/01/1995,España,30,"1,82",Izquierdo,España Sub-21,4.0,0.0,España,,Villarreal,222.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+6784.0,Samu García,Antonio García Aranda,Málaga,13/07/1990,España,34,"1,77",Derecho,,,,España,,Levante UD,221.0,Extremo derecho,Delantero centro,Mediapunta
+6761.0,Léo Baptistão,Leonardo Carrilho Baptistão,Santos,26/08/1992,Brasil,32,"1,83",Derecho,,,,Brasil,España,Villarreal,222.0,Delantero centro,Extremo derecho,Mediapunta
+18867.0,Matías Nahuel,Matías Nahuel Leiva Esquivel,Rosario,22/11/1996,Argentina,28,"1,72",Derecho,España Sub-21,2.0,0.0,España,Argentina,Villarreal,222.0,Extremo izquierdo,Mediocentro ofensivo,Extremo derecho
+3324.0,Eric Bailly,Eric Bertrand Bailly,Bingerville,12/04/1994,Costa de Marfil,31,"1,87",Derecho,Costa de Marfil,49.0,2.0,Costa de Marfil,,Villarreal,222.0,Defensa central,,
+6935.0,Adrián Marín,Adrián Marín Gómez,Torre-Pacheco,09/01/1997,España,28,"1,81",Izquierdo,España Sub-21,1.0,0.0,España,,Villarreal,222.0,Lateral izquierdo,,
+6737.0,Alfonso Pedraza,Alfonso Pedraza Sag,San Sebastián de los Ballesteros,09/04/1996,España,29,"1,84",Izquierdo,España,1.0,0.0,España,,Villarreal,222.0,Lateral izquierdo,Extremo izquierdo,
+6765.0,Rodri,Rodrigo Hernández Cascante,Madrid,22/06/1996,España,28,"1,91",Derecho,España,57.0,4.0,España,,Villarreal,222.0,Pivote,Mediocentro,Defensa central
+,Miguel Llambrich,Miguel Llambrich,Benidorm,18/01/1996,España,29,"1,70",Derecho,,,,España,,,,Lateral derecho,,
+26087.0,Carlos Gurpegui,Carlos Gurpegi Nausia,Pamplona,19/08/1980,España,44,"1,81",Derecho,,,,España,,Athletic Club,215.0,Defensa central,Pivote,Lateral derecho
+6576.0,Gorka Iraizoz,Gorka Iraizoz Moreno,Pamplona,06/03/1981,España,44,"1,91",Derecho,,,,España,,Athletic Club,215.0,Portero,,
+6394.0,Aritz Aduriz,Aritz Aduriz Zubeldia,Donostia-San Sebastián,11/02/1981,España,44,"1,81",Derecho,España,13.0,2.0,España,,Athletic Club,215.0,Delantero centro,,
+6396.0,Beñat Etxebarria,Beñat Etxebarria Urkiaga,Igorre,19/02/1987,España,38,"1,76",Derecho,España,4.0,0.0,España,,Athletic Club,215.0,Mediocentro,Pivote,Mediocentro ofensivo
+12191.0,Gorka Elustondo,Gorka Elustondo Urkola,Beasain,18/03/1987,España,38,"1,84",Derecho,España Sub-20,2.0,0.0,España,,Athletic Club,215.0,Pivote,Defensa central,
+6656.0,Mikel Rico,Mikel Rico Moreno,Basauri,04/11/1984,España,40,"1,78",Derecho,,,,España,,Athletic Club,215.0,Mediocentro,Pivote,Mediocentro ofensivo
+26518.0,Kike Sola,Enrique Sola Clemente,Cascante,25/02/1986,España,39,"1,84",Derecho,España Sub-21,1.0,0.0,España,,Athletic Club,215.0,Delantero centro,,
+6389.0,Mikel San José,Mikel San José Domínguez,Pamplona,30/05/1989,España,35,"1,87",Derecho,España,7.0,0.0,España,,Athletic Club,215.0,Pivote,Defensa central,
+6842.0,Iker Muniain,Iker Muniain Goñi,Pamplona,19/12/1992,España,32,"1,69",Derecho,España,2.0,0.0,España,,Athletic Club,215.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+6390.0,Markel Susaeta,Markel Susaeta Laskurain,Eibar,14/12/1987,España,37,"1,79",Derecho,España,1.0,1.0,España,,Athletic Club,215.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+23833.0,Borja Viguera,Borja Viguera Manzanares,Logroño,26/03/1987,España,38,"1,84",Derecho,,,,España,,Athletic Club,215.0,Delantero centro,,
+6788.0,Xabi Etxeita,Xabier Etxeita Gorritxategi,Amorebieta-Etxano,31/10/1987,España,37,"1,86",Derecho,España,1.0,0.0,España,,Athletic Club,215.0,Defensa central,,
+6662.0,Iago Herrerín,Iago Herrerín Buisán,Bilbao,25/01/1988,España,37,"1,87",Derecho,,,,España,,Athletic Club,215.0,Portero,,
+6388.0,Ander Iturraspe,Ander Iturraspe Derteano,Abadiño,08/03/1989,España,36,"1,87",Derecho,España,2.0,0.0,España,,Athletic Club,215.0,Pivote,Mediocentro,
+6789.0,Mikel Balenziaga,Mikel Balenziaga Oruesagasti,Zumarraga,29/02/1988,España,37,"1,77",Izquierdo,España Sub-21,1.0,0.0,España,,Athletic Club,215.0,Lateral izquierdo,,
+,Enric Saborit,Enric Saborit,Mataró,27/04/1992,España,32,"1,87",Izquierdo,España Sub-19,2.0,0.0,España,,,,Defensa central,Lateral izquierdo,
+6386.0,Eneko Bóveda,Eneko Bóveda Altube,Bilbao,14/12/1988,España,36,"1,82",Derecho,,,,España,,Athletic Club,215.0,Lateral derecho,Defensa central,
+6649.0,Óscar de Marcos,Óscar de Marcos Arana,Laguardia,14/04/1989,España,36,"1,82",Derecho,España,0.0,0.0,España,,Athletic Club,215.0,Lateral derecho,,
+6617.0,Ibai Gómez,Ibai Gómez Pérez,Bilbao,11/11/1989,España,35,"1,78",Derecho,,,,España,,Athletic Club,215.0,Extremo izquierdo,Extremo derecho,
+6606.0,Javi Eraso,Javier Eraso Goñi,Pamplona,22/03/1990,España,35,"1,80",Derecho,,,,España,,Athletic Club,215.0,Mediocentro,Mediocentro ofensivo,Pivote
+6845.0,Ager Aketxe,Ager Aketxe Barrutia,Bilbao,30/12/1993,España,31,"1,74",Izquierdo,España Sub-20,2.0,0.0,España,,Athletic Club,215.0,Extremo derecho,Mediocentro ofensivo,
+4353.0,Aymeric Laporte,Aymeric Laporte,Agen,27/05/1994,Francia,30,"1,91",Izquierdo,España,40.0,2.0,España,Francia,Athletic Club,215.0,Defensa central,,
+6666.0,Sabin Merino,Sabin Merino Zuloaga,Urduliz,04/01/1992,España,33,"1,87",Derecho,,,,España,,Athletic Club,215.0,Delantero centro,Extremo izquierdo,Extremo derecho
+,Álex Remiro,Álex Remiro,Cascante,24/03/1995,España,30,"1,91",Derecho,España,2.0,0.0,España,,,,Portero,,
+6884.0,Yeray Álvarez,Sergio Álvarez Conde,Barakaldo,24/01/1995,España,30,"1,82",Derecho,España,0.0,0.0,España,,Celta Vigo,209.0,Defensa central,,
+6392.0,Iñigo Lekue,Íñigo Lekue Martínez,Bilbao,04/05/1993,España,31,"1,80",Derecho,España,0.0,0.0,España,,Athletic Club,215.0,Lateral derecho,Lateral izquierdo,
+6393.0,Iñaki Williams,Iñaki Williams Arthuer,Bilbao,15/06/1994,España,30,"1,86",Derecho,Ghana,22.0,2.0,Ghana,España,Athletic Club,215.0,Extremo derecho,Delantero centro,Extremo izquierdo
+27052.0,Levy Madinda,Lévy Clément Madinda,Libreville,11/06/1992,Gabón,32,"1,82",Derecho,Gabón,56.0,6.0,Gabón,,Celta Vigo,209.0,Mediocentro ofensivo,Mediocentro,Pivote
+6794.0,Gustavo Cabral,Gustavo Daniel Cabral Cáceres,Isidro Casanova,14/10/1985,Argentina,39,"1,82",Derecho,Argentina,0.0,0.0,Argentina,España,Celta Vigo,209.0,Defensa central,,
+13107.0,Sergio Álvarez,Sergio Álvarez Díaz,Vilagarcía de Arousa,03/08/1986,España,38,"1,79",Derecho,,,,España,,Sporting Gijón,1041.0,Portero,,
+6600.0,Claudio Beauvue,Claudio Beauvue,Saint-Claude,16/04/1988,Guadalupe,37,"1,75",Derecho,Guadalupe,3.0,1.0,Guadalupe,Francia,Celta Vigo,209.0,Delantero centro,Extremo derecho,Extremo izquierdo
+7105.0,Fabián Orellana,Fabián Ariel Orellana Valenzuela,San Joaquín,27/01/1986,Chile,39,"1,68",Derecho,Chile,44.0,2.0,Chile,España,Celta Vigo,209.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+6797.0,Daniel Wass,Daniel Wass,Gladsaxe,31/05/1989,Dinamarca,35,"1,78",Derecho,Dinamarca,44.0,1.0,Dinamarca,,Celta Vigo,209.0,Mediocentro,,
+6890.0,Andreu Fontàs,Andreu Fontàs Prat,Banyoles,14/11/1989,España,35,"1,86",Izquierdo,España Sub-21,4.0,0.0,España,,Celta Vigo,209.0,Defensa central,Pivote,
+7577.0,Carles Planas,Carles Planas Antolínez,Sant Celoni,04/03/1991,España,34,"1,75",Izquierdo,España Sub-21,10.0,0.0,España,,Celta Vigo,209.0,Lateral izquierdo,Defensa central,
+6724.0,Nolito,Manuel Agudo Durán,Sanlúcar de Barrameda,15/10/1986,España,38,"1,75",Derecho,España,16.0,6.0,España,,Celta Vigo,209.0,Extremo izquierdo,Interior izquierdo,
+5217.0,Iago Aspas,Iago Aspas Juncal,Moaña,01/08/1987,España,37,"1,76",Izquierdo,España,20.0,6.0,España,,Celta Vigo,209.0,Delantero centro,Extremo derecho,
+27341.0,Marcelo Díaz,Marcelo Alfonso Díaz Rojas,Padre Hurtado,30/12/1986,Chile,38,"1,67",Derecho,Chile,62.0,1.0,Chile,,Celta Vigo,209.0,Pivote,Mediocentro,
+4711.0,Pablo Hernández,Pablo Hernández Domínguez,San Miguel de Tucumán,24/10/1986,Argentina,38,"1,84",Izquierdo,Chile,30.0,3.0,Chile,Argentina,Rayo Vallecano,360.0,Mediocentro,Mediocentro ofensivo,
+6804.0,Sergi Gómez,Sergi Gómez Solà,Arenys de Mar,28/03/1992,España,33,"1,85",Derecho,España,0.0,0.0,España,,Celta Vigo,209.0,Defensa central,Lateral derecho,
+6038.0,John Guidetti,John Guidetti,Stockholm,15/04/1992,Suecia,33,"1,85",Derecho,Suecia,28.0,3.0,Suecia,,Celta Vigo,209.0,Delantero centro,,
+6805.0,Hugo Mallo,Hugo Mallo Novegil,Marín,22/06/1991,España,33,"1,73",Derecho,España Sub-21,3.0,0.0,España,,Celta Vigo,209.0,Lateral derecho,,
+27342.0,Josep Señé,Josep Señé Escudero,Sant Cugat del Vallès,10/12/1991,España,33,"1,84",Derecho,,,,España,,Celta Vigo,209.0,Mediocentro ofensivo,Mediocentro,
+6796.0,Nemanja Radoja,Nemanja Radoja,Novi Sad,06/02/1993,Yugoslavia (República Federal),32,"1,86",Derecho,Serbia,2.0,0.0,Serbia,,Celta Vigo,209.0,Pivote,Mediocentro,
+6802.0,Jonny Otto,Jonathan Castro Otto,Vigo,03/03/1994,España,31,"1,75",Ambidiestro,España,3.0,0.0,España,,Celta Vigo,209.0,Lateral derecho,Lateral izquierdo,Defensa central
+6795.0,Rubén Blanco,Rubén Blanco Veiga,Mos,25/07/1995,España,29,"1,88",Derecho,España Sub-21,2.0,0.0,España,,Celta Vigo,209.0,Portero,,
+79615.0,Néstor Díaz,Néstor Díaz García,Sabadell,26/06/1992,España,32,"1,83",Derecho,,,,España,,Celta Vigo,209.0,Portero,,
+13552.0,Borja Fernández,Borja Fernández Fernández,Vigo,16/08/1995,España,29,"1,78",Derecho,España Sub-19,0.0,0.0,España,,Celta Vigo,209.0,Mediocentro,,
+75537.0,David Goldar,David Goldar Gómez,Portas,15/09/1994,España,30,"1,84",Derecho,,,,España,,Celta Vigo,209.0,Defensa central,,
+,Borja Iglesias,Borja Iglesias,Santiago de Compostela,17/01/1993,España,32,"1,87",Derecho,España,2.0,0.0,España,,,,Delantero centro,,
+23785.0,Théo Bongonda,Théo Bongonda Mbul''Ofeko Batombo,Charleroi,20/11/1995,Bélgica,29,"1,75",Izquierdo,República Democrática del Congo,26.0,4.0,RD del Congo,Bélgica,Celta Vigo,209.0,Extremo derecho,Extremo izquierdo,Mediapunta
+27340.0,Dejan Drazic,Dejan Dražić,Sombor,26/09/1995,Yugoslavia (República Federal),29,"1,78",Derecho,Serbia U21,1.0,0.0,Serbia,,Celta Vigo,209.0,Extremo izquierdo,Mediocentro ofensivo,Extremo derecho
+4558.0,Pape Cheikh,Pape Cheikh Diop Gueye,Guédiawaye,08/08/1997,Senegal,27,"1,80",Derecho,Senegal,3.0,0.0,Senegal,España,Celta Vigo,209.0,Mediocentro,Pivote,
+34728.0,Diego Alende,Diego Alende López,Santiago de Compostela,25/08/1997,España,27,"1,83",,España Sub-19,4.0,0.0,España,,Celta Vigo,209.0,Defensa central,Lateral derecho,Lateral izquierdo
+23816.0,José Antonio Reyes,José Antonio Reyes Calderón,Utrera,01/09/1983,España,0,"1,76",Izquierdo,España,21.0,4.0,España,,Sevilla,213.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+5504.0,Éver Banega,Éver Maximiliano David Banega,Rosario,29/06/1988,Argentina,36,"1,74",Derecho,Argentina,65.0,6.0,Argentina,España,Sevilla,213.0,Mediocentro,Mediocentro ofensivo,Pivote
+6356.0,Michael Krohn-Dehli,Michael Krohn-Dehli,Hvidovre,06/06/1983,Dinamarca,41,"1,71",Ambidiestro,Dinamarca,59.0,6.0,Dinamarca,,Sevilla,213.0,Mediocentro,Mediocentro ofensivo,Interior izquierdo
+6401.0,Kévin Gameiro,Kevin Gameiro,Senlis,09/05/1987,Francia,37,"1,72",Derecho,Francia,13.0,3.0,Francia,,Sevilla,213.0,Delantero centro,Mediapunta,
+27111.0,Beto,António Alberto Bastos Pimparel,Loures,01/05/1982,Portugal,42,"1,82",Derecho,Portugal,16.0,0.0,Portugal,,Sevilla,213.0,Portero,,
+3486.0,Fernando Llorente,Fernando Llorente Torres,Pamplona,26/02/1985,España,40,"1,95",Derecho,España,24.0,7.0,España,,Sevilla,213.0,Delantero centro,,
+7948.0,Marco Andreolli,Marco Andreolli,Ponte dell`Olio,10/06/1986,Italia,38,"1,87",Derecho,Italia Sub-21,22.0,0.0,Italia,,Sevilla,213.0,Defensa central,,
+6825.0,Daniel Carriço,Daniel Filipe Martins Carriço,Cascais,04/08/1988,Portugal,36,"1,83",Derecho,Portugal,1.0,0.0,Portugal,,Sevilla,213.0,Defensa central,Pivote,
+7909.0,Nicolás Pareja,Nicolás Martín Pareja,Buenos Aires,19/01/1984,Argentina,41,"1,81",Derecho,Argentina,1.0,0.0,Argentina,Italia,Sevilla,213.0,Defensa central,,
+27483.0,Benoît Trémoulinas,Benoît Trémoulinas,Lormont,28/12/1985,Francia,39,"1,73",Izquierdo,Francia,5.0,0.0,Francia,,Sevilla,213.0,Lateral izquierdo,Interior izquierdo,
+3637.0,Grzegorz Krychowiak,Grzegorz Krychowiak,Gryfice,29/01/1990,Polonia,35,"1,87",Derecho,Polonia,100.0,5.0,Polonia,,Sevilla,213.0,Pivote,Mediocentro,Mediocentro ofensivo
+6349.0,Federico Fazio,Federico Julián Fazio,Buenos Aires,17/03/1987,Argentina,38,"1,95",Derecho,Argentina,10.0,1.0,Argentina,Italia,Sevilla,213.0,Defensa central,,
+3253.0,Adil Rami,Adil Rami,Bastia,27/12/1985,Francia,39,"1,91",Derecho,Francia,36.0,1.0,Francia,Marruecos,Sevilla,213.0,Defensa central,,
+21210.0,Mariano,Mariano Ferreira Filho,São João,23/06/1986,Brasil,38,"1,77",Derecho,Brasil,0.0,0.0,Brasil,,Sevilla,213.0,Lateral derecho,Defensa central,
+8523.0,Yevgen Konoplyanka,Yevhen Konoplyanka,Kirovograd,29/09/1989,UdSSR,35,"1,76",Derecho,Ucrania,87.0,21.0,Ucrania,,Sevilla,213.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+3497.0,Vicente Iborra,Vicente Iborra De La Fuente,Moncada,16/01/1988,España,37,"1,90",Derecho,,,,España,,Sevilla,213.0,Pivote,Defensa central,Mediocentro
+6841.0,Vitolo,Víctor Machín Pérez,Las Palmas de Gran Canaria,02/11/1989,España,35,"1,84",Derecho,España,12.0,4.0,España,,Sevilla,213.0,Extremo izquierdo,Extremo derecho,
+6672.0,Coke,Jorge Andújar Moreno,Madrid,26/04/1987,España,37,"1,76",Derecho,España Sub-16,1.0,0.0,España,,Sevilla,213.0,Lateral derecho,Defensa central,
+5737.0,Steven Nzonzi,Steven N''Kemboanza Mike Christopher Nzonzi,Colombes,15/12/1988,Francia,36,"1,96",Derecho,Francia,20.0,0.0,Francia,RD del Congo,Sevilla,213.0,Pivote,Mediocentro,
+3130.0,Gaël Kakuta,Gaël Kakuta,Lille,21/06/1991,Francia,33,"1,73",Izquierdo,República Democrática del Congo,27.0,3.0,RD del Congo,Francia,Sevilla,213.0,Mediocentro ofensivo,Extremo derecho,Extremo izquierdo
+10476.0,Timothée Kolodziejczak,Timothée Kolodziejczak,Avion,01/10/1991,Francia,33,"1,83",Izquierdo,Francia Sub-23,1.0,0.0,Francia,Polonia,Sevilla,213.0,Defensa central,Lateral izquierdo,
+6718.0,Sergio Escudero,Sergio Escudero Palomo,Valladolid,02/09/1989,España,35,"1,76",Izquierdo,España,0.0,0.0,España,,Sevilla,213.0,Lateral izquierdo,,
+7788.0,Ciro Immobile,Ciro Immobile,Torre Annunziata,20/02/1990,Italia,35,"1,85",Derecho,Italia,57.0,17.0,Italia,,Sevilla,213.0,Delantero centro,,
+10881.0,Diogo Figueiras,Diogo José Rosário Gomes Figueiras,Castanheira do Ribatejo,01/07/1991,Portugal,33,"1,69",Derecho,Portugal Sub-20,1.0,0.0,Portugal,,Sevilla,213.0,Lateral derecho,Lateral izquierdo,Interior derecho
+7154.0,Sebastián Cristóforo,Sebastián Carlos Cristóforo Pepe,Montevideo,23/08/1993,Uruguay,31,"1,75",Derecho,Uruguay Sub-23,1.0,0.0,Uruguay,Italia,Sevilla,213.0,Mediocentro,Pivote,
+23936.0,Antonio Cotán,Antonio Jesús Cotán Pérez,Sevilla,19/09/1995,España,29,"1,75",Derecho,España Sub-19,4.0,0.0,España,,Sevilla,213.0,Mediocentro,Mediocentro ofensivo,
+6823.0,Sergio Rico,Sergio Rico González,Sevilla,01/09/1993,España,31,"1,96",Derecho,España,1.0,0.0,España,,Sevilla,213.0,Portero,,
+30454.0,Luismi Sánchez,Francisco José Sánchez Rodríguez,Puerto Serrano,05/05/1992,España,32,"1,79",Derecho,,,,España,,Sevilla,213.0,Pivote,Defensa central,Mediocentro
+,Curro Sánchez,Curro Sánchez,La Palma del Condado,03/01/1996,España,29,"1,76",Izquierdo,España Sub-19,5.0,2.0,España,,,,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+8866.0,Carlos Fernández,Carlos Fernández Luna,Castilleja de Guzmán,22/05/1996,España,28,"1,85",Izquierdo,España Sub-21,3.0,0.0,España,,Sevilla,213.0,Delantero centro,Extremo derecho,Mediapunta
+,David Soria,David Soria,Madrid,04/04/1993,España,32,"1,92",Derecho,,,,España,,,,Portero,,
+24711.0,David Carmona,David Carmona Sierra,Palma del Río,11/01/1997,España,28,"1,76",Derecho,España Sub-21,2.0,0.0,España,,Sevilla,213.0,Lateral derecho,Extremo derecho,
+,Borja Lasso,Borja Lasso,Sevilla,01/01/1994,España,31,"1,78",Derecho,,,,España,,,,Mediocentro ofensivo,Extremo izquierdo,
+23972.0,José Matos,José Joaquín Matos García,Sevilla,06/05/1995,España,29,"1,68",Izquierdo,,,,España,,Sevilla,213.0,Lateral izquierdo,Extremo izquierdo,
+23802.0,Juan Muñoz,Juan Muñoz Muñoz,Utrera,12/11/1995,España,29,"1,80",Derecho,España Sub-19,1.0,0.0,España,,Sevilla,213.0,Delantero centro,Mediocentro ofensivo,
+6791.0,Ivi López,Javier López Rodríguez,Madrid,29/06/1994,España,30,"1,74",Derecho,,,,España,,Espanyol,214.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+6749.0,Diego González,Diego González Polanco,Chiclana de la Frontera (Cádiz),28/01/1995,España,30,"1,85",Izquierdo,España Sub-21,5.0,1.0,España,,Sevilla,213.0,Defensa central,Lateral izquierdo,
+26783.0,Roque Santa Cruz,Roque Luis Santa Cruz Cantero,Asunción,16/08/1981,Paraguay,43,"1,93",Derecho,Paraguay,112.0,32.0,Paraguay,España,Málaga,223.0,Delantero centro,,
+25859.0,Duda,Sérgio Paulo Barbosa Valente,Porto,27/06/1980,Portugal,44,"1,75",Izquierdo,Portugal,18.0,1.0,Portugal,,Málaga,223.0,Interior izquierdo,Mediocentro ofensivo,Lateral izquierdo
+26103.0,Carlos Kameni,Idriss Carlos Kameni,Douala,18/02/1984,Camerún,41,"1,86",Derecho,Camerún,74.0,0.0,Camerún,Francia,Málaga,223.0,Portero,,
+27335.0,Arthur Boka,Arthur Etienne Boka,Abidjan,02/04/1983,Costa de Marfil,42,"1,66",Izquierdo,Costa de Marfil,85.0,1.0,Costa de Marfil,,Málaga,223.0,Lateral izquierdo,Pivote,Interior izquierdo
+26669.0,Weligton,Weligton Róbson Pena de Oliveira,Fernandópolis,26/08/1979,Brasil,45,"1,86",Izquierdo,,,,Brasil,,Málaga,223.0,Defensa central,,
+27184.0,Marcos Angeleri,Marcos Alberto Angeleri,Treinta de Agosto,07/04/1983,Argentina,42,"1,83",Derecho,Argentina,4.0,0.0,Argentina,Italia,Málaga,223.0,Lateral derecho,Defensa central,
+6740.0,Chory Castro,Gonzalo Castro Irizábal,Trinidad,14/09/1984,Uruguay,40,"1,78",Izquierdo,Uruguay,5.0,0.0,Uruguay,España,Real Sociedad,210.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+5577.0,Guillermo Ochoa,Francisco Guillermo Ochoa Magaña,Guadalajara,13/07/1985,México,39,"1,85",Derecho,México,152.0,0.0,México,España,Málaga,223.0,Portero,,
+19431.0,Fernando Tissone,Fernando Damián Tissone,Quilmes,24/07/1986,Argentina,38,"1,82",Derecho,,,,Argentina,Italia,Málaga,223.0,Pivote,Mediocentro,
+23930.0,Ikechukwu Uche,Ikechukwu Uche,Aba,05/01/1984,Nigeria,41,"1,74",Derecho,Nigeria,46.0,19.0,Nigeria,España,Málaga,223.0,Delantero centro,,
+6878.0,Miguel Torres,Miguel Torres Gómez,Madrid,28/01/1986,España,39,"1,84",Derecho,España Sub-21,12.0,0.0,España,,Málaga,223.0,Lateral derecho,Lateral izquierdo,Defensa central
+8419.0,Duje Cop,Duje Čop,Vinkovci,01/02/1990,Yugoslavia (RFSY),35,"1,84",Derecho,Croacia,14.0,2.0,Croacia,,Málaga,223.0,Delantero centro,Extremo izquierdo,
+6569.0,Roberto Rosales,Roberto José Rosales Altuve,Caracas,20/11/1988,Venezuela,36,"1,74",Derecho,Venezuela,97.0,1.0,Venezuela,España,Málaga,223.0,Lateral derecho,Lateral izquierdo,
+16723.0,Egor Filipenko,Egor Filipenko,Minsk,10/04/1988,UdSSR,37,"1,90",Derecho,Bielorrusia,52.0,1.0,Bielorrusia,Rusia,Málaga,223.0,Defensa central,Pivote,
+3302.0,Nordin Amrabat,Nordin Amrabat,Naarden,31/03/1987,Países Bajos,38,"1,79",Derecho,Marruecos,64.0,7.0,Marruecos,Países Bajos,Málaga,223.0,Extremo derecho,Extremo izquierdo,Delantero centro
+8234.0,Ignacio Camacho,Ignacio Camacho Barnola,Zaragoza,04/05/1990,España,34,"1,82",Derecho,España,1.0,0.0,España,,Málaga,223.0,Pivote,Mediocentro,Defensa central
+6727.0,Raúl Albentosa,Raúl Albentosa Redal,Alzira,07/09/1988,España,36,"1,92",Derecho,,,,España,,Málaga,223.0,Defensa central,,
+,Flávio Ferreira,Flávio Nunes Ferreira,Oliveira do Hospital,19/10/1991,Portugal,33,"1,80",Derecho,Portugal Sub-20,0.0,0.0,Portugal,,,,Defensa central,Pivote,
+11212.0,Fábio Espinho,Fábio Ricardo Gomes Fonseca,Espinho,18/08/1985,Portugal,39,"1,74",Derecho,,,,Portugal,,Málaga,223.0,Mediocentro ofensivo,Extremo derecho,Extremo izquierdo
+6559.0,Juankar,Juan Carlos Pérez López,Boadilla del Monte,30/03/1990,España,35,"1,79",Izquierdo,España Sub-21,5.0,0.0,España,,Málaga,223.0,Lateral izquierdo,Interior izquierdo,Extremo izquierdo
+3236.0,Sergi Darder,Sergi Darder Moll,Artà,22/12/1993,España,31,"1,80",Derecho,España Sub-21,4.0,0.0,España,,Málaga,223.0,Mediocentro,Pivote,Mediocentro ofensivo
+6580.0,Recio,José Luis García del Pozo,Málaga,11/01/1991,España,34,"1,83",Derecho,España Sub-21,1.0,0.0,España,,Málaga,223.0,Mediocentro,Pivote,
+6707.0,Charles,Charles Días Barbosa de Oliveira,Belem,04/04/1984,Brasil,41,"1,79",Derecho,,,,Brasil,Portugal,Málaga,223.0,Delantero centro,,
+,Miguel Cifuentes,Miguel Cifuentes,Zújar,05/10/1990,España,34,"1,73",Derecho,,,,España,,,,Extremo derecho,Lateral derecho,Interior derecho
+8264.0,Adnane Tighadouini,Adnane Tighadouini,Ede,30/10/1992,Países Bajos,32,"1,80",Derecho,Marruecos,1.0,0.0,Marruecos,Países Bajos,Málaga,223.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+3084.0,Christian Atsu,Christian Atsu Twasam,Ada Foah,10/01/1992,Ghana,0,"1,65",Izquierdo,Ghana,60.0,10.0,Ghana,,Málaga,223.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+49433.0,Hachim Mastour,Hachim Mastour,Reggio Emilia,15/06/1998,Italia,26,"1,75",Derecho,Marruecos,1.0,0.0,Marruecos,Italia,Málaga,223.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+6563.0,Juanpi,Juan Pablo Añor Acosta,Caracas,24/01/1994,Venezuela,31,"1,76",Izquierdo,Venezuela,27.0,1.0,Venezuela,España,Málaga,223.0,Mediocentro ofensivo,Extremo derecho,
+10868.0,Ricardo Horta,Ricardo Jorge Luz Horta,Almada,15/09/1994,Portugal,30,"1,73",Derecho,Portugal,12.0,4.0,Portugal,,Málaga,223.0,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+,Aarón Escandell,Aarón Escandell,Carcaixent,27/09/1995,España,29,"1,84",Derecho,,,,España,,,,Portero,,
+6844.0,Federico Ricca,Federico Ricca Rostagnol,Tarariras,01/12/1994,Uruguay,30,"1,79",Izquierdo,Uruguay,1.0,0.0,Uruguay,Italia,Málaga,223.0,Defensa central,Lateral izquierdo,
+20063.0,Javi Ontiveros,Javier Ontiveros Parra,Marbella,09/09/1997,España,27,"1,75",Derecho,España Sub-19,5.0,2.0,España,,Málaga,223.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+6764.0,Pablo Fornals,Pablo Fornals Malla,Castelló de la Plana,22/02/1996,España,29,"1,78",Derecho,España,6.0,1.0,España,,Málaga,223.0,Mediocentro ofensivo,Mediocentro,Extremo derecho
+6692.0,Oier Olazábal,Oier Olazábal Paredes,Irún,14/09/1989,España,35,"1,89",Izquierdo,España Sub-19,1.0,0.0,España,,Real Sociedad,210.0,Portero,,
+6690.0,Xabi Prieto,Xabier Prieto Argarate,Donostia-San Sebastián,29/08/1983,España,41,"1,87",Derecho,España Sub-21,5.0,0.0,España,,Real Sociedad,210.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+16622.0,Mikel González,Mikel González de Martín Martínez,Mondragón,24/09/1985,España,39,"1,90",Derecho,,,,España,,Real Sociedad,210.0,Defensa central,,
+5560.0,Carlos Vela,Carlos Alberto Vela Garrido,Cancún,01/03/1989,México,36,"1,77",Izquierdo,México,72.0,19.0,México,España,Real Sociedad,210.0,Extremo derecho,Delantero centro,Extremo izquierdo
+6677.0,Imanol Agirretxe,Imanol Agirretxe Arruti,Usurbil,24/02/1987,España,38,"1,87",Derecho,España Sub-17,7.0,0.0,España,,Real Sociedad,210.0,Delantero centro,,
+26764.0,Ion Ansotegi,Jon Ansotegi Gorostola,Berriatua,13/07/1982,España,42,"1,92",Derecho,,,,España,,Eibar,322.0,Defensa central,,
+6770.0,Esteban Granero,Esteban Félix Granero Molina,Madrid,02/07/1987,España,37,"1,80",Derecho,España Sub-21,10.0,2.0,España,,Real Sociedad,210.0,Mediocentro,Mediocentro ofensivo,
+6633.0,Markel Bergara,Markel Bergara Larrañaga,Elgoibar,05/05/1986,España,38,"1,81",Derecho,España Sub-20,5.0,0.0,España,,Real Sociedad,210.0,Pivote,Mediocentro,
+8724.0,Carlos Martínez,Carlos Martínez Díez,Lodosa,09/04/1986,España,39,"1,89",Derecho,,,,España,,Real Sociedad,210.0,Lateral derecho,,
+8584.0,Jonathas,Jonathas Cristian de Jesus,Belo Horizonte,06/03/1989,Brasil,36,"1,92",Derecho,,,,Brasil,,Real Sociedad,210.0,Delantero centro,,
+6671.0,Asier Illarramendi,Asier Illarramendi Andonegi,Mutriku,08/03/1990,España,35,"1,79",Derecho,España,3.0,1.0,España,,Real Sociedad,210.0,Pivote,Mediocentro,
+6669.0,David Zurutuza,David Zurutuza Veillet,Rochefort,19/07/1986,Francia,38,"1,86",Derecho,,,,España,Francia,Real Sociedad,210.0,Mediocentro,Mediocentro ofensivo,
+3023.0,Yuri Berchiche,Yuri Berchiche Izeta,Zarautz,10/02/1990,España,35,"1,81",Izquierdo,,,,España,Argelia,Real Sociedad,210.0,Lateral izquierdo,,
+6673.0,Sergio Canales,Sergio Canales Madrazo,Santander,16/02/1991,España,34,"1,78",Izquierdo,España,11.0,1.0,España,,Real Sociedad,210.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+6674.0,Alberto de la Bella,Alberto De La Bella Madureño,Santa Coloma de Gramanet,02/12/1985,España,39,"1,82",Izquierdo,,,,España,,Real Sociedad,210.0,Lateral izquierdo,,
+6899.0,Rubén Pardo,Rubén Pardo Gutiérrez,Logroño,22/10/1992,España,32,"1,82",Derecho,España Sub-21,7.0,0.0,España,,Real Sociedad,210.0,Mediocentro,Mediocentro ofensivo,Pivote
+16539.0,Diego Reyes,Diego Antonio Reyes Rosales,Mexico City,19/09/1992,México,32,"1,91",Derecho,México,65.0,2.0,México,,Real Sociedad,210.0,Defensa central,Pivote,Lateral derecho
+8522.0,Bruma,Armindo Tué Na Bangna,Bissau,24/10/1994,Guinea-Bissau,30,"1,73",Derecho,Portugal,12.0,2.0,Portugal,Guinea-Bissau,Real Sociedad,210.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+,Raúl Navas,Raúl Navas,Sevilla,11/05/1988,España,36,"1,87",Derecho,,,,España,,,,Defensa central,,
+6665.0,Iñigo Martínez,Íñigo Martínez Berridi,Ondarroa,17/05/1991,España,33,"1,82",Izquierdo,España,21.0,1.0,España,,Real Sociedad,210.0,Defensa central,,
+6605.0,Joseba Zaldua,Joseba Zaldúa Bengoetxea,Donostia-San Sebastián,24/06/1992,España,32,"1,74",Derecho,,,,España,,Real Sociedad,210.0,Lateral derecho,,
+10754.0,Héctor Hernández,Héctor Hernández Ortega,Valladolid,23/05/1991,España,33,"1,71",Izquierdo,,,,España,,Real Sociedad,210.0,Lateral izquierdo,Extremo izquierdo,
+6694.0,Gerónimo Rulli,Gerónimo Rulli,La Plata,20/05/1992,Argentina,32,"1,89",Derecho,Argentina,6.0,0.0,Argentina,Italia,Real Sociedad,210.0,Portero,,
+,Ander Bardají,Ander Bardají,Lasarte,03/05/1995,España,29,"1,94",,España Sub-19,0.0,0.0,España,,,,Portero,,
+6679.0,Aritz Elustondo,Aritz Elustondo Irribaria,Beasain,28/03/1994,España,31,"1,80",Derecho,España Sub-21,1.0,0.0,España,,Real Sociedad,210.0,Defensa central,Lateral derecho,
+,Alain Oyarzun,Alain Oyarzun,Donostia-San Sebastián,27/09/1993,España,31,"1,83",Izquierdo,,,,España,,,,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+,Álvaro Odriozola,Álvaro Odriozola,Donostia-San Sebastián,14/12/1995,España,29,"1,76",Derecho,España,4.0,1.0,España,,,,Lateral derecho,,
+6906.0,Jon Bautista,Jon Bautista Orgilles,Mahón,03/07/1995,España,29,"1,80",Derecho,España Sub-21,0.0,0.0,España,,Real Sociedad,210.0,Delantero centro,,
+31467.0,Eneko Capilla,Eneko Capilla González,San Sebastián,13/06/1995,España,29,"1,67",Izquierdo,,,,España,,Real Sociedad,210.0,Mediocentro ofensivo,Mediocentro,
+6685.0,Mikel Oyarzabal,Mikel Oyarzabal Ugarte,Eibar,21/04/1997,España,27,"1,81",Izquierdo,España,43.0,15.0,España,,Real Sociedad,210.0,Delantero centro,Extremo izquierdo,Extremo derecho
+6676.0,Igor Zubeldia,Igor Zubeldia Elorza,Azkoitia,30/03/1997,España,28,"1,81",Derecho,España Sub-21,4.0,0.0,España,,Real Sociedad,210.0,Defensa central,Mediocentro,Pivote
+27349.0,Heiko Westermann,Heiko Westermann,Alzenau,14/08/1983,Alemania,41,"1,90",Derecho,Alemania,27.0,4.0,Alemania,,Real Betis,218.0,Defensa central,Lateral derecho,Lateral izquierdo
+19724.0,Rafael van der Vaart,Rafael van der Vaart,Heemskerk,11/02/1983,Países Bajos,42,indeterminado,indeterminado,Países Bajos,109.0,25.0,Países Bajos,España,Real Betis,218.0,Mediocentro ofensivo,Mediocentro,Interior derecho
+6651.0,Joaquín,Joaquín Sánchez Rodríguez,El Puerto de Santa María,21/07/1981,España,43,"1,81",Derecho,España,51.0,4.0,España,,Real Betis,218.0,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+6832.0,Rubén Castro,Rubén Castro Martín,Las Palmas de Gran Canaria,27/06/1981,España,43,"1,69",Derecho,España Sub-21,2.0,2.0,España,,Real Betis,218.0,Delantero centro,Extremo derecho,Extremo izquierdo
+6865.0,Francisco Molinero,Francisco José Molinero Calderón,Toledo,26/07/1985,España,39,"1,77",Derecho,España Sub-21,2.0,0.0,España,,Real Betis,218.0,Lateral derecho,Lateral izquierdo,Defensa central
+27347.0,Juan Manuel Vargas,Juan Manuel Vargas Risco,Lima,05/10/1983,Perú,41,"1,86",Izquierdo,Perú,62.0,4.0,Perú,,Real Betis,218.0,Lateral izquierdo,Interior izquierdo,Mediocentro
+27348.0,Ricky van Wolfswinkel,Ricky van Wolfswinkel,Woudenberg,27/01/1989,Países Bajos,36,"1,86",Derecho,Países Bajos,2.0,0.0,Países Bajos,,Real Betis,218.0,Delantero centro,Extremo izquierdo,Mediocentro ofensivo
+6654.0,Antonio Adán,Antonio Adán Garrido,Madrid,13/05/1987,España,37,"1,90",Izquierdo,España Sub-21,1.0,0.0,España,,Real Betis,218.0,Portero,,
+27345.0,Didier Digard,Didier Digard,Gisors,12/07/1986,Francia,38,"1,83",Derecho,Francia Sub-21,5.0,0.0,Francia,,Real Betis,218.0,Pivote,,
+186264.0,Foued Kadir,Foued Kadir,Martigues,05/12/1983,Francia,41,"1,80",Derecho,Argelia,25.0,2.0,Argelia,Francia,Real Betis,218.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+6630.0,Jorge Molina,Jorge Molina Vidal,Alcoy,22/04/1982,España,42,"1,88",Derecho,,,,España,,Real Betis,218.0,Delantero centro,,
+24277.0,Vincenzo Rennella,Vincenzo Renato Rennella,Saint-Paul-de-Vence,08/10/1988,Francia,36,"1,88",Izquierdo,,,,Italia,Francia,Real Betis,218.0,Delantero centro,,
+26801.0,Jordi Figueras,Jordi Figueras Montel,Lleida,16/05/1987,España,37,"1,85",Izquierdo,,,,España,,Real Betis,218.0,Defensa central,,
+6375.0,Xavi Torres,Juan Francisco Torres Belén,Xàbia,21/11/1986,España,38,"1,79",Derecho,,,,España,,Atlético Madrid,212.0,Pivote,Mediocentro,Defensa central
+6593.0,Martín Montoya,Martín Montoya Torralbo,Gavà,14/04/1991,España,34,"1,75",Derecho,España,0.0,0.0,España,,Real Betis,218.0,Lateral derecho,Lateral izquierdo,
+,Dani Giménez,Dani Giménez,Vigo,30/07/1983,España,41,"1,85",Derecho,,,,España,,,,Portero,,
+26723.0,Álvaro Cejudo,Álvaro Cejudo Carmona,Puente Genil,29/01/1984,España,41,"1,76",Derecho,,,,España,,Real Betis,218.0,Mediapunta,Extremo derecho,Extremo izquierdo
+5671.0,Alfred N'Diaye,Alfred John Momar N''Diaye,Paris,06/03/1990,Francia,35,"1,89",Derecho,Senegal,28.0,1.0,Senegal,Francia,Real Betis,218.0,Pivote,Defensa central,Mediocentro
+7161.0,Germán Pezzella,Germán Alejandro Pezzella,Bahía Blanca,27/06/1991,Argentina,33,"1,87",Derecho,Argentina,42.0,3.0,Argentina,Italia,Real Betis,218.0,Defensa central,,
+6873.0,Francisco Portillo,Francisco Portillo Soler,Málaga,13/06/1990,España,34,"1,69",Derecho,,,,España,,Real Betis,218.0,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+37212.0,Leandro Damião,Leandro Damião da Silva dos Santos,Jardim Alegre,22/07/1989,Brasil,35,"1,88",Derecho,Brasil,18.0,3.0,Brasil,,Real Betis,218.0,Delantero centro,,
+,Amro Tarek,Amro Tarek Abdel-Aziz,"Los Angeles, California",17/05/1992,Estados Unidos,32,"1,89",Izquierdo,Egipto,2.0,0.0,Egipto,Estados Unidos,,,Defensa central,Lateral izquierdo,
+24143.0,Álvaro Vadillo,Álvaro Vadillo Cifuentes,Puerto Real,12/09/1994,España,30,"1,80",Derecho,España Sub-20,5.0,1.0,España,,Real Betis,218.0,Extremo izquierdo,Extremo derecho,
+11634.0,Cristiano Piccini,Cristiano Piccini,Firenze,26/09/1992,Italia,32,"1,89",Derecho,Italia,3.0,0.0,Italia,,Real Betis,218.0,Defensa central,Interior derecho,Lateral derecho
+3601.0,Charly Musonda Jr.,Charly Musonda Junior,Brussel,15/10/1996,Bélgica,28,"1,73",Derecho,Bélgica Sub-21,12.0,1.0,Bélgica,Zambia,Real Betis,218.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+6872.0,Bruno González,Bruno González Cabrera,Las Galletas,24/05/1990,España,34,"1,84",Derecho,,,,España,,Real Betis,218.0,Defensa central,,
+27346.0,Petros,Petros Matheus dos Santos Araújo,Juazeiro,29/05/1989,Brasil,35,"1,82",Derecho,,,,Brasil,,Real Betis,218.0,Pivote,Mediocentro,Interior izquierdo
+24132.0,Fran Varela,Francisco Miguel Varela Martín,Atarfe,26/10/1994,España,30,"1,74",Izquierdo,España Sub-21,0.0,0.0,España,,Real Betis,218.0,Lateral izquierdo,Extremo izquierdo,
+,Ángel de la Calzada,Ángel de la Calzada,Jaén,02/09/1994,España,30,"1,91",,España Sub-16,3.0,0.0,España,,,,Portero,,
+6787.0,Pedro López,Pedro López Muñoz,Mérida,21/01/1995,España,30,"1,89",Derecho,,,,España,,Levante UD,221.0,Portero,,
+6697.0,Dani Ceballos,Daniel Ceballos Fernández,Utrera,07/08/1996,España,28,"1,79",Derecho,España,13.0,1.0,España,,Real Betis,218.0,Mediocentro,Mediocentro ofensivo,Interior izquierdo
+6655.0,Fabián Ruiz,Fabián Ruiz Peña,Los Palacios y Villafranca,03/04/1996,España,29,"1,89",Izquierdo,España,35.0,6.0,España,,Real Betis,218.0,Mediocentro,Pivote,Mediocentro ofensivo
+,Fran Díaz,Fran Díaz,Sevilla,17/08/1994,España,30,,,,,,España,,,,Extremo derecho,Lateral derecho,
+15602.0,Juan Carlos Valerón,Juan Carlos Valerón Santana,Arguineguín,17/06/1975,España,49,"1,86",Derecho,España,46.0,5.0,España,,Las Palmas,208.0,Mediocentro ofensivo,Mediocentro,
+27522.0,Antolín Alcaraz,Antolín Alcáraz Viveros,Roque González,30/07/1982,Paraguay,42,"1,87",Derecho,Paraguay,24.0,2.0,Paraguay,Italia,Las Palmas,208.0,Defensa central,,
+25984.0,Ángel López,Ángel Domingo López Ruano,Las Palmas de Gran Canaria,10/03/1981,España,44,"1,80",Derecho,España,5.0,0.0,España,,Las Palmas,208.0,Lateral derecho,Lateral izquierdo,Pivote
+26448.0,Javier Garrido,Javier Garrido Behovide,Irun,15/03/1985,España,40,"1,79",Izquierdo,España Sub-21,9.0,0.0,España,,Las Palmas,208.0,Lateral izquierdo,,
+6934.0,Momo,Jerónimo Figueroa Cabrera,Las Palmas de Gran Canaria,15/07/1982,España,42,"1,78",Izquierdo,,,,España,,Las Palmas,208.0,Extremo izquierdo,Extremo derecho,
+27521.0,Emmanuel Culio,Juan Emmanuel Culio,Mercedes,30/08/1983,Argentina,41,"1,76",Izquierdo,,,,Argentina,Italia,Las Palmas,208.0,Mediocentro,Mediocentro ofensivo,Interior izquierdo
+6608.0,Nabil El Zhar,Nabil El Zhar,Alès,27/08/1986,Francia,38,"1,70",Ambidiestro,Marruecos,10.0,2.0,Marruecos,Francia,Las Palmas,208.0,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+6927.0,David García,David García Santana,Maspalomas,25/02/1982,España,43,"1,83",Derecho,,,,España,,Las Palmas,208.0,Defensa central,,
+8440.0,Aythami Artiles,Aythami Artiles Oliva,Arguineguín,02/04/1986,España,39,"1,85",Derecho,,,,España,,Las Palmas,208.0,Defensa central,,
+6626.0,Mubarak Wakaso,Mubarak Wakaso,Tamale,25/07/1990,Ghana,34,"1,71",Izquierdo,Ghana,70.0,13.0,Ghana,,Las Palmas,208.0,Mediocentro,Interior izquierdo,Interior derecho
+26689.0,Nauzet Alemán,Nauzet Alemán Viera,Las Palmas de Gran Canaria,25/02/1985,España,40,"1,81",Derecho,,,,España,,Las Palmas,208.0,Extremo derecho,,
+26753.0,Javi Varas,Javier Varas Herrera,Sevilla,10/09/1982,España,42,"1,82",Derecho,,,,España,,Las Palmas,208.0,Portero,,
+24144.0,Ángel Montoro,Ángel Montoro Sánchez,Valencia,25/06/1988,España,36,"1,80",Derecho,España Sub-19,4.0,0.0,España,,Las Palmas,208.0,Mediocentro,Mediocentro ofensivo,
+6932.0,Dani Castellano,Dani Castellano Betancor,Las Palmas de Gran Canaria,02/11/1987,España,37,"1,79",Izquierdo,,,,España,,Las Palmas,208.0,Lateral izquierdo,,
+7904.0,Javi Castellano,Javi Castellano Betancor,Las Palmas de Gran Canaria,02/11/1987,España,37,"1,81",Derecho,,,,España,,Las Palmas,208.0,Pivote,Mediocentro,
+8167.0,Sergio Araujo,Sergio Ezequiel Araújo,Buenos Aires,28/01/1992,Argentina,33,"1,80",Derecho,Argentina Sub-20,10.0,4.0,Argentina,,Las Palmas,208.0,Delantero centro,Extremo izquierdo,Mediapunta
+6721.0,Willian José,Willian José da Silva,Porto Calvo,23/11/1991,Brasil,33,"1,86",Derecho,Brasil,0.0,0.0,Brasil,España,Las Palmas,208.0,Delantero centro,,
+6929.0,Vicente Gómez,José Vicente Gómez Umpiérrez,Las Palmas de Gran Canaria,31/08/1988,España,36,"1,87",Izquierdo,,,,España,,Las Palmas,208.0,Pivote,Mediocentro,Mediocentro ofensivo
+10755.0,Jonathan Viera,Jonathan Viera Ramos,Las Palmas de Gran Canaria,21/10/1989,España,35,"1,71",Derecho,España,1.0,0.0,España,,Las Palmas,208.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+7905.0,Raúl Lizoain,Raúl Lizoáin Cruz,Las Palmas de Gran Canaria,27/01/1991,España,34,"1,88",Izquierdo,,,,España,,Las Palmas,208.0,Portero,,
+15805.0,Hernán Santana,Hernán Daniel Santana Trujillo,Breña Baja,26/08/1990,España,34,"1,80",Derecho,,,,España,,Las Palmas,208.0,Mediocentro,Defensa central,
+,Jefté Betancor,Jefté Betancor,Las Palmas de Gran Canaria,06/07/1993,España,31,"1,86",Derecho,,,,España,,,,Delantero centro,Mediocentro ofensivo,Extremo izquierdo
+3610.0,Roque Mesa,Roque Mesa Quevedo,Telde,07/06/1989,España,35,"1,72",Derecho,,,,España,,Las Palmas,208.0,Mediocentro,Pivote,
+7907.0,Pedro Bigas,Pedro Bigas Rigo,Palma de Mallorca,15/05/1990,España,34,"1,81",Izquierdo,,,,España,,Las Palmas,208.0,Defensa central,Lateral izquierdo,
+6928.0,Tana,Pedro Taunausú Domínguez Placeres,Las Palmas de Gran Canaria,20/09/1990,España,34,"1,69",Izquierdo,,,,España,,Las Palmas,208.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+7906.0,David Simón,David Simón Rodríguez Santana,Las Palmas de Gran Canaria,16/12/1988,España,36,"1,79",Derecho,,,,España,,Las Palmas,208.0,Lateral derecho,Defensa central,Lateral izquierdo
+,Asdrúbal Padrón,Asdrúbal Padrón,Las Palmas de Gran Canaria,13/03/1991,España,34,"1,73",Derecho,,,,España,,,,Delantero centro,Extremo derecho,Mediapunta
+27251.0,Nili Perdomo,Francisco José Perdomo Borges,Las Palmas de Gran Canaria,18/02/1994,España,31,"1,76",Derecho,,,,España,,Las Palmas,208.0,Mediocentro ofensivo,Extremo derecho,Lateral derecho
+6594.0,Dani Lorenzo,Santiago Mina Lorenzo,,20/04/1993,,32,"1,88",,,,,España,,Valencia,207.0,Portero,,
+7692.0,Mauricio Lemos,Mauricio Lemos Merladet,Rivera,28/12/1995,Uruguay,29,"1,87",Derecho,Uruguay,3.0,0.0,Uruguay,,Las Palmas,208.0,Defensa central,,
+,Stéphane Serbourdin,Stéphane Serbourdin,Telde,18/05/1995,España,29,"1,85",,,,,España,Francia,,,Defensa central,,
+,Jeremy Betancor,Jeremy Betancor,,10/09/1998,,26,"1,80",,,,,España,,,,Delantero centro,,
+,Carlos González,Carlos González,Santa Lucía de Tirajana,20/05/1997,España,27,,,,,,España,,,,Extremo izquierdo,,
+20542.0,Álvaro Negredo,Álvaro Negredo Sánchez,Madrid,20/08/1985,España,39,"1,86",Izquierdo,España,21.0,10.0,España,,Valencia,207.0,Delantero centro,,
+6663.0,Antonio Barragán,Antonio Barragán Fernández,Pontedeume,12/06/1987,España,37,"1,86",Derecho,España Sub-21,1.0,0.0,España,,Valencia,207.0,Lateral derecho,,
+25144.0,Diego Alves,Diego Alves Carreira,Rio de Janeiro,24/06/1985,Brasil,39,"1,87",Izquierdo,Brasil,10.0,0.0,Brasil,Italia,Valencia,207.0,Portero,,
+5741.0,Enzo Pérez,Enzo Nicolás Pérez,Maipú,22/02/1986,Argentina,39,"1,78",Derecho,Argentina,26.0,1.0,Argentina,,Valencia,207.0,Pivote,Mediocentro,Mediocentro ofensivo
+6763.0,Pablo Piatti,Pablo Daniel Piatti,La Carlota,31/03/1989,Argentina,36,"1,64",Izquierdo,Argentina,1.0,0.0,Argentina,Italia,Valencia,207.0,Mediocentro ofensivo,Interior izquierdo,Extremo izquierdo
+,Javi Fuego,Javi Fuego,Pola de Siero,04/01/1984,España,41,"1,82",Derecho,España Sub-21,1.0,0.0,España,,,,Pivote,Mediocentro,
+18724.0,Sofiane Feghouli,Sofiane Feghouli,Levallois-Perret,26/12/1989,Francia,35,"1,77",Derecho,Argelia,82.0,19.0,Argelia,Francia,Valencia,207.0,Pivote,Extremo derecho,Mediocentro ofensivo
+10612.0,Yoel Rodríguez,Yoel Rodríguez Oterino,Vigo,28/08/1988,España,36,"1,84",Derecho,España Sub-19,1.0,0.0,España,,Rayo Vallecano,360.0,Portero,,
+6595.0,Dani Parejo,Daniel Parejo Muñoz,Coslada,16/04/1989,España,36,"1,82",Derecho,España,4.0,0.0,España,,Valencia,207.0,Mediocentro,Pivote,Mediocentro ofensivo
+3638.0,Shkodran Mustafi,Shkodran Mustafi,Bad Hersfeld,17/04/1992,Alemania,33,"1,84",Derecho,Alemania,20.0,2.0,Alemania,Albania,Valencia,207.0,Defensa central,Lateral derecho,
+4406.0,Aymen Abdennour,Aymen Abdennour,Sousse,06/08/1989,Túnez,35,"1,87",Izquierdo,Túnez,58.0,2.0,Túnez,,Valencia,207.0,Defensa central,Lateral izquierdo,
+27480.0,Lucas Orbán,Lucas Alfonso Orbán Alegre,Buenos Aires,03/02/1989,Argentina,36,"1,79",Izquierdo,Argentina,2.0,0.0,Argentina,España,Valencia,207.0,Defensa central,Lateral izquierdo,
+6402.0,Paco Alcácer,Francisco Alcácer García,Torrent,30/08/1993,España,31,"1,75",Derecho,España,19.0,12.0,España,,Valencia,207.0,Delantero centro,Extremo izquierdo,Extremo derecho
+3240.0,Mathew Ryan,Mathew Ryan,Plumpton,08/04/1992,Australia,33,"1,84",Derecho,Australia,96.0,0.0,Australia,Escocia,Valencia,207.0,Portero,,
+5718.0,Rodrigo,Rodrigo Moreno Machado,Rio de Janeiro,06/03/1991,Brasil,34,"1,82",Izquierdo,España,28.0,8.0,España,Brasil,Valencia,207.0,Delantero centro,Mediapunta,Extremo derecho
+27482.0,Aderllan Santos,Aderllan Leandro de Jesus Santos,Salgueiro,09/04/1989,Brasil,36,"1,93",Derecho,,,,Brasil,Portugal,Valencia,207.0,Defensa central,Libero,
+,Diego Caballo,Diego Caballo,Salamanca,17/02/1994,España,31,"1,71",Izquierdo,España Sub-17,3.0,0.0,España,,,,Lateral izquierdo,Extremo izquierdo,
+7005.0,João Cancelo,João Pedro Cavaco Cancelo,Barreiro,27/05/1994,Portugal,30,"1,82",Derecho,Portugal,60.0,10.0,Portugal,,Valencia,207.0,Lateral derecho,Lateral izquierdo,Interior derecho
+12349.0,Wilfried Zahibo,Wilfried Aimeric Zahibo,Marseille,21/08/1993,Francia,31,"1,91",Derecho,República Centroafricana,6.0,0.0,República Centroafricana,Francia,Valencia,207.0,Mediocentro,Pivote,
+6725.0,Zakaria Bakkali,Zakaria Bakkali,Liège,26/01/1996,Bélgica,29,"1,70",Derecho,Bélgica,2.0,0.0,Bélgica,Marruecos,Valencia,207.0,Extremo izquierdo,Extremo derecho,Mediapunta
+10802.0,André Gomes,André Filipe Tavares Gomes,Grijó,30/07/1993,Portugal,31,"1,90",Derecho,Portugal,29.0,0.0,Portugal,,Valencia,207.0,Mediocentro,Pivote,
+6596.0,José Gayà,José Luis Gayà Peña,Pedreguer,25/05/1995,España,29,"1,72",Izquierdo,España,22.0,3.0,España,,Valencia,207.0,Lateral izquierdo,,
+6898.0,Jaume Doménech,Jaume Doménech Sánchez,Almenara,05/11/1990,España,34,"1,85",Derecho,,,,España,,Valencia,207.0,Portero,,
+24072.0,Iban Salvador,Salvador Sevilla López,L’Hospitalet de Llobregat,11/12/1995,España,29,"1,73",Izquierdo,Guinea Ecuatorial,47.0,8.0,Guinea Ecuatorial,España,Espanyol,214.0,Mediocentro ofensivo,Delantero centro,Mediocentro
+,Santi Mina,Santi Mina,Vigo,07/12/1995,España,29,"1,81",Derecho,España Sub-21,4.0,2.0,España,,,,Delantero centro,Extremo derecho,Extremo izquierdo
+7797.0,Rodrigo De Paul,Rodrigo Javier De Paul,Sarandí,24/05/1994,Argentina,30,"1,80",Derecho,Argentina,76.0,2.0,Argentina,Italia,Valencia,207.0,Mediocentro,Mediocentro ofensivo,
+6592.0,Rúben Vezo,Rúben Miguel Nunes Vezo,Setúbal,25/04/1994,Portugal,30,"1,82",Derecho,Portugal,0.0,0.0,Portugal,Cabo Verde,Valencia,207.0,Defensa central,Lateral derecho,
+10037.0,Danilo Barbosa,Danilo Barbosa da Silva,Simões Filho,28/02/1996,Brasil,29,"1,83",Derecho,Brasil Sub-20,11.0,2.0,Brasil,,Valencia,207.0,Pivote,Mediocentro,Defensa central
+23849.0,Fran Villalba,Francisco José Villalba Rodrigo,Valencia,11/05/1998,España,26,"1,68",Derecho,España Sub-19,0.0,0.0,España,,Valencia,207.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+31469.0,Sito,Andrés Pascual Santoja,Alcoi,18/11/1996,España,28,"1,80",Izquierdo,,,,España,,Valencia,207.0,Extremo izquierdo,Extremo derecho,
+,Toni Lato,Toni Lato,La Pobla de Vallbona,21/11/1997,España,27,"1,71",Izquierdo,España Sub-21,5.0,0.0,España,,,,Lateral izquierdo,,
+27481.0,Tropi,Carlos Carbonell Gil,Valencia,12/05/1995,España,29,"1,77",Derecho,,,,España,,Valencia,207.0,Mediocentro,,
+,Nacho Gil,Nacho Gil,Valencia ,09/09/1995,España,29,"1,70",Derecho,,,,España,,,,Extremo izquierdo,Extremo derecho,
+,Ibrahim Diallo,Ibrahim Diallo,Sikasso,12/08/1996,Malí,28,"1,76",Derecho,,,,Malí,,,,Defensa central,Lateral derecho,
+,Rafa Mir,Rafa Mir,Cartagena,18/06/1997,España,27,"1,91",Derecho,España Sub-23,1.0,0.0,España,,,,Delantero centro,Extremo derecho,Extremo izquierdo
+,Carlos Soler,Carlos Soler,Valencia,02/01/1997,España,28,"1,80",Derecho,España,14.0,4.0,España,,,,Mediocentro,Interior derecho,Mediocentro ofensivo
+10763.0,Asier Riesgo,Asier Riesgo Unamuno,Deba,06/10/1983,España,41,"1,85",Derecho,España Sub-21,9.0,0.0,España,,Eibar,322.0,Portero,,
+6778.0,Iván Ramis,Iván Ramis Barrios,Sa Pobla,25/10/1984,España,40,"1,89",Derecho,España Sub-21,0.0,0.0,España,,Eibar,322.0,Defensa central,,
+6557.0,Adrián González,Adrián González Morales,Madrid,25/05/1988,España,36,"1,84",Izquierdo,España Sub-20,2.0,0.0,España,,Eibar,322.0,Mediocentro,Mediocentro ofensivo,
+,Jaime Jiménez,Jaime Jiménez,Valdepeñas,10/12/1980,España,44,"1,87",,,,,España,,,,Portero,,
+197493.0,Mikel Arruabarrena,Mikel Arruabarrena Aranbide,Tolosa,09/02/1983,España,42,"1,88",Derecho,,,,España,,Eibar,322.0,Mediapunta,Delantero centro,
+6837.0,Mauro dos Santos,Mauro Javier Dos Santos,Lomas de Zamora,07/07/1989,Argentina,35,"1,88",Derecho,Argentina Sub-20,5.0,0.0,Argentina,España,Eibar,322.0,Defensa central,,
+24508.0,Lillo Castellano,Manuel Castellano Castro,Aspe,27/03/1989,España,36,"1,76",Derecho,España Sub-21,0.0,0.0,España,,Eibar,322.0,Lateral derecho,Lateral izquierdo,Defensa central
+6742.0,Keko Gontán,Sergio Gontán Gallardo,Madrid,27/12/1991,España,33,"1,74",Derecho,España Sub-20,0.0,0.0,España,,Eibar,322.0,Extremo derecho,Extremo izquierdo,Mediapunta
+24070.0,Saúl Berjón,Saúl Berjón Pérez,Oviedo,24/05/1986,España,38,"1,78",Derecho,,,,España,,Eibar,322.0,Extremo izquierdo,Extremo derecho,
+9403.0,Izet Hajrovic,Izet Hajrović,Brugg,04/08/1991,Suiza,33,"1,77",Izquierdo,Bosnia-Herzegovina,27.0,6.0,Bosnia y Herzegovina,Suiza,Eibar,322.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+6700.0,Sergi Enrich,Sergio Enrich Ametller,Ciutadella de Menorca,26/02/1990,España,35,"1,83",Derecho,España Sub-19,2.0,0.0,España,,Eibar,322.0,Delantero centro,,
+,Borja Bastón,Borja Bastón,Madrid,25/08/1992,España,32,"1,86",Derecho,España Sub-20,0.0,0.0,España,,,,Delantero centro,,
+26736.0,Borja Ekiza,Borja Ekiza Imaz,Pamplona,06/03/1988,España,37,"1,82",Derecho,,,,España,,Eibar,322.0,Defensa central,,
+27462.0,Xabi Irureta,Xabier Iruretagoiena Aranzamendi,Berriatua,21/03/1986,España,39,"1,79",Derecho,,,,España,,Eibar,322.0,Portero,,
+6783.0,Kike García,Samuel García Sánchez,Motilla de Palancar,25/11/1989,España,35,"1,86",Derecho,España Sub-21,0.0,0.0,España,,Villarreal,222.0,Delantero centro,,
+5687.0,Takashi Inui,Takashi Inui,"Omihachiman, Shiga",02/06/1988,Japón,36,"1,69",Derecho,Japón,36.0,6.0,Japón,,Eibar,322.0,Extremo izquierdo,Mediocentro ofensivo,Extremo derecho
+6675.0,Antonio Luna,Antonio Manuel Luna Rodríguez,Son Servera,17/03/1991,España,34,"1,78",Izquierdo,España Sub-20,5.0,0.0,España,,Eibar,322.0,Lateral izquierdo,Pivote,
+7170.0,Simone Verdi,Simone Verdi,Broni,12/07/1992,Italia,32,"1,74",Ambidiestro,Italia,4.0,0.0,Italia,,Eibar,322.0,Mediocentro ofensivo,Mediapunta,Extremo derecho
+,Jon Errasti,Jon Errasti,Eibar,06/06/1988,España,36,"1,81",Derecho,,,,España,,,,Mediocentro,,
+24453.0,Josip Radosevic,Josip Radošević,Split,03/04/1994,Croacia,31,"1,80",Derecho,Croacia,1.0,0.0,Croacia,,Eibar,322.0,Pivote,Mediocentro,
+6776.0,David Juncà,David Juncà Reñé,Girona,16/11/1993,España,31,"1,78",Izquierdo,,,,España,,Eibar,322.0,Lateral izquierdo,,
+27239.0,Aleksandar Pantic,Aleksandar Pantić,Arandjelovac,11/04/1992,Yugoslavia (RFSY),33,"1,88",Derecho,Serbia,0.0,0.0,Serbia,,Eibar,322.0,Defensa central,Lateral derecho,
+9462.0,Jota Peleteiro,José Ignacio Peleteiro Ramallo,A Pobra do Caramiñal,16/06/1991,España,33,"1,78",Izquierdo,,,,España,,Eibar,322.0,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+25057.0,Dani García,Alejandro Barrera García,Zumarraga,24/05/1990,España,34,"1,80",Derecho,,,,España,,Sporting Gijón,1041.0,Mediocentro,Pivote,
+6699.0,Ander Capa,Ander Capa Rodríguez,Portugalete,08/02/1992,España,33,"1,75",Derecho,,,,España,,Eibar,322.0,Lateral derecho,Extremo derecho,
+23799.0,Eddy Israfilov,Eddy Silvestre Pascual İsrafilov,Roquetas de Mar,02/08/1992,España,32,"1,91",Derecho,Azerbaiyán,26.0,0.0,Azerbaiyán,España,Eibar,322.0,Mediocentro,Pivote,
+,Jorge Mediavilla,Jorge Mediavilla,Santander,16/06/1993,España,31,"1,88",,,,,España,,,,Portero,,
+,Imanol Corral,Imanol Corral,Basauri,19/03/1994,España,31,"1,80",Izquierdo,,,,España,,,,Lateral izquierdo,,
+,Asier Etxaburu,Asier Etxaburu,Ondarroa,07/04/1994,España,31,"1,81",Izquierdo,,,,España,,,,Mediocentro ofensivo,Mediocentro,
+6712.0,Gonzalo Escalante,Gonzalo Escalante,Bella Vista,27/03/1993,Argentina,32,"1,82",Derecho,,,,Argentina,Italia,Eibar,322.0,Mediocentro,Pivote,
+,Thaylor,Brian Thaylor Lubanzadio Aldama,Bilbao,27/02/1994,España,31,"1,86",Derecho,,,,Angola,España,,,Extremo derecho,Mediapunta,Lateral derecho
+166764.0,Ander Gayoso,Ander Gayoso Reina,Ermua (Vizcaya),20/07/1993,España,31,"1,71",Izquierdo,,,,España,,Eibar,322.0,Lateral izquierdo,,
+,Julen López,Julen López,Eibar,20/07/1995,España,29,"1,87",Izquierdo,,,,España,,,,Defensa central,Lateral izquierdo,
+197562.0,Íñigo Barrenetxea,Iñigo Barrenetxea García,Bilbao,10/01/1994,España,31,"1,79",Derecho,,,,España,,Eibar,322.0,Mediocentro,Mediocentro ofensivo,Mediapunta
+15297.0,Michaël Ciani,Mickaël Ciani,Clichy,06/04/1984,Francia,41,"1,89",Derecho,Francia,1.0,0.0,Francia,Guadalupe,Espanyol,214.0,Defensa central,,
+7781.0,Felipe Caicedo,Felipe Salvador Caicedo Corozo,Guayaquil,05/09/1988,Ecuador,36,"1,83",Izquierdo,Ecuador,68.0,22.0,Ecuador,España,Espanyol,214.0,Delantero centro,,
+6867.0,Pape Diop,Papa Kouly Diop,Kaolack,19/03/1986,Senegal,39,"1,80",Derecho,Senegal,21.0,2.0,Senegal,Francia,Espanyol,214.0,Pivote,Mediocentro,
+24578.0,Paco Montañés,Francisco Montañés Claverías,Castellón de la Plana,08/10/1986,España,38,"1,72",Derecho,España Sub-21,1.0,0.0,España,,Espanyol,214.0,Extremo izquierdo,Extremo derecho,
+,Salva Sevilla,Salva Sevilla,Berja,18/03/1984,España,41,"1,78",Derecho,,,,España,,,,Mediocentro,Mediocentro ofensivo,
+6758.0,Víctor Sánchez,Víctor Sánchez Mata,Terrassa,08/09/1987,España,37,"1,74",Derecho,,,,España,,Espanyol,214.0,Mediocentro,Pivote,Lateral derecho
+27148.0,Abraham González,Abraham González Casanova,Barcelona,16/07/1985,España,39,"1,75",Derecho,,,,España,,Espanyol,214.0,Mediocentro,Pivote,Mediocentro ofensivo
+31904.0,Giedrius Arlauskis,Giedrius Arlauskis,Telšiai,01/12/1987,UdSSR,37,"1,91",Izquierdo,Lituania,23.0,0.0,Lituania,,Espanyol,214.0,Portero,,
+18407.0,José Alberto Cañas,José Alberto Cañas Ruiz Herrera,Rota,27/05/1987,España,37,"1,78",Derecho,,,,España,,Espanyol,214.0,Pivote,Mediocentro,
+6709.0,Anaitz Arbilla,Anaitz Arbilla Zabala,Pamplona,15/05/1987,España,37,"1,78",Derecho,,,,España,,Espanyol,214.0,Defensa central,Lateral izquierdo,Lateral derecho
+24263.0,Javi López,Ismael López Blanco,Osuna,21/01/1986,España,39,"1,80",Derecho,,,,España,,Sporting Gijón,1041.0,Lateral derecho,Lateral izquierdo,
+6838.0,Hernán Pérez,Hernán Arsenio Pérez González,Fernando de la Mora,25/02/1989,Paraguay,36,"1,74",Derecho,Paraguay,41.0,2.0,Paraguay,España,Espanyol,214.0,Extremo derecho,Extremo izquierdo,Delantero centro
+,Cristian Galas,Cristian Galas,La Vall d'Uixó,15/02/1993,España,32,"1,80",Izquierdo,España Sub-17,6.0,0.0,España,,,,Defensa central,Lateral izquierdo,
+27241.0,Víctor Álvarez,Víctor Guillermo Álvarez Delgado,Barcelona,14/03/1993,España,32,"1,80",Izquierdo,España Sub-19,2.0,0.0,España,,Espanyol,214.0,Lateral izquierdo,Extremo izquierdo,
+,Francesco Bardi,Francesco Bardi,Livorno,18/01/1992,Italia,33,"1,88",Derecho,Italia Sub-21,37.0,0.0,Italia,,,,Portero,,
+4741.0,Juan Rafael Fuentes,Juan Rafael Fuentes Hernández,Córdoba,05/01/1990,España,35,"1,78",Izquierdo,,,,España,,Espanyol,214.0,Lateral izquierdo,Defensa central,
+23924.0,Mamadou Sylla,Mamadou Sylla Diallo,Kedougou,20/03/1994,Senegal,31,"1,80",Derecho,,,,Senegal,España,Espanyol,214.0,Delantero centro,,
+5598.0,Óscar Duarte,Óscar Esau Duarte Gaitán,Catarina,03/06/1989,Nicaragua,35,"1,86",Derecho,Costa Rica,75.0,4.0,Costa Rica,España,Espanyol,214.0,Defensa central,,
+6612.0,Rubén Duarte,Rubén Duarte Sánchez,Almería,18/10/1995,España,29,"1,79",Izquierdo,España Sub-21,9.0,0.0,España,,Espanyol,214.0,Lateral izquierdo,Defensa central,
+6766.0,Gerard Moreno,Gerard Moreno Balaguero,Santa Perpètua de Mogoda,07/04/1992,España,33,"1,80",Izquierdo,España,18.0,5.0,España,,Espanyol,214.0,Delantero centro,Extremo derecho,
+6762.0,Álvaro González,Álvaro González Soberón,Potes,08/01/1990,España,35,"1,82",Derecho,España Sub-21,1.0,0.0,España,,Espanyol,214.0,Defensa central,Lateral derecho,
+16456.0,Enzo Roco,Enzo Pablo Roco Roco,Ovalle,16/08/1992,Chile,32,"1,92",Derecho,Chile,32.0,1.0,Chile,,Espanyol,214.0,Defensa central,,
+,Rober Correa,Rober Correa,Badajoz,20/09/1992,España,32,"1,80",Derecho,,,,España,,,,Lateral derecho,,
+,Andrés Prieto,Andrés Prieto,Alicante,17/10/1993,España,31,"1,94",Derecho,,,,España,,,,Portero,,
+6624.0,Burgui,Jorge Franco Alviz,Burguillos del Cerro,29/10/1993,España,31,"1,86",Derecho,,,,España,,Espanyol,214.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+,Rufo,Rubén Herráiz Alcaraz,Barcelona,13/01/1993,España,32,"1,77",Izquierdo,,,,España,,,,Mediapunta,Extremo derecho,Delantero centro
+,Lluís López,Lluís López,Manresa,05/03/1997,España,28,"1,82",Derecho,España Sub-19,1.0,0.0,España,,,,Defensa central,,
+6701.0,Joan Jordán,Joan Jordán Moreno,Regencós,06/07/1994,España,30,"1,85",Derecho,,,,España,,Espanyol,214.0,Mediocentro,Mediocentro ofensivo,Pivote
+11543.0,Antonio Raíllo,José Antonio Dorado Ramírez,Córdoba,08/10/1991,España,33,"1,87",,,,,España,,Rayo Vallecano,360.0,Defensa central,,
+6792.0,Pau López,Pau López Sabata,Girona,13/12/1994,España,30,"1,89",Izquierdo,España,2.0,0.0,España,,Espanyol,214.0,Portero,,
+,Adrián Dalmau,Adrián Dalmau,Palma de Mallorca,23/03/1994,España,31,"1,82",Derecho,,,,España,,,,Delantero centro,,
+5719.0,Marco Asensio,Marco Asensio Willemsen,Palma de Mallorca,21/01/1996,España,29,"1,82",Izquierdo,España,38.0,2.0,España,Países Bajos,Espanyol,214.0,Extremo derecho,Delantero centro,Mediocentro ofensivo
+,Marc Navarro,Marc Navarro,Barcelona,02/07/1995,España,29,"1,88",Derecho,,,,España,,,,Lateral derecho,Interior derecho,
+26209.0,Manuel Pablo,Manuel Pablo García Díaz,Arucas,25/01/1976,España,49,"1,77",Derecho,España,13.0,0.0,España,,RC Deportivo La Coruña,219.0,Lateral derecho,Lateral izquierdo,
+6913.0,Fernando Navarro,Fernando Navarro i Corbacho,Barcelona,25/06/1982,España,42,"1,76",Izquierdo,España,2.0,0.0,España,,RC Deportivo La Coruña,219.0,Lateral izquierdo,Defensa central,
+26107.0,Alberto Lopo,Alberto Lopo García,Barcelona,05/05/1980,España,44,"1,86",Derecho,España,0.0,0.0,España,,RC Deportivo La Coruña,219.0,Defensa central,,
+25921.0,Cani,Rubén Gracia Calmache,Zaragoza,03/08/1981,España,43,"1,78",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+20086.0,Stipe Pletikosa,Stipe Pletikosa,Split,08/01/1979,Yugoslavia (RFSY),46,"1,93",Derecho,Croacia,114.0,0.0,Croacia,,RC Deportivo La Coruña,219.0,Portero,,
+27305.0,Germán Lux,Germán Darío Lux,Carcarañá,06/07/1982,Argentina,42,"1,85",Derecho,Argentina,6.0,0.0,Argentina,Italia,RC Deportivo La Coruña,219.0,Portero,,
+25997.0,Jonás Gutiérrez,Jonás Manuel Gutiérrez,Sáenz Peña,05/07/1983,Argentina,41,"1,84",Derecho,Argentina,22.0,1.0,Argentina,Italia,RC Deportivo La Coruña,219.0,Interior izquierdo,Mediocentro,Interior derecho
+6777.0,Sidnei,Sidnei Rechel da Silva Júnior,Alegrete,23/08/1989,Brasil,35,"1,84",Derecho,Brasil Sub-17,5.0,0.0,Brasil,España,RC Deportivo La Coruña,219.0,Defensa central,,
+,Haris Medunjanin,Haris Medunjanin,Sarajevo,08/03/1985,Yugoslavia (RFSY),40,"1,88",Izquierdo,Bosnia-Herzegovina,60.0,9.0,Bosnia y Herzegovina,Países Bajos,,,Mediocentro,Mediocentro ofensivo,Pivote
+6733.0,Pedro Mosquera,Pedro Mosquera Parada,A Coruña,21/04/1988,España,36,"1,84",Izquierdo,España Sub-19,8.0,1.0,España,,RC Deportivo La Coruña,219.0,Mediocentro,Pivote,
+,Fabri,Fabricio Martin Agosto Ramírez,Vecindario,31/12/1987,España,37,"1,84",,España Sub-21,0.0,0.0,España,Uruguay,,,Portero,,
+27457.0,Manu Fernández,Manuel Fernández Muñíz,Gijón,09/05/1986,España,38,"1,85",,España Sub-20,1.0,0.0,España,,RC Deportivo La Coruña,219.0,Portero,,
+6734.0,Luisinho,Luis Carlos Correia Pinto,Porto,05/05/1985,Portugal,39,"1,71",Izquierdo,,,,Portugal,,RC Deportivo La Coruña,219.0,Lateral izquierdo,,
+23800.0,Laure,Laureano Sanabria Ruiz,Madrid,22/03/1985,España,40,"1,71",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Lateral derecho,,
+,Juanfran Moreno,Juanfran Moreno,Madrid,11/09/1988,España,36,"1,79",Derecho,,,,España,,,,Lateral derecho,Extremo derecho,
+27243.0,Oriol Riera,Oriol Riera Magem,Vic,03/07/1986,España,38,"1,86",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Delantero centro,,
+23806.0,Álex Bergantiños,Alejandro Bergantiños García,A Coruña,07/06/1985,España,39,"1,76",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Pivote,Mediocentro,Defensa central
+24234.0,Juan Domínguez,Juan Domínguez Lamas,Pontedeume,08/01/1990,España,35,"1,81",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Mediocentro,Pivote,Mediocentro ofensivo
+6732.0,Lucas Pérez,Lucas Pérez Martínez,A Coruña,10/09/1988,España,36,"1,80",Izquierdo,,,,España,,RC Deportivo La Coruña,219.0,Delantero centro,Mediapunta,Extremo derecho
+5582.0,Celso Borges,Celso Borges Mora,San José,27/05/1988,Costa Rica,36,"1,83",Derecho,Costa Rica,163.0,27.0,Costa Rica,Brasil,RC Deportivo La Coruña,219.0,Mediocentro,Pivote,
+7782.0,Luis Alberto,Luis Alberto Romero Alconchel,San José del Valle,28/09/1992,España,32,"1,83",Derecho,España,1.0,0.0,España,,RC Deportivo La Coruña,219.0,Mediocentro ofensivo,Mediocentro,Mediapunta
+6869.0,Alejandro Arribas,Alejandro Arribas Garrido,Madrid,01/05/1989,España,35,"1,82",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Defensa central,,
+,David Gómez,David Gómez,Cambre,11/04/1994,España,31,"1,84",,España Sub-17,2.0,0.0,España,,,,Portero,,
+5724.0,Fayçal Fajr,Fayçal Fajr,Rouen,01/08/1988,Francia,36,"1,79",Derecho,Marruecos,51.0,4.0,Marruecos,Francia,RC Deportivo La Coruña,219.0,Mediocentro,Mediocentro ofensivo,Extremo izquierdo
+6728.0,Fede Cartabia,Federico Nicolás Cartabia,Rosario,20/01/1993,Argentina,32,"1,69",Izquierdo,Argentina Sub-20,3.0,0.0,Argentina,Emiratos Árabes Unidos,RC Deportivo La Coruña,219.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+11298.0,Saúl García,José Ignacio Martínez García,Vioño,09/11/1994,España,30,"1,82",Izquierdo,,,,España,,Rayo Vallecano,360.0,Lateral izquierdo,,
+26288.0,Jonathan Rodríguez,Jonathan Javier Rodríguez Portillo,Florida,06/07/1993,Uruguay,31,"1,78",Derecho,Uruguay,31.0,3.0,Uruguay,,RC Deportivo La Coruña,219.0,Delantero centro,Extremo izquierdo,Extremo derecho
+10852.0,Miguel Cardoso,Miguel Filipe Nunes Cardoso,Lisboa,19/06/1994,Portugal,30,"1,76",Derecho,,,,Portugal,,RC Deportivo La Coruña,219.0,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+6807.0,Róber Pier,Roberto Suárez Pier,Oleiros,16/02/1995,España,30,"1,82",Derecho,,,,España,,RC Deportivo La Coruña,219.0,Defensa central,Pivote,
+,Óscar Pinchi,Óscar Pinchi,A Coruña,17/01/1996,España,29,"1,71",Derecho,,,,España,,,,Extremo izquierdo,Extremo derecho,Mediocentro ofensivo
+19454.0,Ricardo Costa,Ricardo Miguel Moreira da Costa,Vila Nova de Gaia,16/05/1981,Portugal,43,"1,84",Derecho,Portugal,22.0,1.0,Portugal,,Granada,1049.0,Defensa central,Lateral derecho,Lateral izquierdo
+26248.0,David Barral,David Barral Torres,San Fernando ,10/05/1983,España,41,"1,80",Derecho,,,,España,,Granada,1049.0,Delantero centro,,
+158769.0,Ivan Kelava,Ivan Kelava,Zagreb,20/02/1988,Yugoslavia (RFSY),37,"1,96",Izquierdo,Croacia,0.0,0.0,Croacia,,Granada,1049.0,Portero,,
+4498.0,Jean-Sylvain Babin,Jean-Sylvain Claude Babin,Corbeil-Essonnes,14/10/1986,Francia,38,"1,81",Derecho,Martinica,16.0,1.0,Martinica,Francia,Granada,1049.0,Defensa central,,
+8697.0,Andrés Fernández,Andrés Eduardo Fernández Moreno,Alcantarilla,16/12/1986,España,38,"1,85",Derecho,,,,España,,Granada,1049.0,Portero,,
+26781.0,Diego Maínz,Diego Mainz García,Madrid,29/12/1982,España,42,"1,87",Ambidiestro,,,,España,,Granada,1049.0,Defensa central,,
+26797.0,Piti,Francisco Medina Luna,Barcelona,26/05/1981,España,43,"1,77",Izquierdo,,,,España,,Granada,1049.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+20064.0,Miguel Lopes,Hugo Miguel Almeida Costa Lopes,Lisboa,19/12/1986,Portugal,38,"1,83",Derecho,Portugal,4.0,1.0,Portugal,,Granada,1049.0,Lateral derecho,Defensa central,
+25707.0,Fran Rico,Francisco Manuel Rico Castro,Portonovo,03/08/1987,España,37,"1,78",Derecho,,,,España,,Granada,1049.0,Mediocentro,Pivote,
+6702.0,David Lombán,David Rodríguez Lombán,Avilés,05/06/1987,España,37,"1,85",Derecho,España Sub-17,5.0,0.0,España,,Granada,1049.0,Defensa central,,
+6680.0,Rubén Rochina,Rubén Rochina Naixes,Sagunt,23/03/1991,España,34,"1,82",Izquierdo,España Sub-19,10.0,4.0,España,,Granada,1049.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+24783.0,Javi Márquez,Javier Márquez Moreno,Barcelona,11/05/1986,España,38,"1,79",Izquierdo,,,,España,,Granada,1049.0,Mediocentro,Mediocentro ofensivo,Pivote
+3160.0,Rene Krhin,Rene Krhin,Maribor,21/05/1990,Yugoslavia (RFSY),34,"1,89",Derecho,Eslovenia,48.0,2.0,Eslovenia,,Granada,1049.0,Pivote,Mediocentro,Defensa central
+27240.0,Jesús Fernández,Jesús Fernández Collado,Madrid,11/06/1988,España,36,"1,90",Izquierdo,,,,España,,Granada,1049.0,Portero,,
+27109.0,Youssef El Arabi,Youssef El-Arabi,Caen,03/02/1987,Francia,38,"1,83",Derecho,Marruecos,47.0,16.0,Marruecos,Francia,Granada,1049.0,Delantero centro,Mediocentro ofensivo,Mediapunta
+,Neuton,Neuton Sérgio Piccoli,Erechim,14/03/1990,Brasil,35,"1,82",Izquierdo,,,,Brasil,Italia,,,Defensa central,Lateral izquierdo,
+6599.0,Rubén Pérez,Rubén Salvador Pérez Del Mármol,Écija,26/04/1989,España,35,"1,78",Derecho,España Sub-21,5.0,0.0,España,,Granada,1049.0,Pivote,Mediocentro,
+7158.0,Cristiano Biraghi,Cristiano Biraghi,Cernusco sul Naviglio,01/09/1992,Italia,32,"1,85",Izquierdo,Italia,16.0,1.0,Italia,,Granada,1049.0,Lateral izquierdo,Interior izquierdo,Defensa central
+3292.0,Abdoulaye Doucouré,Abdoulaye Doucouré,Meulan-en-Yvelines,01/01/1993,Francia,32,"1,83",Derecho,Malí,2.0,0.0,Malí,Francia,Granada,1049.0,Mediocentro,Pivote,Mediocentro ofensivo
+26387.0,Edgar Méndez,Edgar Antonio Méndez Ortega,Arafo,02/01/1990,España,35,"1,87",Derecho,España Sub-18,0.0,0.0,España,,Granada,1049.0,Extremo derecho,Extremo izquierdo,Delantero centro
+24577.0,Salva Ruiz,Salvador Ruiz Rodríguez,Albal,17/05/1995,España,29,"1,77",Izquierdo,España Sub-20,4.0,0.0,España,,Granada,1049.0,Lateral izquierdo,Defensa central,
+,Stole Dimitrievski,Stole Dimitrievski,Kumanovo,25/12/1993,Macedonia,31,"1,88",Derecho,Macedonia del Norte,77.0,0.0,Macedonia del Norte,España,,,Portero,,
+4546.0,Dimitri Foulquier,Dimitri Foulquier,Sarcelles,23/03/1993,Francia,32,"1,83",Derecho,Guadalupe,2.0,0.0,Guadalupe,Francia,Granada,1049.0,Lateral derecho,Defensa central,Interior derecho
+26776.0,Isaac Cuenca,Juan Isaac Cuenca López,Reus,27/04/1991,España,33,"1,78",Derecho,España Sub-23,1.0,0.0,España,,Granada,1049.0,Extremo izquierdo,Interior izquierdo,Extremo derecho
+26775.0,Thievy Bifouma,Thievy Guivane Bifouma Koulossa,Saint Denis,13/05/1992,Francia,32,"1,80",Derecho,República del Congo,41.0,16.0,Congo,Francia,Granada,1049.0,Extremo izquierdo,Extremo derecho,Delantero centro
+,Jhon Córdoba,Jhon Córdoba,Istmina,11/05/1993,Colombia,31,"1,88",Derecho,Colombia,16.0,4.0,Colombia,,,,Delantero centro,,
+26685.0,Nicolás López,Nicolás Ladislao Fedor Flores,Montevideo,01/10/1993,Uruguay,31,"1,78",Izquierdo,Uruguay,0.0,0.0,Uruguay,,Rayo Vallecano,360.0,Delantero centro,Extremo izquierdo,Extremo derecho
+4418.0,Matheus Dória,Matheus Dória Macedo,São Gonçalo,08/11/1994,Brasil,30,"1,88",Izquierdo,Brasil,1.0,0.0,Brasil,México,Granada,1049.0,Defensa central,Lateral izquierdo,
+18721.0,Rober Ibáñez,Robert Ibáñez Castro,Valencia,22/03/1993,España,32,"1,75",Derecho,,,,España,,Granada,1049.0,Extremo derecho,Extremo izquierdo,
+,Clifford Aboagye,Clifford Aboagye,Accra,11/02/1995,Ghana,30,"1,63",Derecho,Ghana,0.0,0.0,Ghana,,,,Mediocentro,Pivote,Mediocentro ofensivo
+16338.0,Uche Agbo,Uche Henry Agbo,Kano City,04/12/1995,Nigeria,29,"1,86",Derecho,Nigeria,1.0,0.0,Nigeria,,Granada,1049.0,Pivote,Defensa central,Mediocentro
+6918.0,Isaac Success,Isaac Ajayi Success,Benin City,07/01/1996,Nigeria,29,"1,82",Derecho,Nigeria,4.0,0.0,Nigeria,,Granada,1049.0,Delantero centro,Extremo izquierdo,Extremo derecho
+6847.0,Adalberto Peñaranda,Adalberto Peñaranda Maestre,"El Vigía, Mérida",31/05/1997,Venezuela,27,"1,86",Derecho,Venezuela,21.0,0.0,Venezuela,España,Granada,1049.0,Extremo izquierdo,Delantero centro,Extremo derecho
+6610.0,Iván Cuéllar,Iván Cuéllar Sacristán,Mérida,27/05/1984,España,40,"1,87",Izquierdo,España Sub-21,3.0,0.0,España,,Sporting Gijón,1041.0,Portero,,
+,Isma López,Isma López,Pamplona,29/01/1990,España,35,"1,80",Izquierdo,España Sub-19,1.0,0.0,España,,,,Lateral izquierdo,Extremo izquierdo,
+24686.0,Roberto Canella,Roberto Canella Suárez,Pola de Laviana,07/02/1988,España,37,"1,79",Izquierdo,España Sub-21,12.0,0.0,España,,Sporting Gijón,1041.0,Lateral izquierdo,,
+26633.0,Alberto Lora,Alberto Lora Ramos,Móstoles,25/03/1987,España,38,"1,64",Derecho,,,,España,,Sporting Gijón,1041.0,Mediocentro,Lateral derecho,
+11537.0,Alberto García,Alberto García Cabrera,Barcelona,09/02/1985,España,40,"1,82",Derecho,,,,España,,Sporting Gijón,1041.0,Portero,,
+6561.0,Luis Hernández,Luis Hernández Rodríguez,Madrid,14/04/1989,España,36,"1,82",Derecho,España Sub-19,1.0,0.0,España,,Sporting Gijón,1041.0,Defensa central,Lateral derecho,
+6573.0,Bernardo Espinosa,Bernardo José Espinosa Zúñiga,Santiago de Cali,11/07/1989,Colombia,35,"1,92",Derecho,Colombia,0.0,0.0,Colombia,España,Sporting Gijón,1041.0,Defensa central,,
+23848.0,Carlos Carmona,Carlos Carmona Bonet,Palma de Mallorca,05/07/1987,España,37,"1,78",Derecho,España Sub-19,7.0,1.0,España,,Sporting Gijón,1041.0,Extremo derecho,Extremo izquierdo,
+30429.0,Hugo Fraile,Hugo Fraile Martín,Madrid,16/03/1987,España,38,"1,70",Derecho,,,,España,,Sporting Gijón,1041.0,Extremo derecho,Extremo izquierdo,
+24249.0,Juan Muñiz,Juan Muñiz Gallego,Gijón,14/03/1992,España,33,"1,75",Izquierdo,España Sub-19,9.0,1.0,España,,Sporting Gijón,1041.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+18925.0,Nacho Cases,Ignacio Cases Mora,Gijón,22/12/1987,España,37,"1,75",Izquierdo,,,,España,,Sporting Gijón,1041.0,Mediocentro,Pivote,
+16332.0,Ognjen Vranjes,Ognjen Vranješ,Banja Luka,24/10/1989,Yugoslavia (RFSY),35,"1,83",Derecho,Bosnia-Herzegovina,38.0,0.0,Bosnia y Herzegovina,Serbia,Sporting Gijón,1041.0,Defensa central,Lateral derecho,
+6602.0,Miguel Ángel Guerrero,Miguel Ángel Guerrero Martín,Toledo,12/07/1990,España,34,"1,80",Derecho,,,,España,,Sporting Gijón,1041.0,Mediapunta,Delantero centro,Mediocentro ofensivo
+13107.0,Sergio Álvarez,Sergio Álvarez Díaz,Avilés,23/01/1992,España,33,"1,83",Derecho,España Sub-19,3.0,0.0,España,,Sporting Gijón,1041.0,Pivote,Mediocentro,Defensa central
+18398.0,Omar Mascarell,Omar Mascarell González,Santa Cruz de Tenerife,02/02/1993,España,32,"1,81",Derecho,Guinea Ecuatorial,4.0,0.0,Guinea Ecuatorial,España,Sporting Gijón,1041.0,Pivote,Mediocentro,Defensa central
+197595.0,Sergio Mendigutxia,Sergio Mendigutxia Iglesias,Avilés,12/06/1993,España,31,"1,83",Derecho,España Sub-19,0.0,0.0,España,,Sporting Gijón,1041.0,Delantero centro,,
+,Álex Barrera,Álex Barrera,Oviedo,12/05/1991,España,33,"1,90",Derecho,,,,España,,,,Mediocentro,Mediocentro ofensivo,
+23994.0,Álex Menéndez,Alejandro Menéndez Díez,Gijón,15/07/1991,España,33,"1,81",Izquierdo,,,,España,,Sporting Gijón,1041.0,Lateral izquierdo,Extremo izquierdo,
+26256.0,Igor Lichnovsky,Igor Lichnovsky Osorio,Peñaflor,07/03/1994,Chile,31,"1,88",Derecho,Chile,13.0,0.0,Chile,Austria,Sporting Gijón,1041.0,Defensa central,,
+,Dennis Díaz,Dennis Díaz,Mieres,08/08/1992,España,32,"1,83",Derecho,,,,España,,,,Portero,,
+6926.0,Alen Halilovic,Alen Halilović,Dubrovnik,18/06/1996,Croacia,28,"1,69",Izquierdo,Croacia,10.0,0.0,Croacia,,Sporting Gijón,1041.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+6581.0,Jony,Jonathan Rodríguez Menéndez,Cangas de Narcea,09/07/1991,España,33,"1,79",Izquierdo,,,,España,,Sporting Gijón,1041.0,Extremo izquierdo,,
+24318.0,Alberto Guitián,Alberto Guitián Ceballos,Los Corrales de Buelna,29/07/1990,España,34,"1,81",Derecho,,,,España,,Sporting Gijón,1041.0,Defensa central,Mediocentro,
+6880.0,Antonio Sanabria,Arnaldo Antonio Sanabria Ayala,San Lorenzo,04/03/1996,Paraguay,29,"1,80",Derecho,Paraguay,37.0,6.0,Paraguay,España,Sporting Gijón,1041.0,Delantero centro,,
+23838.0,Pablo Pérez,Pablo Pérez Rodríguez,Gijón,02/08/1993,España,31,"1,87",Derecho,,,,España,,Sporting Gijón,1041.0,Mediocentro ofensivo,,
+27526.0,Rachid Aït-Atmane,Rachid Aït-Atmane,Bobigny,04/02/1993,Francia,32,"1,90",Derecho,Argelia U23,1.0,0.0,Argelia,Francia,Sporting Gijón,1041.0,Mediocentro,Pivote,Mediocentro ofensivo
+24173.0,Carlos Castro,Carlos Castro García,Mieres,01/06/1995,España,29,"1,77",Izquierdo,España Sub-21,3.0,0.0,España,,Sporting Gijón,1041.0,Delantero centro,Mediapunta,
+8818.0,Jorge Meré,Jorge Meré Pérez,Oviedo,17/04/1997,España,28,"1,82",Derecho,España,0.0,0.0,España,,Sporting Gijón,1041.0,Defensa central,,
+40822.0,Dani Ndi,Daniel Arnaud N''Di	,Douala,18/08/1995,Camerún,29,"1,79",Derecho,Camerún,5.0,0.0,Camerún,,Sporting Gijón,1041.0,Mediocentro ofensivo,,
+26848.0,Roberto Trashorras,Roberto Trashorras Gayoso,Rábade,28/02/1981,España,44,"1,77",Derecho,España Sub-18,0.0,0.0,España,,Rayo Vallecano,360.0,Mediocentro,Pivote,
+26222.0,Zé Castro,José Eduardo Rosa Vale de Castro,Coimbra,13/01/1983,Portugal,42,"1,83",Derecho,Portugal,1.0,0.0,Portugal,,Rayo Vallecano,360.0,Defensa central,,
+10727.0,Răzvan Raț,Răzvan Dincă Raț,Piatra-Olt,26/05/1981,Rumania,43,"1,79",Izquierdo,Rumanía ,113.0,2.0,Rumania,,Rayo Vallecano,360.0,Lateral izquierdo,,
+9246.0,Patrick Ebert,Patrick Ebert,Potsdam,17/03/1987,RDA,38,"1,75",Derecho,Alemania Sub-21,13.0,1.0,Alemania,,Rayo Vallecano,360.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+26070.0,Toño,Antonio Rodríguez Martínez,Alicante,17/12/1979,España,45,"1,82",Derecho,,,,España,,Rayo Vallecano,360.0,Portero,,
+18404.0,José Crespo,José Ángel Crespo Rincón,Lora del Río,09/02/1987,España,38,"1,85",Derecho,España Sub-21,4.0,0.0,España,,Rayo Vallecano,360.0,Defensa central,Lateral derecho,Lateral izquierdo
+,David Cobeño,David Cobeño,Sevilla,06/04/1982,España,43,"1,88",,,,,España,,,,Portero,,
+6743.0,Manuel Iturra,Manuel Rolando Iturra Urrutia,Temuco,23/06/1984,Chile,40,"1,74",Derecho,Chile,35.0,1.0,Chile,Italia,Rayo Vallecano,360.0,Pivote,Mediocentro,Interior derecho
+11542.0,Javi Guerra,Javier Guerra Rodríguez,Vélez-Málaga,15/03/1982,España,43,"1,78",Derecho,,,,España,,Rayo Vallecano,360.0,Delantero centro,,
+4711.0,Pablo Hernández,Pablo Hernández Domínguez,Castellón,11/04/1985,España,40,"1,73",Derecho,España,4.0,1.0,España,,Rayo Vallecano,360.0,Extremo derecho,Mediocentro ofensivo,Extremo izquierdo
+25126.0,Miku,Nicolás Federico López Alonso,Caracas,19/08/1985,Venezuela,39,"1,86",Derecho,Venezuela,51.0,11.0,Venezuela,Hungría,Granada,1049.0,Delantero centro,,
+26690.0,Manucho,Alberto Mateus Contreiras Gonçalves,Luanda,07/03/1983,Angola,42,"1,90",Izquierdo,Angola,51.0,22.0,Angola,Portugal,Rayo Vallecano,360.0,Delantero centro,,
+,Chechu Dorado,Chechu Dorado,Córdoba,10/07/1982,España,42,"1,81",Izquierdo,,,,España,,,,Defensa central,,
+27144.0,Antonio Amaya,Antonio Amaya Carazo,Barrio de San Cristóbal de Los Ángeles,31/05/1983,España,41,"1,92",Derecho,,,,España,,Rayo Vallecano,360.0,Defensa central,,
+26607.0,Raúl Baena,José Raúl Baena Urdiales,Torrox,02/03/1989,España,36,"1,81",Derecho,España Sub-21,2.0,0.0,España,,Rayo Vallecano,360.0,Pivote,Mediocentro,
+,Ousseynou Cissé,Ousseynou Cissé,Suresnes,07/04/1991,Francia,34,"1,95",Derecho,Malí,5.0,0.0,Malí,Francia,,,Pivote,Defensa central,
+24255.0,Juan Carlos,Juan Carlos Martín Corral,Guadalajara,20/01/1988,España,37,"1,87",,,,,España,,Rayo Vallecano,360.0,Portero,,
+16073.0,Aras Özbiliz,Aras Özbiliz,Istanbul,09/03/1990,Turquía,35,"1,75",Izquierdo,Armenia,41.0,6.0,Armenia,Países Bajos,Rayo Vallecano,360.0,Extremo derecho,Extremo izquierdo,Mediapunta
+11146.0,Luis Fariña,Luis Carlos Fariña Olivera,Buenos Aires,20/04/1991,Argentina,34,"1,77",Derecho,Argentina Sub-20,7.0,2.0,Argentina,Paraguay,Rayo Vallecano,360.0,Mediocentro ofensivo,Interior izquierdo,
+6751.0,Nacho Martínez,Javier Fuego Martínez,Madrid,07/03/1989,España,36,"1,74",Izquierdo,,,,España,,Valencia,207.0,Lateral izquierdo,,
+6914.0,Tito,Roberto Román Triguero,Madrid,11/07/1985,España,39,"1,74",Derecho,,,,España,,Rayo Vallecano,360.0,Lateral derecho,Lateral izquierdo,Defensa central
+43354.0,Chengdong Zhang,Chengdong Zhang,Baoding,09/02/1989,China,36,"1,85",Derecho,China,32.0,0.0,China,,Rayo Vallecano,360.0,Extremo derecho,Lateral derecho,Defensa central
+7900.0,Bebé,Tiago Manuel Dias Correia,Lisboa,12/07/1990,Portugal,34,"1,90",Derecho,Cabo Verde,23.0,6.0,Cabo Verde,Portugal,Rayo Vallecano,360.0,Extremo izquierdo,Extremo derecho,Delantero centro
+23761.0,Lass Bangoura,Alhassane Bangoura,Conakry,30/03/1992,Guinea,33,"1,69",Derecho,Guinea,37.0,4.0,Guinea,España,Rayo Vallecano,360.0,Extremo derecho,Extremo izquierdo,
+6852.0,Jozabed Sánchez,Jozabed Sánchez Ruiz,Mairena del Alcor,08/03/1991,España,34,"1,80",Derecho,,,,España,,Rayo Vallecano,360.0,Mediocentro,Mediocentro ofensivo,
+24138.0,Quini,Joaquín José Marín Ruiz,Córdoba,24/09/1989,España,35,"1,78",Derecho,,,,España,,Rayo Vallecano,360.0,Lateral derecho,Lateral izquierdo,
+6713.0,Diego Llorente,Diego Javier Llorente Ríos,Madrid,16/08/1993,España,31,"1,86",Derecho,España,10.0,0.0,España,,Rayo Vallecano,360.0,Defensa central,Pivote,
+,Álex Campos,Álex Campos,Madrid,28/06/1991,España,33,"1,80",,,,,España,,,,Portero,,
+11539.0,Adrián Embarba,Adrián Embarba Blázquez,Madrid,07/05/1992,España,32,"1,73",Derecho,,,,España,,Rayo Vallecano,360.0,Extremo derecho,Extremo izquierdo,
+24782.0,Joni Montiel,Jonhatan Montiel Caballero,Madrid,03/09/1998,España,26,"1,73",Izquierdo,España Sub-19,3.0,0.0,España,,Rayo Vallecano,360.0,Mediocentro ofensivo,Extremo izquierdo,Mediocentro
+,Pablo Clavería,Pablo Clavería,Madrid,01/04/1996,España,29,"1,76",Derecho,,,,España,,,,Mediocentro,,
+,Sergio Akieme,Sergio Akieme,Madrid,16/12/1997,España,27,"1,75",Izquierdo,España Sub-19,1.0,0.0,España,Guinea Ecuatorial,,,Lateral izquierdo,,
+,Juancho Victoria,Juancho Victoria,Palmira,24/01/1996,Colombia,29,"1,85",Derecho,,,,Colombia,,,,Delantero centro,Extremo derecho,Extremo izquierdo
+26647.0,Henok Goitom,Henok Goitom,Solna,22/09/1984,Suecia,40,"1,89",Derecho,Suecia Sub-21,13.0,4.0,Eritrea,Suecia,Getafe,216.0,Delantero centro,,
+6614.0,Alexis Ruano,Alexis Ruano Delgado,Málaga,04/08/1985,España,39,"1,83",Derecho,España Sub-21,3.0,0.0,España,,Getafe,216.0,Defensa central,Lateral derecho,Lateral izquierdo
+25881.0,Juan Rodríguez,Juan Antonio Rodríguez Villamuela,Málaga,01/04/1982,España,43,"1,85",Derecho,,,,España,,Getafe,216.0,Pivote,Mediocentro,Interior derecho
+27054.0,Roberto Lago,Roberto Lago Soto,Vigo,30/08/1985,España,39,"1,78",Izquierdo,,,,España,,Getafe,216.0,Lateral izquierdo,,
+6745.0,Mehdi Lacen,Mehdi Lacen,Paris,15/05/1984,Francia,40,"1,76",Izquierdo,Argelia,44.0,0.0,Argelia,Francia,Getafe,216.0,Pivote,Mediocentro,
+26020.0,Ángel Lafita,Ángel Lafita Castillo,Zaragoza,07/08/1984,España,40,"1,88",Derecho,,,,España,,Getafe,216.0,Extremo izquierdo,Mediocentro ofensivo,Extremo derecho
+6907.0,Pedro León,Pedro León Sánchez Gil,Mula,24/11/1986,España,38,"1,83",Derecho,España Sub-21,6.0,1.0,España,,Getafe,216.0,Extremo derecho,Mediocentro ofensivo,
+27402.0,Álvaro Pereira,Álvaro Daniel Pereira Barragán,Montevideo,28/11/1985,Uruguay,39,"1,80",Izquierdo,Uruguay,86.0,7.0,Uruguay,Argentina,Getafe,216.0,Lateral izquierdo,Interior izquierdo,Defensa central
+27092.0,Karim Yoda,Abdoul Karim Yoda,Annemasse,25/10/1988,Francia,36,"1,82",Izquierdo,,,,Francia,Costa de Marfil,Getafe,216.0,Extremo derecho,Extremo izquierdo,
+6625.0,Vicente Guaita,Vicente Guaita Panadero,Torrent,10/01/1987,España,38,"1,90",Derecho,,,,España,,Getafe,216.0,Portero,,
+6738.0,Juan Cala,Juan Francisco Moreno Fuertes,Lebrija,26/11/1989,España,35,"1,86",Derecho,España Sub-19,1.0,0.0,España,,RC Deportivo La Coruña,219.0,Defensa central,,
+23416.0,Stefan Scepovic,Stefan Šćepović,Belgrade,10/01/1990,Yugoslavia (RFSY),35,"1,87",Derecho,Serbia,8.0,1.0,Serbia,,Getafe,216.0,Delantero centro,,
+6720.0,Pablo Sarabia,Pablo Sarabia García,Madrid,11/05/1992,España,32,"1,74",Izquierdo,España,27.0,9.0,España,,Getafe,216.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+6627.0,Damián Suárez,Damián Nicolás Suárez Suárez,Montevideo,27/04/1988,Uruguay,36,"1,73",Derecho,Uruguay,7.0,0.0,Uruguay,España,Getafe,216.0,Lateral derecho,Lateral izquierdo,Interior derecho
+27403.0,Santiago Vergini,Santiago Vergini,Máximo Paz,03/08/1988,Argentina,36,"1,91",Derecho,Argentina,3.0,0.0,Argentina,Italia,Getafe,216.0,Defensa central,Lateral derecho,
+,Balázs Megyeri,Balázs Megyeri,Budapest,31/03/1990,Hungría,35,"1,88",Derecho,Hungría,1.0,0.0,Hungría,,,,Portero,,
+26941.0,Javi Noblejas,Francisco Javier García Noblejas Hernanz,Madrid,18/03/1993,España,32,"1,88",Izquierdo,España Sub-19,2.0,0.0,España,,Getafe,216.0,Lateral izquierdo,,
+15893.0,Víctor Rodríguez,Víctor Rodríguez Romero,Sabadell,23/07/1989,España,35,"1,70",Derecho,,,,España,,Getafe,216.0,Mediocentro ofensivo,Extremo izquierdo,Extremo derecho
+24035.0,Álvaro Vázquez,Álvaro Vázquez García,Badalona,27/04/1991,España,33,"1,82",Derecho,España Sub-23,1.0,2.0,España,,Getafe,216.0,Delantero centro,,
+11675.0,Moi Gómez,Moisés Gómez Bordonado,Rojales,23/06/1994,España,30,"1,76",Derecho,España Sub-21,3.0,1.0,España,,Getafe,216.0,Extremo izquierdo,Mediocentro ofensivo,Extremo derecho
+17054.0,Emiliano Velázquez,Emiliano Daniel Velázquez Maldonado,Montevideo,30/04/1994,Uruguay,30,"1,84",Derecho,Uruguay,1.0,0.0,Uruguay,,Getafe,216.0,Defensa central,,
+,Borja Galán,Borja Galán,Madrid,26/04/1993,España,31,"1,82",Derecho,España Sub-20,4.0,1.0,España,,,,Interior izquierdo,Extremo izquierdo,Mediocentro ofensivo
+16426.0,Wanderson,Wanderson Maciel Sousa Campos,São Luís,07/10/1994,Brasil,30,"1,75",Derecho,,,,Brasil,Bélgica,Getafe,216.0,Extremo izquierdo,Extremo derecho,Mediapunta
+6736.0,Álvaro Medrán,Álvaro Medrán Just,Dos Torres (Córdoba),15/03/1994,España,31,"1,77",Derecho,España Sub-21,1.0,0.0,España,,Getafe,216.0,Mediocentro,Mediocentro ofensivo,Pivote
+27970.0,Ian González,Ian González Nieto,Madrid,11/02/1993,España,32,"1,93",Derecho,,,,España,,Getafe,216.0,Delantero centro,,
+6856.0,Carlos Vigaray,Carlos Martín Vigaray,Leganés,07/09/1994,España,30,"1,85",Derecho,,,,España,,Getafe,216.0,Defensa central,Lateral derecho,
+,Miguel Muñoz,Miguel Muñoz,Madrid,26/01/1995,España,30,"1,79",,,,,España,,,,Lateral derecho,,
+11813.0,Emiliano Buendía,Emiliano Buendía,Mar del Plata,25/12/1996,Argentina,28,"1,72",Derecho,Argentina,1.0,0.0,Argentina,España,Getafe,216.0,Mediocentro ofensivo,Extremo derecho,Extremo izquierdo
+27401.0,Bernard Mensah,Bernard Mensah,Accra,17/10/1994,Ghana,30,"1,80",Derecho,Ghana,4.0,1.0,Ghana,,Getafe,216.0,Mediocentro ofensivo,Mediocentro,Extremo derecho
+6775.0,José Carrillo,Daniel García Carrillo,Granada,04/03/1995,España,30,"1,85",Ambidiestro,,,,España,,Eibar,322.0,Defensa central,Lateral derecho,Pivote
+26023.0,Juanfran,Juan Francisco García García,Valencia,15/07/1976,España,48,"1,82",Izquierdo,España,11.0,0.0,España,,Levante UD,221.0,Lateral izquierdo,Defensa central,
+26012.0,David Navarro,David Navarro Pedrós,Puerto de Sagunto,25/05/1980,España,44,"1,88",Derecho,,,,España,,Levante UD,221.0,Defensa central,,
+27656.0,Carl Medjani,Carl Medjani,Lyon,15/05/1985,Francia,39,"1,84",Derecho,Argelia,62.0,4.0,Argelia,Francia,Levante UD,221.0,Defensa central,Pivote,
+6730.0,Rubén Martínez,Rubén Iván Martínez Andrade,Coristanco,22/06/1984,España,40,"1,87",Derecho,España Sub-20,0.0,0.0,España,,Levante UD,221.0,Portero,,
+7141.0,Giuseppe Rossi,Giuseppe Rossi,"Teaneck, New Jersey",01/02/1987,Estados Unidos,38,"1,73",Izquierdo,Italia,30.0,7.0,Italia,Estados Unidos,Levante UD,221.0,Delantero centro,Mediapunta,
+6787.0,Pedro López,Pedro López Muñoz,Torrent,01/11/1983,España,41,"1,74",Derecho,,,,España,,Levante UD,221.0,Lateral derecho,,
+24149.0,Verza,José Antonio García Rabasco,Orihuela,29/09/1986,España,38,"1,81",Derecho,España Sub-19,0.0,0.0,España,,Levante UD,221.0,Mediocentro,Pivote,
+26211.0,Joan Verdú,Joan Verdú Fernández,Barcelona,05/05/1983,España,41,"1,72",Derecho,,,,España,,Levante UD,221.0,Mediocentro ofensivo,Extremo derecho,Mediocentro
+23791.0,Víctor Casadesús,Víctor Casadesús Castaño,Algaida,28/02/1985,España,40,"1,80",Derecho,España Sub-20,3.0,1.0,España,,Levante UD,221.0,Delantero centro,Mediapunta,Extremo derecho
+27154.0,Nikolaos Karabelas,Nikolaos Karabelas,Pyrgos,20/12/1984,Grecia,40,"1,78",Izquierdo,Grecia,1.0,0.0,Grecia,,Levante UD,221.0,Lateral izquierdo,Interior izquierdo,
+27122.0,Simão,Simão Mate,Maputo,23/06/1988,Mozambique,36,"1,80",Derecho,Mozambique,36.0,0.0,Mozambique,,Levante UD,221.0,Pivote,Defensa central,
+23843.0,Diego Mariño,Diego Mariño Villar,Vigo,09/05/1990,España,34,"1,85",Derecho,España Sub-23,3.0,0.0,España,,Levante UD,221.0,Portero,,
+27123.0,Jordi Xumetra,Jordi Xumetra Feliu,L'Estartit,24/10/1985,España,39,"1,77",Derecho,,,,España,,Levante UD,221.0,Extremo derecho,Extremo izquierdo,Delantero centro
+25824.0,Ángel Trujillo,Ángel Trujillo Canorea,Madrid,08/09/1987,España,37,"1,77",Derecho,,,,España,,Levante UD,221.0,Defensa central,,
+,Toño García,Toño García,Alcalá de Henares,07/11/1989,España,35,"1,80",Izquierdo,,,,España,,,,Lateral izquierdo,,
+6647.0,Zouhair Feddal,Zouhair Feddal,Tétouan,23/12/1989,Marruecos,35,"1,91",Izquierdo,Marruecos,22.0,1.0,Marruecos,España,Levante UD,221.0,Defensa central,,
+27250.0,Nabil Ghilas,Nabil Ghilas,Marseille,20/04/1990,Francia,35,"1,85",Derecho,Argelia,8.0,2.0,Argelia,Francia,Levante UD,221.0,Delantero centro,Extremo izquierdo,Extremo derecho
+8801.0,Iván López,Iván López Mendoza,Valencia,23/08/1993,España,31,"1,75",Derecho,España Sub-20,4.0,0.0,España,,Levante UD,221.0,Lateral derecho,,
+27463.0,Mauricio Cuero,Mauricio Andrés Cuero Castillo,Tumaco,28/01/1993,Colombia,32,"1,78",Derecho,Colombia Sub-20,9.0,0.0,Colombia,,Levante UD,221.0,Extremo derecho,Extremo izquierdo,Delantero centro
+6684.0,Roger Martí,Roger Martí Salvador,Torrent,03/01/1991,España,34,"1,79",Derecho,,,,España,,Levante UD,221.0,Delantero centro,,
+23943.0,Rubén García,Rubén García Santos,Xàtiva,14/07/1993,España,31,"1,72",Izquierdo,España Sub-21,1.0,0.0,España,,Levante UD,221.0,Extremo derecho,Extremo izquierdo,Mediocentro ofensivo
+23970.0,José Mari,José María Martín-Bejarano Serrano,Rota ,06/12/1987,España,37,"1,82",Derecho,,,,España,,Levante UD,221.0,Pivote,Mediocentro,
+25134.0,Deyverson,Deyverson Brum Silva Acosta,Santa Margarida,08/05/1991,Brasil,33,"1,87",Izquierdo,,,,Brasil,,Levante UD,221.0,Delantero centro,,
+6668.0,José Luis Morales,José Luis Morales Nogales,Madrid,23/07/1987,España,37,"1,80",Derecho,,,,España,,Levante UD,221.0,Delantero centro,Extremo izquierdo,Extremo derecho
+,Álvaro Traver,Álvaro Traver,Algemesí,01/04/1993,España,32,"1,87",Derecho,,,,España,,,,Extremo derecho,Extremo izquierdo,
+5678.0,Jefferson Lerma,Jefferson Andrés Lerma Solís,Cerrito,25/10/1994,Colombia,30,"1,79",Derecho,Colombia,54.0,3.0,Colombia,,Levante UD,221.0,Pivote,Mediocentro,
+6659.0,Víctor Camarasa,Víctor Camarasa Ferrando,Meliana,28/05/1994,España,30,"1,83",Derecho,España Sub-21,4.0,0.0,España,,Levante UD,221.0,Mediocentro,Mediocentro ofensivo,
+,Dani Calvo,Dani Calvo,Huesca,01/04/1994,España,31,"1,93",Derecho,,,,España,,,,Defensa central,,
+,Pepelu,José Luis García Vayá,Dénia,11/08/1998,España,26,"1,86",Derecho,España,0.0,0.0,España,,,,Pivote,Mediocentro,

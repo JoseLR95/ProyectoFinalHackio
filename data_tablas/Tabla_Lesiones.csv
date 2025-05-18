@@ -1,0 +1,375 @@
+Nombre_Jugador,Tipo_Lesion,Sub_Tipo_Lesion,Fecha_incio_lesion,Fecha_fin_lesion,Nombre_Completo_Jugador,Club,playerID,clubID,Tipo_Lesion_ID,Sub_Tipo_Lesion_ID
+Thomas Vermaelen,Suspension,Yellow Card Suspension,2016-06-27,2016-07-04,Thomas Vermaelen,Barcelona,6332.0,217.0,2,1
+Andrés Iniesta,Suspension,Yellow Card Suspension,2016-05-23,2016-12-01,Andrés Iniesta Luján,Barcelona,5216.0,217.0,2,1
+Claudio Bravo,Injury,Calf Injury,2016-05-02,2016-05-19,Claudio Andrés Bravo Muñoz,Barcelona,4691.0,217.0,3,2
+Gerard Piqué,Suspension,Yellow Card Suspension,2016-04-18,2016-04-21,Gerard Piqué Bernabéu,Barcelona,5213.0,217.0,2,1
+Luis Suárez,Suspension,Yellow Card Suspension,2016-04-04,2016-04-11,Luis Alberto Suárez Díaz,Barcelona,5246.0,217.0,2,1
+Aleix Vidal,Injury,Adductor Pain,2016-04-04,2016-04-14,Aleix Vidal Parreu,Barcelona,6400.0,217.0,3,3
+Jordi Alba,Injury,Ankle Problems,2016-03-27,2016-04-02,Jordi Alba Ramos,Barcelona,5211.0,217.0,3,4
+Claudio Bravo,Suspension,Yellow Card Suspension,2016-03-26,2016-03-31,Claudio Andrés Bravo Muñoz,Barcelona,4691.0,217.0,2,1
+Ivan Rakitic,Injury,Calf Injury,2016-03-20,2016-04-02,Ivan Rakitić,Barcelona,5470.0,217.0,3,2
+Sergio Busquets,Injury,Rest,2016-03-10,2016-03-14,Sergio Busquets i Burgos,Barcelona,5203.0,217.0,3,5
+Sandro Ramírez,Injury,Tear in the abductor muscle,2016-03-10,2016-05-18,Sandro Ramírez Castillo,Barcelona,3508.0,217.0,3,6
+Douglas,Injury,Muscle Strain,2016-03-04,2016-03-12,Douglas Pereira dos Santos,Barcelona,27318.0,217.0,3,7
+Dani Alves,Suspension,Yellow Card Suspension,2016-02-29,2016-03-03,Daniel Alves da Silva,Barcelona,4324.0,217.0,2,1
+Gerard Piqué,Suspension,Yellow Card Suspension,2016-02-25,2016-03-17,Gerard Piqué Bernabéu,Barcelona,5213.0,217.0,2,1
+Gerard Piqué,Suspension,Yellow Card Suspension,2016-01-18,2016-01-25,Gerard Piqué Bernabéu,Barcelona,5213.0,217.0,2,1
+Jordi Alba,Injury,Muscle Injury,2016-01-17,2016-01-30,Jordi Alba Ramos,Barcelona,5211.0,217.0,3,8
+Luis Suárez,Suspension,Suspension Through Sports Court,2016-01-07,2016-01-21,Luis Alberto Suárez Díaz,Barcelona,5246.0,217.0,2,9
+Marc ter Stegen,Injury,Knee Problems,2015-11-30,2015-12-03,Marc-André ter Stegen,Barcelona,20055.0,217.0,3,10
+Dani Alves,Suspension,Yellow Card Suspension,2015-11-26,2015-12-10,Daniel Alves da Silva,Barcelona,4324.0,217.0,2,1
+Ivan Rakitic,Injury,Calf Problems,2015-11-05,2015-11-17,Ivan Rakitić,Barcelona,5470.0,217.0,3,11
+Douglas,Injury,Foot Injury,2015-10-28,2015-12-30,Douglas Pereira dos Santos,Barcelona,27318.0,217.0,3,12
+Luis Suárez,Suspension,Suspension Through Sports Court,2015-10-08,2015-11-19,Luis Alberto Suárez Díaz,Barcelona,5246.0,217.0,2,9
+Jordi Alba,Injury,Neck Injury,2015-09-22,2015-09-28,Jordi Alba Ramos,Barcelona,5211.0,217.0,3,13
+Claudio Bravo,Injury,Torn Muscle Bundle,2015-09-07,2015-10-01,Claudio Andrés Bravo Muñoz,Barcelona,4691.0,217.0,3,14
+Dani Alves,Injury,Groin Injury,2015-08-24,2015-09-18,Daniel Alves da Silva,Barcelona,4324.0,217.0,3,15
+Douglas,Injury,Knock,2015-08-03,2015-09-18,Douglas Pereira dos Santos,Barcelona,27318.0,217.0,3,16
+Aleix Vidal,Legal impediment,No Eligibility,2015-07-01,2016-01-04,Aleix Vidal Parreu,Barcelona,6400.0,217.0,4,17
+Luka Modrić,Suspension,Yellow Card Suspension,2016-05-15,2016-08-22,Luka Modrić,Real Madrid,5463.0,220.0,2,1
+Lucas Vázquez,Injury,Knee Bruise,2016-05-08,2016-05-25,Lucas Vázquez Iglesias,Real Madrid,5200.0,220.0,3,18
+Casemiro,Injury,Muscular problems,2016-05-02,2016-05-08,Carlos Henrique Casimiro,Real Madrid,5539.0,220.0,3,19
+Cristiano Ronaldo,Injury,Torn Muscle Fiber,2016-04-21,2016-05-02,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,5207.0,220.0,3,20
+Casemiro,Injury,Minor Knock,2016-04-14,2016-04-18,Carlos Henrique Casimiro,Real Madrid,5539.0,220.0,3,21
+Pepe,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,Kléper Laveran Lima Ferreira,Real Madrid,20016.0,220.0,2,1
+Luka Modrić,Injury,Ankle Injury,2016-03-03,2016-03-07,Luka Modrić,Real Madrid,5463.0,220.0,3,22
+Dani Carvajal,Suspension,Yellow Card Suspension,2016-02-29,2016-03-03,Daniel Carvajal Ramos,Real Madrid,5721.0,220.0,2,1
+Raphaël Varane,Suspension,Indirect Card Suspension,2016-02-15,2016-02-22,Raphaël Varane,Real Madrid,5485.0,220.0,2,23
+Mateo Kovacic,Suspension,Red Card Suspension,2016-01-04,2016-01-11,Mateo Kovačić,Real Madrid,5456.0,220.0,2,24
+Isco,Suspension,Red Card Suspension,2015-11-24,2015-12-07,Francisco Román Alarcón Suárez,Real Madrid,4926.0,220.0,2,24
+Danilo,Injury,Lung Contusion,2015-09-10,2015-10-08,Danilo Luiz da Silva,Real Madrid,3063.0,220.0,3,25
+Antoine Griezmann,Suspension,Yellow Card Suspension,2016-05-16,2016-08-22,Antoine Griezmann,Atlético Madrid,5487.0,212.0,2,1
+Yannick Carrasco,Injury,Ankle Injury,2016-04-25,2016-05-02,Yannick Ferreira Carrasco,Atlético Madrid,5633.0,212.0,3,22
+Óliver Torres,Injury,Adductor Pain,2016-04-17,2016-04-27,Óliver Torres Muñoz,Atlético Madrid,12021.0,212.0,3,3
+Stefan Savic,Injury,Toe Injury,2016-03-31,2016-04-13,Stefan Savić,Atlético Madrid,6376.0,212.0,3,26
+Yannick Carrasco,Injury,Ankle Injury,2016-03-28,2016-04-04,Yannick Ferreira Carrasco,Atlético Madrid,5633.0,212.0,3,22
+Saúl Ñíguez,Injury,Ankle Sprain,2016-03-24,2016-04-02,Saúl Ñíguez Esclapez,Atlético Madrid,6381.0,212.0,3,27
+Yannick Carrasco,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,Yannick Ferreira Carrasco,Atlético Madrid,5633.0,212.0,2,1
+Óliver Torres,Injury,Adductor Pain,2016-03-14,2016-04-15,Óliver Torres Muñoz,Atlético Madrid,12021.0,212.0,3,3
+Stefan Savic,Injury,Hamstring Injury,2016-02-25,2016-03-28,Stefan Savić,Atlético Madrid,6376.0,212.0,3,28
+Yannick Carrasco,Injury,Ankle Injury,2016-02-15,2016-03-03,Yannick Ferreira Carrasco,Atlético Madrid,5633.0,212.0,3,22
+José Giménez,Suspension,Yellow Card Suspension,2016-02-15,2016-02-22,José María Giménez de Vargas,Atlético Madrid,5259.0,212.0,2,1
+Thomas Partey,Injury,Hamstring Injury,2016-02-09,2016-03-04,Thomas Teye Partey,Atlético Madrid,6383.0,212.0,3,28
+Thomas Partey,Injury,Hamstring Injury,2016-02-08,2016-03-07,Thomas Teye Partey,Atlético Madrid,6383.0,212.0,3,28
+Filipe Luís,Suspension,Red Card Suspension,2016-02-01,2016-02-08,Filipe Luís Kasmirski,Atlético Madrid,6320.0,212.0,2,24
+Diego Godín,Suspension,Indirect Card Suspension,2016-02-01,2016-02-08,Diego Roberto Godín Leal,Atlético Madrid,5249.0,212.0,2,23
+Ángel Correa,Suspension,Yellow Card Suspension,2016-01-25,2016-02-01,Ángel Martín Correa,Atlético Madrid,6377.0,212.0,2,1
+Matías Kranevitter,Legal impediment,No Eligibility,2016-01-01,2016-01-04,Claudio Matías Kranevitter,Atlético Madrid,18904.0,212.0,4,17
+Diego Godín,Suspension,Yellow Card Suspension,2015-11-19,2016-03-27,Diego Roberto Godín Leal,Atlético Madrid,5249.0,212.0,2,1
+Ángel Correa,Injury,Minor Knock,2015-11-02,2015-11-05,Ángel Martín Correa,Atlético Madrid,6377.0,212.0,3,21
+Luciano Vietto,Injury,Stomach Problems,2015-10-07,2015-11-17,Luciano Vietto,Atlético Madrid,6744.0,212.0,3,29
+Koke,Injury,Hamstring Strain,2015-09-21,2015-10-15,Jorge Resurrección Merodio,Atlético Madrid,5199.0,212.0,3,30
+Víctor Ruiz,Suspension,Indirect Card Suspension,2016-05-05,2016-08-18,Víctor Ruíz Torre,Villarreal,6752.0,222.0,2,23
+Léo Baptistão,Injury,Adductor Pain,2016-04-21,2016-05-08,Leonardo Carrilho Baptistão,Villarreal,6761.0,222.0,3,3
+Jaume Costa,Injury,Muscle Injury,2016-04-18,2016-04-25,Jaume Vicent Costa Jordá,Villarreal,6828.0,222.0,3,8
+Roberto Soldado,Injury,Muscular problems,2016-04-18,2016-04-22,Roberto Soldado Rillo,Villarreal,26009.0,222.0,3,19
+Samu Castillejo,Injury,Hamstring Injury,2016-04-14,2016-04-24,Samuel Castillejo Azuaga,Villarreal,6829.0,222.0,3,28
+Tomás Pina,Injury,Ligament Stretching,2016-04-12,2016-04-24,Tomás Pina Isla,Villarreal,6622.0,222.0,3,31
+Jaume Costa,Injury,Muscular problems,2016-04-07,2016-04-14,Jaume Vicent Costa Jordá,Villarreal,6828.0,222.0,3,19
+Denis Suárez,Injury,Muscle Injury,2016-03-20,2016-04-03,Denis Suárez Fernández,Villarreal,6609.0,222.0,3,8
+Antonio Rukavina,Suspension,Yellow Card Suspension,2016-03-18,2016-04-08,Antonio Rukavina,Villarreal,5588.0,222.0,2,1
+Alphonse Aréola,Injury,Outer Ligament Problems,2016-03-14,2016-03-21,Alphonse Areola,Villarreal,3379.0,222.0,3,32
+Roberto Soldado,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Roberto Soldado Rillo,Villarreal,26009.0,222.0,2,1
+Jaume Costa,Injury,Ankle Injury,2016-02-25,2016-04-04,Jaume Vicent Costa Jordá,Villarreal,6828.0,222.0,3,22
+Jonathan Dos Santos,Injury,Achilles tendon rupture,2016-02-18,2016-04-09,Jonathan dos Santos Ramírez,Villarreal,6357.0,222.0,3,33
+Víctor Ruiz,Suspension,Yellow Card Suspension,2016-01-18,2016-01-25,Víctor Ruíz Torre,Villarreal,6752.0,222.0,2,1
+Mario Gaspar,Suspension,Indirect Card Suspension,2016-01-07,2016-01-14,Mario Gaspar Pérez Martínez,Villarreal,6772.0,222.0,2,23
+Jaume Costa,Injury,Ankle Injury,2015-12-24,2016-01-18,Jaume Vicent Costa Jordá,Villarreal,6828.0,222.0,3,22
+Bojan Jokic,Injury,Knock,2015-12-11,2016-01-07,Bojan Jokić,Villarreal,27155.0,222.0,3,16
+Mario Gaspar,Injury,Hamstring Injury,2015-11-30,2015-12-21,Mario Gaspar Pérez Martínez,Villarreal,6772.0,222.0,3,28
+Antonio Rukavina,Injury,Muscle Injury,2015-11-29,2015-12-10,Antonio Rukavina,Villarreal,5588.0,222.0,3,8
+Jaume Costa,Suspension,Yellow Card Suspension,2015-11-23,2015-11-30,Jaume Vicent Costa Jordá,Villarreal,6828.0,222.0,2,1
+Eric Bailly,Suspension,Yellow Card Suspension,2015-11-02,2015-11-09,Eric Bertrand Bailly,Villarreal,3324.0,222.0,2,1
+Léo Baptistão,Injury,Hamstring Injury,2015-10-22,2015-12-24,Leonardo Carrilho Baptistão,Villarreal,6761.0,222.0,3,28
+Eric Bailly,Suspension,Indirect Card Suspension,2015-10-19,2015-10-26,Eric Bertrand Bailly,Villarreal,3324.0,222.0,2,23
+Bojan Jokic,Suspension,Yellow Card Suspension,2015-10-05,2015-10-20,Bojan Jokić,Villarreal,27155.0,222.0,2,1
+Denis Suárez,Injury,Torn Muscle Fiber,2015-09-30,2015-10-17,Denis Suárez Fernández,Villarreal,6609.0,222.0,3,20
+Adrián López,Injury,Hamstring Injury,2015-09-23,2016-02-21,Adrián López Álvarez,Villarreal,6735.0,222.0,3,28
+Cédric Bakambu,Injury,Ankle Sprain,2015-09-20,2015-10-15,Cédric Bakambu,Villarreal,6862.0,222.0,3,27
+Léo Baptistão,Legal impediment,No Eligibility,2015-08-24,2015-08-25,Leonardo Carrilho Baptistão,Villarreal,6761.0,222.0,4,17
+Mikel Rico,Suspension,Red Card Suspension,2016-05-14,2016-08-22,Mikel Rico Moreno,Athletic Club,6656.0,215.0,2,24
+Iñaki Williams,Injury,Thigh Problems,2016-04-11,2016-04-20,Iñaki Williams Arthuer,Athletic Club,6393.0,215.0,3,34
+Sabin Merino,Injury,Thigh Problems,2016-04-04,2016-05-15,Sabin Merino Zuloaga,Athletic Club,6666.0,215.0,3,34
+Aymeric Laporte,Injury,Broken Fibula,2016-03-24,2016-06-30,Aymeric Laporte,Athletic Club,4353.0,215.0,3,35
+Raúl García,Suspension,Yellow Card Suspension,2016-03-18,2016-04-08,Raúl García Escudero,Atlético Madrid,6391.0,212.0,2,1
+Iker Muniain,Injury,Knock,2016-03-17,2016-04-04,Iker Muniain Goñi,Athletic Club,6842.0,215.0,3,16
+Mikel Balenziaga,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Mikel Balenziaga Oruesagasti,Athletic Club,6789.0,215.0,2,1
+Iñaki Williams,Injury,Ankle Injury,2016-02-22,2016-03-21,Iñaki Williams Arthuer,Athletic Club,6393.0,215.0,3,22
+Raúl García,Suspension,Yellow Card Suspension,2016-02-22,2016-02-29,Raúl García Escudero,Atlético Madrid,6391.0,212.0,2,1
+Xabier Etxeita,Suspension,Yellow Card Suspension,2016-02-15,2016-02-22,Xabier Etxeita Gorritxategi,Athletic Club,6788.0,215.0,2,1
+Iñaki Williams,Suspension,Indirect Card Suspension,2016-02-08,2016-02-15,Iñaki Williams Arthuer,Athletic Club,6393.0,215.0,2,23
+Mikel San José,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,Mikel San José Domínguez,Athletic Club,6389.0,215.0,2,1
+Óscar de Marcos,Suspension,Yellow Card Suspension,2016-02-01,2016-02-08,Óscar de Marcos Arana,Athletic Club,6649.0,215.0,2,1
+Raúl García,Injury,Knee Medial Ligament Tear,2016-01-09,2016-02-19,Raúl García Escudero,Atlético Madrid,6391.0,212.0,3,36
+Aymeric Laporte,Suspension,Yellow Card Suspension,2015-12-31,2016-01-04,Aymeric Laporte,Athletic Club,4353.0,215.0,2,1
+Mikel San José,Suspension,Red Card Suspension,2015-12-07,2015-12-14,Mikel San José Domínguez,Athletic Club,6389.0,215.0,2,24
+Aymeric Laporte,Suspension,Red Card Suspension,2015-11-30,2015-12-07,Aymeric Laporte,Athletic Club,4353.0,215.0,2,24
+Aymeric Laporte,Injury,Knee Injury,2015-11-05,2015-11-19,Aymeric Laporte,Athletic Club,4353.0,215.0,3,37
+Iker Muniain,Injury,Adductor Injury,2015-10-26,2015-12-17,Iker Muniain Goñi,Athletic Club,6842.0,215.0,3,38
+Iker Muniain,Injury,Fitness,2015-10-19,2015-10-25,Iker Muniain Goñi,Athletic Club,6842.0,215.0,3,39
+Mikel Rico,Injury,Broken Toe,2015-10-15,2015-11-23,Mikel Rico Moreno,Athletic Club,6656.0,215.0,3,40
+Mikel Balenziaga,Injury,Hamstring Injury,2015-08-23,2015-09-07,Mikel Balenziaga Oruesagasti,Athletic Club,6789.0,215.0,3,28
+Iñaki Williams,Injury,Broken Leg,2015-08-20,2015-09-24,Iñaki Williams Arthuer,Athletic Club,6393.0,215.0,3,41
+Xabier Etxeita,Injury,Knee Problems,2015-08-17,2015-08-27,Xabier Etxeita Gorritxategi,Athletic Club,6788.0,215.0,3,10
+Mikel San José,Injury,Leg Injury,2015-08-14,2015-09-10,Mikel San José Domínguez,Athletic Club,6389.0,215.0,3,42
+Iñaki Williams,Injury,Torn Muscle Fiber,2015-07-20,2015-08-20,Iñaki Williams Arthuer,Athletic Club,6393.0,215.0,3,20
+Mikel Rico,Injury,Torn Muscle Fiber,2015-07-02,2015-08-17,Mikel Rico Moreno,Athletic Club,6656.0,215.0,3,20
+Marcelo Díaz,Suspension,Indirect Card Suspension,2016-06-28,2016-09-03,Marcelo Alfonso Díaz Rojas,Celta Vigo,27341.0,209.0,2,23
+Claudio Beauvue,Injury,Achilles tendon rupture,2016-04-18,2017-02-25,Claudio Beauvue,Celta Vigo,6600.0,209.0,3,33
+Hugo Mallo,Injury,Adductor Injury,2016-04-13,2016-04-25,Hugo Mallo Novegil,Celta Vigo,6805.0,209.0,3,38
+Marcelo Díaz,Injury,Hamstring Injury,2016-03-25,2016-04-16,Marcelo Alfonso Díaz Rojas,Celta Vigo,27341.0,209.0,3,28
+Nemanja Radoja,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,Nemanja Radoja,Celta Vigo,6796.0,209.0,2,1
+Iago Aspas,Injury,Hamstring Injury,2016-03-12,2016-04-02,Iago Aspas Juncal,Celta Vigo,5217.0,209.0,3,28
+Fabián Orellana,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Fabián Ariel Orellana Valenzuela,Celta Vigo,7105.0,209.0,2,1
+Pablo Hernández,Injury,Knee Injury,2016-03-05,2016-03-31,Pedro Pablo Hernández,Celta Vigo,6801.0,209.0,3,37
+Gustavo Cabral,Suspension,Yellow Card Suspension,2016-03-03,2016-03-07,Gustavo Daniel Cabral Cáceres,Celta Vigo,6794.0,209.0,2,1
+Theo Bongonda,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,Théo Bongonda Mbul''Ofeko Batombo,Celta Vigo,23785.0,209.0,2,1
+Sergi Gómez,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,Sergi Gómez Solà,Celta Vigo,6804.0,209.0,2,1
+Iago Aspas,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,Iago Aspas Juncal,Celta Vigo,5217.0,209.0,2,1
+Hugo Mallo,Suspension,Yellow Card Suspension,2016-02-01,2016-02-08,Hugo Mallo Novegil,Celta Vigo,6805.0,209.0,2,1
+Fabián Orellana,Suspension,Suspension Through Sports Court,2016-02-01,2016-02-21,Fabián Ariel Orellana Valenzuela,Celta Vigo,7105.0,209.0,2,9
+Rubén Blanco,Injury,Bruised Ribs,2016-01-28,2016-01-31,Rubén Blanco Veiga,Celta Vigo,6795.0,209.0,3,43
+Nolito,Injury,Hamstring Injury,2015-12-14,2016-02-18,Manuel Agudo Durán,Celta Vigo,6724.0,209.0,3,28
+Nolito,Suspension,Yellow Card Suspension,2015-12-14,2015-12-21,Manuel Agudo Durán,Celta Vigo,6724.0,209.0,2,1
+Pablo Hernández,Suspension,Indirect Card Suspension,2015-12-14,2015-12-21,Pedro Pablo Hernández,Celta Vigo,6801.0,209.0,2,23
+Jonny Otto,Suspension,Red Card Suspension,2015-12-07,2015-12-15,Jonathan Castro Otto,Celta Vigo,6802.0,209.0,2,24
+Pablo Hernández,Suspension,Yellow Card Suspension,2015-11-29,2015-12-07,Pedro Pablo Hernández,Celta Vigo,6801.0,209.0,2,1
+Sergi Gómez,Injury,Hamstring Injury,2015-11-28,2015-12-20,Sergi Gómez Solà,Celta Vigo,6804.0,209.0,3,28
+Andreu Fontàs,Injury,Achilles Heel Problems,2015-11-22,2016-09-15,Andreu Fontàs Prat,Celta Vigo,6890.0,209.0,3,44
+Gustavo Cabral,Suspension,Red Card Suspension,2015-10-24,2015-11-22,Gustavo Daniel Cabral Cáceres,Celta Vigo,6794.0,209.0,2,24
+Dejan Drazic,Injury,Thigh Problems,2015-10-07,2015-10-28,Dejan Dražić,Celta Vigo,27340.0,209.0,3,34
+Andreu Fontàs,Injury,Achilles tendon problems,2015-09-23,2015-10-28,Andreu Fontàs Prat,Celta Vigo,6890.0,209.0,3,45
+Gustavo Cabral,Injury,Knee Injury,2015-08-23,2015-08-28,Gustavo Daniel Cabral Cáceres,Celta Vigo,6794.0,209.0,3,37
+Rubén Blanco,Injury,Broken Collarbone,2015-08-23,2015-11-17,Rubén Blanco Veiga,Celta Vigo,6795.0,209.0,3,46
+Adil Rami,Suspension,Yellow Card Suspension,2016-06-27,2016-07-04,Adil Rami,Sevilla,3253.0,213.0,2,1
+Adil Rami,Suspension,Suspension Through Sports Court,2016-05-23,2016-12-01,Adil Rami,Sevilla,3253.0,213.0,2,9
+Timothée Kolodziejczak,Suspension,Red Card Suspension,2016-05-14,2016-08-21,Timothée Kolodziejczak,Sevilla,10476.0,213.0,2,24
+Éver Banega,Suspension,Yellow Card Suspension,2016-04-08,2016-04-15,Éver Maximiliano David Banega,Sevilla,5504.0,213.0,2,1
+David Soria,Injury,Hand Injury,2016-03-17,2016-03-31,David Carmona Sierra,Sevilla,24711.0,213.0,3,47
+Yevhen Konoplyanka,Injury,Muscle Injury,2016-03-14,2016-04-04,Yevhen Konoplyanka,Sevilla,8523.0,213.0,3,8
+Steven Nzonzi,Injury,Hamstring Injury,2016-03-13,2016-04-01,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,5737.0,213.0,3,28
+Steven Nzonzi,Suspension,Indirect Card Suspension,2016-03-11,2016-03-18,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,5737.0,213.0,2,23
+Timothée Kolodziejczak,Suspension,Yellow Card Suspension,2016-02-29,2016-03-03,Timothée Kolodziejczak,Sevilla,10476.0,213.0,2,1
+Federico Fazio,Suspension,Indirect Card Suspension,2016-02-08,2016-02-15,Federico Julián Fazio,Sevilla,6349.0,213.0,2,23
+Grzegorz Krychowiak,Injury,Knee Injury,2016-01-29,2016-03-17,Grzegorz Krychowiak,Sevilla,3637.0,213.0,3,37
+Vitolo,Suspension,Indirect Card Suspension,2016-01-25,2016-02-01,Víctor Machín Pérez,Sevilla,6841.0,213.0,2,23
+Vicente Iborra,Suspension,Indirect Card Suspension,2016-01-18,2016-01-25,Vicente Iborra De La Fuente,Sevilla,3497.0,213.0,2,23
+Adil Rami,Suspension,Indirect Card Suspension,2016-01-04,2016-01-11,Adil Rami,Sevilla,3253.0,213.0,2,23
+Grzegorz Krychowiak,Suspension,Yellow Card Suspension,2015-12-21,2015-12-31,Grzegorz Krychowiak,Sevilla,3637.0,213.0,2,1
+Vicente Iborra,Suspension,Red Card Suspension,2015-12-17,2016-01-07,Vicente Iborra De La Fuente,Sevilla,3497.0,213.0,2,24
+Vicente Iborra,Suspension,Yellow Card Suspension,2015-12-07,2015-12-14,Vicente Iborra De La Fuente,Sevilla,3497.0,213.0,2,1
+Luismi,Injury,Foot Injury,2015-10-21,2015-11-26,Luis Hernández Rodríguez,Sporting Gijón,6561.0,1041.0,3,12
+Sergio Escudero,Injury,Cruciate Ligament Injury,2015-09-21,2015-10-29,Sergio Escudero Palomo,Sevilla,6718.0,213.0,3,48
+Éver Banega,Injury,Knee Injury,2015-09-21,2015-10-29,Éver Maximiliano David Banega,Sevilla,5504.0,213.0,3,37
+Gaël Kakuta,Injury,Ankle Injury,2015-09-12,2016-02-02,Gaël Kakuta,Sevilla,3130.0,213.0,3,22
+Beto Pimparel,Injury,Knee Injury,2015-09-11,2016-03-17,António Alberto Bastos Pimparel,Sevilla,27111.0,213.0,3,37
+Steven Nzonzi,Suspension,Indirect Card Suspension,2015-08-24,2015-08-31,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,5737.0,213.0,2,23
+Roberto Rosales,Injury,Ankle Injury,2016-05-02,2016-05-23,Roberto José Rosales Altuve,Málaga,6569.0,223.0,3,22
+Carlos Kameni,Injury,Fitness,2016-04-11,2016-04-25,Idriss Carlos Kameni,Málaga,26103.0,223.0,3,39
+Raúl Albentosa,Suspension,Yellow Card Suspension,2016-04-09,2016-04-18,Raúl Albentosa Redal,Málaga,6727.0,223.0,2,1
+Roberto Rosales,Suspension,Yellow Card Suspension,2016-04-09,2016-04-18,Roberto José Rosales Altuve,Málaga,6569.0,223.0,2,1
+Juankar,Injury,Adductor Injury,2016-04-01,2016-06-04,Juan Carlos Pérez López,Málaga,6559.0,223.0,3,38
+Roque Santa Cruz,Injury,Thigh Problems,2016-03-05,2016-03-28,Roque Luis Santa Cruz Cantero,Málaga,26783.0,223.0,3,34
+Carlos Kameni,Injury,Meniscus Tear,2016-03-05,2016-04-11,Idriss Carlos Kameni,Málaga,26103.0,223.0,3,49
+Juanpi Añor,Suspension,Yellow Card Suspension,2016-03-03,2016-03-07,Juan Pablo Añor Acosta,Málaga,6563.0,223.0,2,1
+Duje Cop,Injury,Torn Muscle Fiber,2016-03-02,2016-03-15,Duje Čop,Málaga,8419.0,223.0,3,20
+Federico Ricca,Injury,Thumb Injury,2016-02-08,2016-02-23,Federico Ricca Rostagnol,Málaga,6844.0,223.0,3,50
+José Recio,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,José Luis García del Pozo,Málaga,6580.0,223.0,2,1
+Christian Atsu,Injury,Torn Muscle Fiber,2016-02-06,2016-02-22,Christian Atsu Twasam,Málaga,3084.0,223.0,3,20
+Raúl Albentosa,Suspension,Yellow Card Suspension,2016-02-01,2016-02-08,Raúl Albentosa Redal,Málaga,6727.0,223.0,2,1
+Chory Castro,Injury,Torn Muscle Fiber,2016-01-30,2016-03-01,Gonzalo Castro Irizábal,Real Sociedad,6740.0,210.0,3,20
+Nordin Amrabat,Suspension,Yellow Card Suspension,2016-01-04,2016-01-11,Nordin Amrabat,Málaga,3302.0,223.0,2,1
+Charles,Suspension,Yellow Card Suspension,2016-01-04,2016-01-11,Charles Días Barbosa de Oliveira,Málaga,6707.0,223.0,2,1
+Juankar,Injury,Adductor Injury,2015-12-30,2016-03-11,Juan Carlos Pérez López,Málaga,6559.0,223.0,3,38
+Juanpi Añor,Injury,Muscle Injury,2015-11-05,2015-11-16,Juan Pablo Añor Acosta,Málaga,6563.0,223.0,3,8
+Roque Santa Cruz,Injury,Knee Injury,2015-10-21,2015-11-23,Roque Luis Santa Cruz Cantero,Málaga,26783.0,223.0,3,37
+Juanpi Añor,Injury,Infection,2015-10-19,2015-10-26,Juan Pablo Añor Acosta,Málaga,6563.0,223.0,3,51
+José Recio,Suspension,Yellow Card Suspension,2015-10-04,2015-10-20,José Luis García del Pozo,Málaga,6580.0,223.0,2,1
+Nordin Amrabat,Injury,Meniscus Tear,2015-09-28,2015-11-16,Nordin Amrabat,Málaga,3302.0,223.0,3,49
+Nordin Amrabat,Suspension,Red Card Suspension,2015-09-27,2015-10-19,Nordin Amrabat,Málaga,3302.0,223.0,2,24
+Nordin Amrabat,Injury,Hamstring Injury,2015-09-17,2015-09-24,Nordin Amrabat,Málaga,3302.0,223.0,3,28
+José Recio,Suspension,Yellow Card Suspension,2015-07-01,2015-08-22,José Luis García del Pozo,Málaga,6580.0,223.0,2,1
+Iñigo Martínez,Injury,Knock,2016-04-29,2016-05-29,Íñigo Martínez Berridi,Real Sociedad,6665.0,210.0,3,16
+Jonathas,Injury,Ankle Injury,2016-04-21,2016-04-28,Jonathas Cristian de Jesus,Real Sociedad,8584.0,210.0,3,22
+Aritz Elustondo,Suspension,Yellow Card Suspension,2016-02-22,2016-02-29,Aritz Elustondo Irribaria,Real Sociedad,6679.0,210.0,2,1
+Jonathas,Suspension,Yellow Card Suspension,2016-02-22,2016-02-29,Jonathas Cristian de Jesus,Real Sociedad,8584.0,210.0,2,1
+Sergio Canales,Injury,Cruciate Ligament Tear,2015-12-30,2016-09-21,Sergio Canales Madrazo,Real Sociedad,6673.0,210.0,3,52
+Alberto de la Bella,Suspension,Yellow Card Suspension,2015-12-14,2015-12-21,Alberto De La Bella Madureño,Real Sociedad,6674.0,210.0,2,1
+Yuri Berchiche,Suspension,Yellow Card Suspension,2015-12-07,2015-12-14,Yuri Berchiche Izeta,Real Sociedad,3023.0,210.0,2,1
+Rubén Pardo,Suspension,Yellow Card Suspension,2015-11-29,2015-12-07,Rubén Pardo Gutiérrez,Real Sociedad,6899.0,210.0,2,1
+Jonathas,Injury,Hamstring Injury,2015-11-05,2015-12-03,Jonathas Cristian de Jesus,Real Sociedad,8584.0,210.0,3,28
+Joseba Zaldúa,Injury,Groin Problems,2015-11-05,2015-11-30,Joseba Zaldúa Bengoetxea,Real Sociedad,6605.0,210.0,3,53
+Alberto de la Bella,Injury,Knee Injury,2015-10-21,2015-11-18,Alberto De La Bella Madureño,Real Sociedad,6674.0,210.0,3,37
+Diego Reyes,Suspension,Indirect Card Suspension,2015-10-19,2015-10-26,Diego Antonio Reyes Rosales,Real Sociedad,16539.0,210.0,2,23
+Jonathas,Suspension,Indirect Card Suspension,2015-10-19,2015-10-26,Jonathas Cristian de Jesus,Real Sociedad,8584.0,210.0,2,23
+Gerónimo Rulli,Suspension,Red Card Suspension,2015-09-20,2015-09-23,Gerónimo Rulli,Real Sociedad,6694.0,210.0,2,24
+Joseba Zaldúa,Injury,Leg Injury,2015-08-29,2015-10-04,Joseba Zaldúa Bengoetxea,Real Sociedad,6605.0,210.0,3,42
+Carlos Vela,Suspension,Yellow Card Suspension,2015-07-24,2015-07-28,Carlos Alberto Vela Garrido,Real Sociedad,5560.0,210.0,2,1
+Raúl Navas,Injury,Hip Injury,2015-07-18,2016-09-09,James David Rodríguez Rubio,Real Madrid,5695.0,220.0,3,54
+Martín Montoya,Injury,Achilles tendon problems,2016-04-16,2016-04-23,Martín Montoya Torralbo,Real Betis,6593.0,218.0,3,45
+Foued Kadir,Injury,Hamstring Strain,2016-02-24,2016-03-15,Foued Kadir,Real Betis,186264.0,218.0,3,30
+Martín Montoya,Injury,Hamstring Injury,2016-02-23,2016-03-06,Martín Montoya Torralbo,Real Betis,6593.0,218.0,3,28
+Alfred N’Diaye,Suspension,Yellow Card Suspension,2016-02-22,2016-02-29,Alfred John Momar N''Diaye,Real Betis,5671.0,218.0,2,1
+Germán Pezzella,Suspension,Yellow Card Suspension,2016-02-12,2016-02-17,Germán Alejandro Pezzella,Real Betis,7161.0,218.0,2,1
+Petros,Injury,Hip Injury,2016-02-07,2016-02-11,Petros Matheus dos Santos Araújo,Real Betis,27346.0,218.0,3,54
+Joaquin Sánchez,Injury,Hamstring Injury,2016-01-31,2016-02-16,Joaquín Sánchez Rodríguez,Real Betis,6651.0,218.0,3,28
+Alfred N’Diaye,Suspension,Indirect Card Suspension,2016-01-07,2016-01-14,Alfred John Momar N''Diaye,Real Betis,5671.0,218.0,2,23
+Álvaro Vadillo,Injury,Knock,2016-01-04,2016-02-12,Álvaro Vadillo Cifuentes,Real Betis,24143.0,218.0,3,16
+Bruno González,Injury,Knock,2015-12-31,2016-01-06,Bruno González Cabrera,Real Betis,6872.0,218.0,3,16
+Bruno González,Suspension,Yellow Card Suspension,2015-12-07,2015-12-14,Bruno González Cabrera,Real Betis,6872.0,218.0,2,1
+Dani Ceballos,Suspension,Yellow Card Suspension,2015-12-07,2015-12-14,Daniel Ceballos Fernández,Real Betis,6697.0,218.0,2,1
+Alfred N’Diaye,Injury,Hamstring Injury,2015-11-04,2015-11-18,Alfred John Momar N''Diaye,Real Betis,5671.0,218.0,3,28
+Jorge Molina,Injury,Hamstring Strain,2015-10-14,2015-10-28,Jorge Molina Vidal,Real Betis,6630.0,218.0,3,30
+Petros,Suspension,Indirect Card Suspension,2015-09-14,2015-09-21,Petros Matheus dos Santos Araújo,Real Betis,27346.0,218.0,2,23
+Javier Matilla,Legal impediment,No Eligibility,2015-09-01,2015-12-31,Mauro Javier Dos Santos,Eibar,6837.0,322.0,4,17
+Pedro Bigas,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,Pedro Bigas Rigo,Las Palmas,7907.0,208.0,2,1
+Tana,Injury,Calf Problems,2016-03-05,2016-03-19,Pedro Taunausú Domínguez Placeres,Las Palmas,6928.0,208.0,3,11
+Roque Mesa,Suspension,Yellow Card Suspension,2016-03-03,2016-03-07,Roque Mesa Quevedo,Las Palmas,3610.0,208.0,2,1
+Mubarak Wakaso,Injury,Hamstring Injury,2016-03-01,2016-03-24,Mubarak Wakaso,Las Palmas,6626.0,208.0,3,28
+Mubarak Wakaso,Suspension,Yellow Card Suspension,2016-02-15,2016-02-22,Mubarak Wakaso,Las Palmas,6626.0,208.0,2,1
+Dani Castellano,Injury,Hamstring Strain,2016-02-12,2016-03-09,Dani Castellano Betancor,Las Palmas,6932.0,208.0,3,30
+David Simón,Injury,Back Injury,2016-02-10,2016-03-01,David Simón Rodríguez Santana,Las Palmas,7906.0,208.0,3,55
+Ángel Montoro,Injury,Groin Injury,2016-01-31,2016-02-25,Ángel Montoro Sánchez,Las Palmas,24144.0,208.0,3,15
+Nabil El Zhar,Injury,Hamstring Strain,2016-01-30,2016-02-12,Nabil El Zhar,Las Palmas,6608.0,208.0,3,30
+Roque Mesa,Suspension,Yellow Card Suspension,2016-01-01,2016-01-04,Roque Mesa Quevedo,Las Palmas,3610.0,208.0,2,1
+Hernán Santana,Injury,Muscle Injury,2015-12-31,2016-03-31,Hernán Daniel Santana Trujillo,Las Palmas,15805.0,208.0,3,8
+Nabil El Zhar,Injury,Groin Problems,2015-11-05,2015-11-20,Nabil El Zhar,Las Palmas,6608.0,208.0,3,53
+Emmanuel Culio,Suspension,Red Card Suspension,2015-10-19,2015-10-26,Juan Emmanuel Culio,Las Palmas,27521.0,208.0,2,24
+Mubarak Wakaso,Suspension,Yellow Card Suspension,2015-10-19,2015-10-26,Mubarak Wakaso,Las Palmas,6626.0,208.0,2,1
+Hernán Santana,Injury,Thigh Problems,2015-10-01,2015-10-15,Hernán Daniel Santana Trujillo,Las Palmas,15805.0,208.0,3,34
+Antolín Alcaráz,Injury,Hamstring Injury,2015-09-29,2015-12-08,Antolín Alcáraz Viveros,Las Palmas,27522.0,208.0,3,28
+Carlos Gutiérrez,Legal impediment,No Eligibility,2015-09-01,2015-12-31,Jonás Manuel Gutiérrez,RC Deportivo La Coruña,25997.0,219.0,4,17
+Rodrigo Moreno,Suspension,Red Card Suspension,2016-05-09,2016-08-25,Rodrigo Moreno Machado,Valencia,5718.0,207.0,2,24
+Sofiane Féghouli,Suspension,Suspended,2016-04-11,2016-04-21,Sofiane Feghouli,Valencia,18724.0,207.0,2,56
+Pablo Piatti,Injury,Muscle Injury,2016-04-02,2016-05-08,Pablo Daniel Piatti,Valencia,6763.0,207.0,3,8
+Diego Alves,Injury,Leg Injury,2016-03-15,2016-03-22,Diego Alves Carreira,Valencia,25144.0,207.0,3,42
+Dani Parejo,Injury,Hamstring Injury,2016-03-15,2016-04-02,Daniel Parejo Muñoz,Valencia,6595.0,207.0,3,28
+João Cancelo,Injury,Hamstring Injury,2016-03-13,2016-04-15,João Pedro Cavaco Cancelo,Valencia,7005.0,207.0,3,28
+Aderllan Santos,Suspension,Indirect Card Suspension,2016-03-07,2016-03-14,Aderllan Leandro de Jesus Santos,Valencia,27482.0,207.0,2,23
+Enzo Pérez,Injury,Muscle Injury,2016-03-06,2016-04-10,Enzo Nicolás Pérez,Valencia,5741.0,207.0,3,8
+José Gayà,Suspension,Yellow Card Suspension,2016-03-03,2016-03-07,José Luis Gayà Peña,Valencia,6596.0,207.0,2,1
+Aymen Abdennour,Injury,Hamstring Injury,2016-02-13,2016-03-02,Aymen Abdennour,Valencia,4406.0,207.0,3,28
+Zakaria Bakkali,Injury,Groin Injury,2016-02-13,2016-08-03,Zakaria Bakkali,Valencia,6725.0,207.0,3,15
+André Gomes,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,André Filipe Tavares Gomes,Valencia,10802.0,207.0,2,1
+José Gayà,Suspension,Indirect Card Suspension,2016-02-08,2016-02-15,José Luis Gayà Peña,Valencia,6596.0,207.0,2,23
+Enzo Pérez,Injury,Cheekbone Fracture,2016-01-30,2016-02-09,Enzo Nicolás Pérez,Valencia,5741.0,207.0,3,57
+Enzo Pérez,Injury,Twisted knee,2016-01-10,2016-01-24,Enzo Nicolás Pérez,Valencia,5741.0,207.0,3,58
+Shkodran Mustafi,Injury,Muscle Injury,2015-12-21,2016-01-07,Shkodran Mustafi,Valencia,3638.0,207.0,3,8
+Lucas Orbán,Suspension,Red Card Suspension,2015-12-14,2015-12-21,Lucas Alfonso Orbán Alegre,Valencia,27480.0,207.0,2,24
+Shkodran Mustafi,Suspension,Yellow Card Suspension,2015-12-11,2016-02-19,Shkodran Mustafi,Valencia,3638.0,207.0,2,1
+Zakaria Bakkali,Injury,Groin Injury,2015-12-05,2016-01-14,Zakaria Bakkali,Valencia,6725.0,207.0,3,15
+Lucas Orbán,Injury,Muscle Injury,2015-12-03,2015-12-09,Lucas Alfonso Orbán Alegre,Valencia,27480.0,207.0,3,8
+João Cancelo,Suspension,Indirect Card Suspension,2015-11-30,2015-12-07,João Pedro Cavaco Cancelo,Valencia,7005.0,207.0,2,23
+Rúben Vezo,Suspension,Red Card Suspension,2015-11-26,2016-06-30,Rúben Miguel Nunes Vezo,Valencia,6592.0,207.0,2,24
+André Gomes,Injury,Muscle Injury,2015-11-23,2015-12-10,André Filipe Tavares Gomes,Valencia,10802.0,207.0,3,8
+Pablo Piatti,Injury,Hamstring Injury,2015-11-08,2015-12-05,Pablo Daniel Piatti,Valencia,6763.0,207.0,3,28
+Antonio Barragán,Injury,Leg Injury,2015-11-08,2015-12-11,Antonio Barragán Fernández,Valencia,6663.0,207.0,3,42
+Enzo Pérez,Suspension,Yellow Card Suspension,2015-11-02,2015-11-09,Enzo Nicolás Pérez,Valencia,5741.0,207.0,2,1
+Rodrigo Moreno,Injury,Cruciate Ligament Injury,2015-10-27,2015-12-27,Rodrigo Moreno Machado,Valencia,5718.0,207.0,3,48
+Aymen Abdennour,Injury,Hamstring Injury,2015-09-29,2015-11-18,Aymen Abdennour,Valencia,4406.0,207.0,3,28
+Zakaria Bakkali,Legal impediment,No Eligibility,2015-09-15,2015-12-10,Zakaria Bakkali,Valencia,6725.0,207.0,4,17
+Mathew Ryan,Injury,Meniscus Injury,2015-08-31,2015-11-14,Mathew Ryan,Valencia,3240.0,207.0,3,59
+Antonio Barragán,Suspension,Indirect Card Suspension,2015-08-30,2015-09-14,Antonio Barragán Fernández,Valencia,6663.0,207.0,2,23
+Abraham González,Injury,Hamstring Injury,2016-04-22,2016-05-19,Abraham González Casanova,Espanyol,27148.0,214.0,3,28
+Rubén Duarte,Injury,Flu,2016-04-21,2016-04-26,Rubén Duarte Sánchez,Espanyol,6612.0,214.0,3,60
+Óscar Duarte,Injury,Hamstring Injury,2016-04-18,2016-05-02,Óscar Esau Duarte Gaitán,Espanyol,5598.0,214.0,3,28
+José Alberto Cañas,Injury,Achilles Tendon Irritation,2016-04-07,2016-05-02,José Alberto Cañas Ruiz Herrera,Espanyol,18407.0,214.0,3,61
+Víctor Sánchez,Suspension,Indirect Card Suspension,2016-03-07,2016-03-14,Víctor Sánchez Mata,Espanyol,6758.0,214.0,2,23
+Pape Diop,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Papa Kouly Diop,Espanyol,6867.0,214.0,2,1
+Felipe Caicedo,Suspension,Yellow Card Suspension,2016-02-22,2016-02-29,Felipe Salvador Caicedo Corozo,Espanyol,7781.0,214.0,2,1
+Mamadou Sylla,Injury,Torn Muscle Fiber,2016-02-13,2016-03-09,Mamadou Sylla Diallo,Espanyol,23924.0,214.0,3,20
+Giedrius Arlauskis,Injury,Adductor Injury,2016-02-08,2016-03-01,Giedrius Arlauskis,Espanyol,31904.0,214.0,3,38
+Hernán Pérez,Injury,Hamstring Strain,2016-02-08,2016-02-24,Hernán Arsenio Pérez González,Espanyol,6838.0,214.0,3,30
+Rober Correa,Injury,Abdominal Problems,2016-02-03,2016-03-10,Roberto Antonio Correa Silva,Espanyol,23974.0,214.0,3,62
+Víctor Álvarez,Suspension,Yellow Card Suspension,2016-01-25,2016-02-01,Víctor Guillermo Álvarez Delgado,Espanyol,27241.0,214.0,2,1
+Gerard Moreno,Suspension,Indirect Card Suspension,2016-01-25,2016-02-01,Gerard Moreno Balaguero,Espanyol,6766.0,214.0,2,23
+Pape Diop,Suspension,Red Card Suspension,2016-01-07,2016-01-14,Papa Kouly Diop,Espanyol,6867.0,214.0,2,24
+Hernán Pérez,Suspension,Indirect Card Suspension,2016-01-07,2016-01-14,Hernán Arsenio Pérez González,Espanyol,6838.0,214.0,2,23
+José Alberto Cañas,Injury,Broken Toe,2015-12-31,2016-03-31,José Alberto Cañas Ruiz Herrera,Espanyol,18407.0,214.0,3,40
+Víctor Sánchez,Injury,Torn Muscle Fiber,2015-12-30,2016-01-30,Víctor Sánchez Mata,Espanyol,6758.0,214.0,3,20
+Pape Diop,Suspension,Yellow Card Suspension,2015-12-21,2015-12-31,Papa Kouly Diop,Espanyol,6867.0,214.0,2,1
+Enzo Roco,Suspension,Yellow Card Suspension,2015-12-07,2015-12-14,Enzo Pablo Roco Roco,Espanyol,16456.0,214.0,2,1
+Víctor Sánchez,Suspension,Yellow Card Suspension,2015-11-23,2015-11-30,Víctor Sánchez Mata,Espanyol,6758.0,214.0,2,1
+Rubén Duarte,Injury,Virus,2015-11-04,2015-11-17,Rubén Duarte Sánchez,Espanyol,6612.0,214.0,3,63
+Rober Correa,Suspension,Indirect Card Suspension,2015-11-02,2015-11-09,Roberto Antonio Correa Silva,Espanyol,23974.0,214.0,2,23
+Anaitz Arbilla,Injury,Achilles tendon problems,2015-10-26,2016-07-22,Anaitz Arbilla Zabala,Espanyol,6709.0,214.0,3,45
+Víctor Sánchez,Suspension,Indirect Card Suspension,2015-10-24,2015-11-02,Víctor Sánchez Mata,Espanyol,6758.0,214.0,2,23
+Gerard Moreno,Injury,Hamstring Injury,2015-10-05,2015-11-16,Gerard Moreno Balaguero,Espanyol,6766.0,214.0,3,28
+Gerard Moreno,Injury,Hamstring Injury,2015-10-03,2015-11-17,Gerard Moreno Balaguero,Espanyol,6766.0,214.0,3,28
+Joan Jordán,Injury,Fever,2015-09-30,2015-10-31,Joan Jordán Moreno,Espanyol,6701.0,214.0,3,64
+Pape Diop,Suspension,Indirect Card Suspension,2015-09-28,2015-10-05,Papa Kouly Diop,Espanyol,6867.0,214.0,2,23
+Pape Diop,Injury,Ankle Injury,2015-09-27,2015-10-31,Papa Kouly Diop,Espanyol,6867.0,214.0,3,22
+Gonzalo Escalante,Suspension,Yellow Card Suspension,2016-05-14,2016-08-22,Gonzalo Escalante,Eibar,6712.0,322.0,2,1
+Aleksandar Pantic,Injury,Hip Bruise,2016-03-17,2016-03-23,Aleksandar Pantić,Eibar,27239.0,322.0,3,65
+Josip Radosevic,Suspension,Indirect Card Suspension,2016-03-14,2016-03-21,Josip Radošević,Eibar,24453.0,322.0,2,23
+Saúl Berjón,Legal impediment,Special Leave,2016-03-10,2016-03-15,Saúl Berjón Pérez,Eibar,24070.0,322.0,4,66
+Dani García,Suspension,Yellow Card Suspension,2016-02-15,2016-02-22,Daniel García Carrillo,Eibar,6775.0,322.0,2,1
+Keko Gontán,Injury,Torn Muscle Fiber,2016-02-10,2016-03-16,Sergio Gontán Gallardo,Eibar,6742.0,322.0,3,20
+David Juncà,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,David Juncà Reñé,Eibar,6776.0,322.0,2,1
+Kike García,Legal impediment,No Eligibility,2016-02-03,2016-06-30,Diego Mainz García,Granada,26781.0,1049.0,4,17
+Aleksandar Pantic,Injury,Hamstring Strain,2016-01-30,2016-02-11,Aleksandar Pantić,Eibar,27239.0,322.0,3,30
+Antonio Luna,Injury,Thigh Muscle Strain,2016-01-23,2016-03-29,Antonio Manuel Luna Rodríguez,Eibar,6675.0,322.0,3,67
+Gonzalo Escalante,Suspension,Red Card Suspension,2016-01-08,2016-01-15,Gonzalo Escalante,Eibar,6712.0,322.0,2,24
+Izet Hajrovic,Suspension,Red Card Suspension,2016-01-08,2016-01-14,Izet Hajrović,Eibar,9403.0,322.0,2,24
+Gonzalo Escalante,Suspension,Yellow Card Suspension,2015-11-30,2015-12-07,Gonzalo Escalante,Eibar,6712.0,322.0,2,1
+Keko Gontán,Suspension,Indirect Card Suspension,2015-11-23,2015-11-30,Sergio Gontán Gallardo,Eibar,6742.0,322.0,2,23
+Ander Capa,Suspension,Yellow Card Suspension,2015-11-09,2015-11-23,Ander Capa Rodríguez,Eibar,6699.0,322.0,2,1
+Asier Riesgo,Injury,Muscle Injury,2015-11-07,2015-11-17,Asier Riesgo Unamuno,Eibar,10763.0,322.0,3,8
+Dani García,Suspension,Yellow Card Suspension,2015-11-02,2015-11-09,Daniel García Carrillo,Eibar,6775.0,322.0,2,1
+Adrián González,Injury,Hamstring Injury,2015-10-20,2015-11-16,Adrián González Morales,Eibar,6557.0,322.0,3,28
+Gonzalo Escalante,Suspension,Yellow Card Suspension,2015-09-24,2015-09-28,Gonzalo Escalante,Eibar,6712.0,322.0,2,1
+Antonio Luna,Injury,Hamstring Injury,2015-09-20,2015-10-21,Antonio Manuel Luna Rodríguez,Eibar,6675.0,322.0,3,28
+Isaac Success,Injury,Facial Fracture,2016-04-22,2016-08-26,Isaac Ajayi Success,Granada,6918.0,1049.0,3,68
+Isaac Success,Suspension,Yellow Card Suspension,2016-04-09,2016-04-18,Isaac Ajayi Success,Granada,6918.0,1049.0,2,1
+Rubén Rochina,Injury,Fever,2016-04-02,2016-04-05,Rubén Rochina Naixes,Granada,6680.0,1049.0,3,64
+Miguel Lopes,Injury,Ankle Injury,2016-03-22,2016-04-03,Hugo Miguel Almeida Costa Lopes,Granada,20064.0,1049.0,3,22
+Isaac Success,Suspension,Indirect Card Suspension,2016-03-20,2016-04-04,Isaac Ajayi Success,Granada,6918.0,1049.0,2,23
+David Lombán,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,David Rodríguez Lombán,Granada,6702.0,1049.0,2,1
+Andrés Fernández,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,Andrés Eduardo Fernández Moreno,Granada,8697.0,1049.0,2,1
+Adalberto Peñaranda,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Adalberto Peñaranda Maestre,Granada,6847.0,1049.0,2,1
+Rubén Pérez,Suspension,Yellow Card Suspension,2016-02-22,2016-02-29,Rubén Salvador Pérez Del Mármol,Granada,6599.0,1049.0,2,1
+Miguel Lopes,Suspension,Yellow Card Suspension,2016-02-08,2016-02-15,Hugo Miguel Almeida Costa Lopes,Granada,20064.0,1049.0,2,1
+Edgar Méndez,Injury,Hamstring Strain,2016-01-26,2016-02-17,Edgar Antonio Méndez Ortega,Granada,26387.0,1049.0,3,30
+Rubén Rochina,Suspension,Yellow Card Suspension,2016-01-11,2016-01-18,Rubén Rochina Naixes,Granada,6680.0,1049.0,2,1
+Cristiano Biraghi,Suspension,Indirect Card Suspension,2016-01-01,2016-01-04,Cristiano Biraghi,Granada,7158.0,1049.0,2,23
+Isaac Success,Suspension,Yellow Card Suspension,2015-12-21,2015-12-31,Isaac Ajayi Success,Granada,6918.0,1049.0,2,1
+Musavu-King,Injury,Knock,2015-12-10,2015-12-29,Yroundou Musavu-King,,,,3,16
+Rubén Pérez,Suspension,Yellow Card Suspension,2015-11-23,2015-11-30,Rubén Salvador Pérez Del Mármol,Granada,6599.0,1049.0,2,1
+Isaac Success,Injury,Hamstring Injury,2015-11-04,2015-11-21,Isaac Ajayi Success,Granada,6918.0,1049.0,3,28
+Nicolás López,Injury,Toe Injury,2015-10-31,2015-11-21,Nicolás Federico López Alonso,Granada,25126.0,1049.0,3,26
+Musavu-King,Injury,Hamstring Injury,2015-10-30,2015-11-15,Yroundou Musavu-King,,,,3,28
+Dória,Suspension,Indirect Card Suspension,2015-10-20,2015-10-26,Matheus Dória Macedo,Granada,4418.0,1049.0,2,23
+Miguel Lopes,Injury,Hamstring Injury,2015-10-05,2015-10-22,Hugo Miguel Almeida Costa Lopes,Granada,20064.0,1049.0,3,28
+Rubén Pérez,Injury,Knee Injury,2015-09-13,2015-10-12,Rubén Salvador Pérez Del Mármol,Granada,6599.0,1049.0,3,37
+Raúl Baena,Injury,Cruciate Ligament Tear,2016-04-20,2016-12-05,José Raúl Baena Urdiales,Rayo Vallecano,26607.0,360.0,3,52
+Diego Llorente,Suspension,Yellow Card Suspension,2016-03-14,2016-03-21,Diego Javier Llorente Ríos,Rayo Vallecano,6713.0,360.0,2,1
+Diego Llorente,Suspension,Red Card Suspension,2016-03-03,2016-03-07,Diego Javier Llorente Ríos,Rayo Vallecano,6713.0,360.0,2,24
+Miku,Injury,Hamstring Injury,2016-02-27,2016-03-08,Nicolás Ladislao Fedor Flores,Rayo Vallecano,26685.0,360.0,3,28
+Jozabed Sánchez,Injury,Ankle Injury,2016-02-21,2016-04-15,Jozabed Sánchez Ruiz,Rayo Vallecano,6852.0,360.0,3,22
+Quini,Suspension,Yellow Card Suspension,2016-02-15,2016-02-22,Joaquín José Marín Ruiz,Rayo Vallecano,24138.0,360.0,2,1
+Raúl Baena,Injury,Hamstring Strain,2016-02-07,2016-02-18,José Raúl Baena Urdiales,Rayo Vallecano,26607.0,360.0,3,30
+Aras Özbiliz,Injury,Unknown Injury,2016-01-31,2016-02-22,Aras Özbiliz,Rayo Vallecano,16073.0,360.0,3,69
+Adrián Embarba,Injury,Knock,2016-01-18,2016-02-08,Adrián Embarba Blázquez,Rayo Vallecano,11539.0,360.0,3,16
+Diego Llorente,Suspension,Yellow Card Suspension,2016-01-04,2016-01-11,Diego Javier Llorente Ríos,Rayo Vallecano,6713.0,360.0,2,1
+Raúl Baena,Suspension,Indirect Card Suspension,2015-12-21,2015-12-31,José Raúl Baena Urdiales,Rayo Vallecano,26607.0,360.0,2,23
+Nacho Martínez,Suspension,Yellow Card Suspension,2015-12-21,2015-12-31,José Ignacio Martínez García,Rayo Vallecano,11298.0,360.0,2,1
+Patrick Ebert,Injury,Achilles tendon rupture,2015-12-08,2016-06-30,Patrick Ebert,Rayo Vallecano,9246.0,360.0,3,33
+Raúl Baena,Suspension,Yellow Card Suspension,2015-12-07,2015-12-14,José Raúl Baena Urdiales,Rayo Vallecano,26607.0,360.0,2,1
+Ousseynou Cissé,Injury,Flu,2015-10-16,2015-11-30,Ousseynou Cissé,,,,3,60
+Patrick Ebert,Suspension,Red Card Suspension,2015-09-15,2015-10-05,Patrick Ebert,Rayo Vallecano,9246.0,360.0,2,24
+Adrián Embarba,Injury,Foot Injury,2015-08-10,2015-09-10,Adrián Embarba Blázquez,Rayo Vallecano,11539.0,360.0,3,12
+Emiliano Buendía,Suspension,Red Card Suspension,2016-05-15,2016-08-20,Emiliano Buendía,Getafe,11813.0,216.0,2,24
+Juan Cala,Suspension,Yellow Card Suspension,2016-05-15,2016-08-21,Juan Torres Ruiz,Getafe,6861.0,216.0,2,1
+Víctor Rodríguez,Injury,Leg Injury,2016-05-04,2016-05-25,Víctor Rodríguez Romero,Getafe,15893.0,216.0,3,42
+Juan Cala,Injury,Knock,2016-04-15,2016-05-01,Juan Torres Ruiz,Getafe,6861.0,216.0,3,16
+Emiliano Velázquez,Injury,Muscle Injury,2016-03-18,2016-05-08,Emiliano Daniel Velázquez Maldonado,Getafe,17054.0,216.0,3,8
+Juan Cala,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Juan Torres Ruiz,Getafe,6861.0,216.0,2,1
+Pablo Sarabia,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Pablo Sarabia García,Getafe,6720.0,216.0,2,1
+Álvaro Vázquez,Suspension,Yellow Card Suspension,2016-03-07,2016-03-14,Álvaro Vázquez García,Getafe,24035.0,216.0,2,1
+Juan Cala,Suspension,Indirect Card Suspension,2016-02-01,2016-02-08,Juan Torres Ruiz,Getafe,6861.0,216.0,2,23
+Pablo Sarabia,Injury,Shoulder Injury,2016-01-29,2016-02-11,Pablo Sarabia García,Getafe,6720.0,216.0,3,70
+Damián Suárez,Suspension,Red Card Suspension,2015-11-09,2015-11-24,Damián Nicolás Suárez Suárez,Getafe,6627.0,216.0,2,24
+Carlos Vigaray,Injury,Calf Injury,2015-11-03,2015-11-17,Carlos Martín Vigaray,Getafe,6856.0,216.0,3,2
+Álvaro Medrán,Injury,Broken Leg,2015-10-09,2016-02-08,Álvaro Medrán Just,Getafe,6736.0,216.0,3,41
+Juan Cala,Injury,Meniscus Injury,2015-09-10,2015-10-18,Juan Torres Ruiz,Getafe,6861.0,216.0,3,59
+Santiago Vergini,Suspension,Indirect Card Suspension,2015-08-24,2015-08-31,Santiago Vergini,Getafe,27403.0,216.0,2,23
